@@ -2,6 +2,31 @@
   "lang": "ko",
   "packs": [
     {
+      "modId": "Bureaucracy",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "a01a982181c712b3e7db911844db9aec2500ea04049e5ac7b3f2955d86b72763",
+              "sizeB": 211
+            },
+            {
+              "path": "pack.json",
+              "sha256": "5fdb03e9f3cd1808acf6142ec199b8670d08723f9d15caaaf1c8a25d8b3b7f69",
+              "sizeB": 302
+            }
+          ],
+          "keysTarget": 3,
+          "keysTranslated": 3,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/Bureaucracy/ko/variants/2026-08-16-gemini31flashlite-csh/",
+          "srcSha256": "v1:sha256:e8113952154b41a07eced1774e4ed05a890f1062dbaca54d9c33aff31b6cd82c",
+          "variantId": "2026-08-16-gemini31flashlite-csh"
+        }
+      ]
+    },
+    {
       "modId": "CommunityResourcePack",
       "variants": [
         {
