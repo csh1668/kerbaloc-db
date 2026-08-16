@@ -1,0 +1,64 @@
+name: publish
+on:
+  push:
+    branches: [main]
+    paths:
+      - "packs/**"
+      - "glossary/**"
+      - "blacklist.json"
+      - ".github/workflows/publish.yml"
+permissions:
+  contents: write
+concurrency:
+  group: publish
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: DB 레포 체크아웃
+        uses: actions/checkout@v4
+        with:
+          path: db
+      - name: kerbaloc 도구 체크아웃
+        uses: actions/checkout@v4
+        with:
+          repository: csh1668/kerbaloc
+          path: tool
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: tool/kerbaloc
+      - name: 전수 검증
+        run: cargo run -q -p kerbaloc-cli --manifest-path tool/kerbaloc/Cargo.toml -- db validate db
+      - name: 인덱스 재생성
+        run: cargo run -q -p kerbaloc-cli --manifest-path tool/kerbaloc/Cargo.toml -- db index db --out db/index/ko.json
+      - name: 인덱스 커밋 (변경 시)
+        id: commit
+        working-directory: db
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add index/ko.json
+          if git diff --cached --quiet; then
+            echo "인덱스 변경 없음"
+          else
+            git commit -m "chore(index): rebuild [skip ci]"
+            git push
+          fi
+          echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
+      - name: manifest 생성
+        working-directory: db
+        run: |
+          SHA="${{ steps.commit.outputs.sha }}"
+          HASH=$(sha256sum index/ko.json | cut -d' ' -f1)
+          printf '{"schema":"kerbaloc/manifest@1","commit":"%s","indexSha256":"%s","repo":"csh1668/kerbaloc-db"}\n' "$SHA" "$HASH" > /tmp/manifest.json
+          cat /tmp/manifest.json
+      - name: db-latest 릴리스 갱신
+        working-directory: db
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh release view db-latest > /dev/null 2>&1 || gh release create db-latest --title "KerbaLoc DB (rolling)" --notes "kerbaloc 클라이언트가 사용하는 최신 인덱스 포인터. 직접 다운로드는 kerbaloc db install 사용."
+          gh release upload db-latest /tmp/manifest.json --clobber
