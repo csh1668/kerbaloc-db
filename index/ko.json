@@ -1,0 +1,31 @@
+{
+  "lang": "ko",
+  "packs": [
+    {
+      "modId": "CommunityResourcePack",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "d7b6778cbfef622810fdd853a00487fcee104e313b84a30a5daf527d8e86addf",
+              "sizeB": 10573
+            },
+            {
+              "path": "pack.json",
+              "sha256": "f82b1ebccaea2266338653fdb600e47e3befe5a4d8b808979190fba4090be655",
+              "sizeB": 318
+            }
+          ],
+          "keysTarget": 240,
+          "keysTranslated": 240,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/CommunityResourcePack/ko/variants/2026-08-16-gemini31flashlite-spike/",
+          "srcSha256": "v1:sha256:62d1c3f7c0fe3820b43abde9d32834c6eb2429606f1ed331fdef0bf2ca124383",
+          "variantId": "2026-08-16-gemini31flashlite-spike"
+        }
+      ]
+    }
+  ],
+  "schema": "kerbaloc/index@1"
+}

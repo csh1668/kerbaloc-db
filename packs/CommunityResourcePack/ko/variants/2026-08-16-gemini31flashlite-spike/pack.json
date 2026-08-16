@@ -1,0 +1,10 @@
+{
+  "keys_target": 240,
+  "keys_translated": 240,
+  "lang": "ko",
+  "mod_id": "CommunityResourcePack",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:62d1c3f7c0fe3820b43abde9d32834c6eb2429606f1ed331fdef0bf2ca124383",
+  "variant_id": "2026-08-16-gemini31flashlite-spike"
+}

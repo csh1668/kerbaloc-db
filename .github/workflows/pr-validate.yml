@@ -1,0 +1,35 @@
+name: pr-validate
+on:
+  pull_request:
+    branches: [main]
+permissions:
+  contents: read
+concurrency:
+  group: pr-${{ github.event.pull_request.number }}
+  cancel-in-progress: true
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: DB 레포 체크아웃
+        uses: actions/checkout@v4
+        with:
+          path: db
+      - name: kerbaloc 도구 체크아웃
+        uses: actions/checkout@v4
+        with:
+          repository: csh1668/kerbaloc
+          path: tool
+      - uses: dtolnay/rust-toolchain@stable
+      - uses: Swatinem/rust-cache@v2
+        with:
+          workspaces: tool/kerbaloc
+      - name: DB 검증
+        run: cargo run -q -p kerbaloc-cli --manifest-path tool/kerbaloc/Cargo.toml -- db validate db
+      - name: 인덱스 최신성 확인
+        run: |
+          cargo run -q -p kerbaloc-cli --manifest-path tool/kerbaloc/Cargo.toml -- db index db --out /tmp/index.json
+          if [ -f db/index/ko.json ] && ! diff -q /tmp/index.json db/index/ko.json > /dev/null; then
+            echo "::warning::index/ko.json이 팩 내용과 불일치 — 머지 후 publish가 자동 갱신합니다"
+          fi

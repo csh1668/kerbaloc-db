@@ -1,0 +1,18 @@
+{
+  "schema": "kerbaloc/blacklist@1",
+  "mods": [],
+  "keys": [],
+  "patterns": [
+    {
+      "id": "tag-reference",
+      "modId": "*",
+      "match": "value",
+      "regex": "^#(?:autoLOC|LOC)_[A-Za-z0-9_]+$",
+      "action": "keepEnglish",
+      "severity": "error",
+      "reason": "값 전체가 다른 태그 참조 — 번역 시 참조 파손",
+      "addedAt": "2026-08-16",
+      "addedBy": "csh1668"
+    }
+  ]
+}
