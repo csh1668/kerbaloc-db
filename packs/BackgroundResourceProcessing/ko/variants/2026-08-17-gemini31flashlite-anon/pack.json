@@ -1,0 +1,10 @@
+{
+  "keys_target": 39,
+  "keys_translated": 39,
+  "lang": "ko",
+  "mod_id": "BackgroundResourceProcessing",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:9ab17566edd80b14c904ed91b2158ed2944fbb9c9b8a0f337a3f4f237f96bcd7",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

@@ -1,0 +1,10 @@
+{
+  "keys_target": 136,
+  "keys_translated": 136,
+  "lang": "ko",
+  "mod_id": "NearFutureSolar",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:4e7363e715d547cd8c4fe93a1dfe9cbe85cd7171e27a31c24577cb43cf24fe18",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

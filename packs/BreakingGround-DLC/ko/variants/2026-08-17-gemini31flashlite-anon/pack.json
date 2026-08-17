@@ -1,0 +1,10 @@
+{
+  "keys_target": 724,
+  "keys_translated": 724,
+  "lang": "ko",
+  "mod_id": "BreakingGround-DLC",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:dd5a05a88afb73bca0ba4b471295e2a4222c1d12c9c5b4dc5d132ea76c76763b",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

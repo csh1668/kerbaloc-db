@@ -1,0 +1,10 @@
+{
+  "keys_target": 103,
+  "keys_translated": 103,
+  "lang": "ko",
+  "mod_id": "CryoTanks",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:2a8bc2b644220fa278f3bdf783ac128de2d1a37eb0c358f38073d93c55fdc443",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

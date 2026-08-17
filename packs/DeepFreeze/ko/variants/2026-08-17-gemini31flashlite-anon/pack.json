@@ -1,0 +1,10 @@
+{
+  "keys_target": 206,
+  "keys_translated": 206,
+  "lang": "ko",
+  "mod_id": "DeepFreeze",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:d10ace2d6a8b45cc4b1f650c49b139e1aa8d3afd0bc9f7eada581aadeda4eebf",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

@@ -1,0 +1,10 @@
+{
+  "keys_target": 1016,
+  "keys_translated": 1016,
+  "lang": "ko",
+  "mod_id": "NewTantares",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:cc0ef3b63bb5f6cce3ebd70ab597eeda476fc0b02959e4961510899c2b739e52",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

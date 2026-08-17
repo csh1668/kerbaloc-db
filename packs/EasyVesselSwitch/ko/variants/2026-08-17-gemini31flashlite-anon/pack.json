@@ -1,0 +1,10 @@
+{
+  "keys_target": 25,
+  "keys_translated": 25,
+  "lang": "ko",
+  "mod_id": "EasyVesselSwitch",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:bd68c737cd5bacee0f70399c7ccbfbf14a6ac63ba04372f9b6e3edaeba19286d",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

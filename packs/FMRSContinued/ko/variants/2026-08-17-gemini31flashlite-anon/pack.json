@@ -1,0 +1,10 @@
+{
+  "keys_target": 42,
+  "keys_translated": 42,
+  "lang": "ko",
+  "mod_id": "FMRSContinued",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:a5542fd8c69840536273846e543b2afb20bc3227a005656023ff73c822882a2d",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

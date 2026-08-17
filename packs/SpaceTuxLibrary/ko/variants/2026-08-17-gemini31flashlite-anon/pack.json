@@ -1,0 +1,10 @@
+{
+  "keys_target": 18,
+  "keys_translated": 18,
+  "lang": "ko",
+  "mod_id": "SpaceTuxLibrary",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:170ca0ffd2e317e02cf646ec0e80e18ed51002ce207166ea8560538d5f33a7f9",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

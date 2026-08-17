@@ -1,0 +1,10 @@
+{
+  "keys_target": 25,
+  "keys_translated": 25,
+  "lang": "ko",
+  "mod_id": "DockRotate",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:f366699a8ee3a3a6086412f70f4eee98d68af7ac82d81edd585ade6ddd8d3572",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

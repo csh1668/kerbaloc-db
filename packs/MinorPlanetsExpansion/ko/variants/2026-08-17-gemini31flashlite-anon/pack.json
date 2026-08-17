@@ -1,0 +1,10 @@
+{
+  "keys_target": 125,
+  "keys_translated": 125,
+  "lang": "ko",
+  "mod_id": "MinorPlanetsExpansion",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:34a8bea459dafbc16708bcdb156c39238fea19e4b6635dc43589e1879b9cee51",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

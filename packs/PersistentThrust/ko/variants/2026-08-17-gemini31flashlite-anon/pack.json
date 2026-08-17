@@ -1,0 +1,10 @@
+{
+  "keys_target": 23,
+  "keys_translated": 23,
+  "lang": "ko",
+  "mod_id": "PersistentThrust",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:501711505349374f92cbb1471086277e380e0e7c551857fa5c6975d381a1d132",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

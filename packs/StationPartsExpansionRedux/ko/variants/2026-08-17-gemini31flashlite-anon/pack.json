@@ -1,0 +1,10 @@
+{
+  "keys_target": 813,
+  "keys_translated": 813,
+  "lang": "ko",
+  "mod_id": "StationPartsExpansionRedux",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:fbb71e7000cd0afccfac7354986c093b9fbf05903a53fdec4e5b0aa8b70ee8ee",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

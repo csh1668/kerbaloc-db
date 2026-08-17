@@ -1,0 +1,10 @@
+{
+  "keys_target": 53,
+  "keys_translated": 53,
+  "lang": "ko",
+  "mod_id": "FreeIva",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:232e15fd7ab7e8b40656e25ad8da5c44b7b0edeccfdfa11843f57a59418be40f",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

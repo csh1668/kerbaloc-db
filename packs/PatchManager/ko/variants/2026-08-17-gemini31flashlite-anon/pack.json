@@ -1,0 +1,10 @@
+{
+  "keys_target": 25,
+  "keys_translated": 25,
+  "lang": "ko",
+  "mod_id": "PatchManager",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:4b4af370b0882f7710258278560789a64f5a2c8b02640074b07200a7ff7345b5",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

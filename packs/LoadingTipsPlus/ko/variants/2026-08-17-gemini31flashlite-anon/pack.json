@@ -1,0 +1,10 @@
+{
+  "keys_target": 1,
+  "keys_translated": 1,
+  "lang": "ko",
+  "mod_id": "LoadingTipsPlus",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:d33e5326f42049a6e7a44fc2b35e64b19b4c1665e3655c61afdd38b3c9694ec3",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

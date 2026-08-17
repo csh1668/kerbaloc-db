@@ -1,0 +1,10 @@
+{
+  "keys_target": 128,
+  "keys_translated": 128,
+  "lang": "ko",
+  "mod_id": "ReStock",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:4fee6dd69efaa418418c15c151bdd7fe7a6581e6d7147f7466e7ede8e30ccb77",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

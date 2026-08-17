@@ -1,0 +1,10 @@
+{
+  "keys_target": 302,
+  "keys_translated": 302,
+  "lang": "ko",
+  "mod_id": "NearFutureExploration",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:553a700c732464668d733c1c089b3116580a22d30f5c128be4da79cce8deba73",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

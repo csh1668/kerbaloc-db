@@ -1,0 +1,10 @@
+{
+  "keys_target": 2066,
+  "keys_translated": 2066,
+  "lang": "ko",
+  "mod_id": "CommunityPartsTitles",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:eb4a4172d58875c4f45d7055ca1af37824c5d5ebe1b18056e886532d4d6653db",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

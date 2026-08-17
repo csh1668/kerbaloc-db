@@ -1,0 +1,10 @@
+{
+  "keys_target": 40,
+  "keys_translated": 40,
+  "lang": "ko",
+  "mod_id": "ConnectedLivingSpace",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:b88153df9ad193c56421aa18a8c617ce76bc2207e9837cf5fec98689b2fbeaf2",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

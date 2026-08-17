@@ -1,0 +1,10 @@
+{
+  "keys_target": 357,
+  "keys_translated": 357,
+  "lang": "ko",
+  "mod_id": "FerramAerospaceResearchContinued",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:f06a2059aaac2a7851701103ad59bdf5a0f532da94f1623d1c4d6c47daf2f76a",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

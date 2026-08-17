@@ -1,0 +1,10 @@
+{
+  "keys_target": 155,
+  "keys_translated": 155,
+  "lang": "ko",
+  "mod_id": "NearFutureSpacecraft",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:7a61eb4e87a98d2da7f9e1a26ca20679477296c747e64e32f9e8f1bd0501a071",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

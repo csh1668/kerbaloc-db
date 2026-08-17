@@ -1,0 +1,10 @@
+{
+  "keys_target": 87,
+  "keys_translated": 87,
+  "lang": "ko",
+  "mod_id": "HeatControl",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:7dbf0c372c856cf193eac0b9247e27ed94c5cefbcfc2f4f7f5fb47e637f7150a",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}
