@@ -1,0 +1,10 @@
+{
+  "keys_target": 50,
+  "keys_translated": 50,
+  "lang": "ko",
+  "mod_id": "Astrogator",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:5f9fbe911f9f0cff1be8f478c3ed4702a049ca071c1389f04e2c202e3896e670",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}
