@@ -1,0 +1,10 @@
+{
+  "keys_target": 55,
+  "keys_translated": 55,
+  "lang": "ko",
+  "mod_id": "AGExt",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:bd9d5413b08e69a46feefef7cff6558cf7160c6391bbc3e800da77aaa3c18ae2",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}
