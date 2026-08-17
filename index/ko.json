@@ -2,6 +2,81 @@
   "lang": "ko",
   "packs": [
     {
+      "modId": "AGExt",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "159c547824f89d64e311bfff19178c74d136a133ce7ad095f7df498c9df9a954",
+              "sizeB": 2752
+            },
+            {
+              "path": "pack.json",
+              "sha256": "f9a67aef5383773c40469b0ff851263c52ca0e5d233171665ece68e65739a282",
+              "sizeB": 299
+            }
+          ],
+          "keysTarget": 55,
+          "keysTranslated": 55,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/AGExt/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:bd9d5413b08e69a46feefef7cff6558cf7160c6391bbc3e800da77aaa3c18ae2",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "AlcoholicAeronautics",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "50fbb08a9b16a6403b12ffe75e44f7debed5dd43234f9bb9854287f59ee03437",
+              "sizeB": 5283
+            },
+            {
+              "path": "pack.json",
+              "sha256": "0ff932bbaf2a5d8c5198ef28f2712ca780ac966db55770d54e5434f29eab8e88",
+              "sizeB": 314
+            }
+          ],
+          "keysTarget": 31,
+          "keysTranslated": 31,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/AlcoholicAeronautics/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:a728f1167be54b2c3d3a8d849701eef5730f09ae29d165300cc80e2a6b58a425",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "Astrogator",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "71716b59c4df7183f372ff6cde1bcbcb588201f43e64b17b8fc162031708d04d",
+              "sizeB": 3235
+            },
+            {
+              "path": "pack.json",
+              "sha256": "e9efbd7a3a76fc85cd71038b878044257567c1c0be35b5c2e6d74cb16b2832ee",
+              "sizeB": 304
+            }
+          ],
+          "keysTarget": 50,
+          "keysTranslated": 50,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/Astrogator/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:5f9fbe911f9f0cff1be8f478c3ed4702a049ca071c1389f04e2c202e3896e670",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
       "modId": "Bureaucracy",
       "variants": [
         {
