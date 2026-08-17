@@ -1,0 +1,10 @@
+{
+  "keys_target": 12030,
+  "keys_translated": 12026,
+  "lang": "ko",
+  "mod_id": "Squad",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:39295cfe2f6b020c3d1fce86e54f82ea512c803aa6b04e56a291c04fc595fd18",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

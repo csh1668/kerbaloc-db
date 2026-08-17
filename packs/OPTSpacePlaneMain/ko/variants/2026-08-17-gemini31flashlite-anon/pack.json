@@ -1,0 +1,10 @@
+{
+  "keys_target": 174,
+  "keys_translated": 174,
+  "lang": "ko",
+  "mod_id": "OPTSpacePlaneMain",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:48f794e96c81857bb5e0bcd6e223e6245811ae836d73885382648c3cd3bde54b",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

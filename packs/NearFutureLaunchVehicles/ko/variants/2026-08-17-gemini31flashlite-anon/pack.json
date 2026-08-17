@@ -1,0 +1,10 @@
+{
+  "keys_target": 536,
+  "keys_translated": 536,
+  "lang": "ko",
+  "mod_id": "NearFutureLaunchVehicles",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:61fc94dd47ffde5c89c7ce0b1b1ec92df45b962e07b64d64c90b0eae7313e8fe",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

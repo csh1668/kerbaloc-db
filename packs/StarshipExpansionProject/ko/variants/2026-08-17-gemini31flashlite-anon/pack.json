@@ -1,0 +1,10 @@
+{
+  "keys_target": 489,
+  "keys_translated": 489,
+  "lang": "ko",
+  "mod_id": "StarshipExpansionProject",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:0c1919a1eaa82605c54a716472a5a04dee3d858f4d30dd7dcf3d4d22baef2b8b",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

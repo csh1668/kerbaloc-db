@@ -1,0 +1,10 @@
+{
+  "keys_target": 123,
+  "keys_translated": 123,
+  "lang": "ko",
+  "mod_id": "DockingCamKURS",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:4b9aad179c67a4d05e23c87468e846377058b47250fab391835d61fe0f38e079",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

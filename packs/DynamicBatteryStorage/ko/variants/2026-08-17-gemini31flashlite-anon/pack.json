@@ -1,0 +1,10 @@
+{
+  "keys_target": 114,
+  "keys_translated": 114,
+  "lang": "ko",
+  "mod_id": "DynamicBatteryStorage",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:af7c8a97c8be0dc929f68a6bc72410b57a9039be49937fcfcc1880079f89543e",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

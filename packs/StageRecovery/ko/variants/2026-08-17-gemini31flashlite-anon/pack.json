@@ -1,0 +1,10 @@
+{
+  "keys_target": 124,
+  "keys_translated": 124,
+  "lang": "ko",
+  "mod_id": "StageRecovery",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:451a8b5874cf6f88eb3c34442f21b66bc2ee5cf4b7c7232acbec5407868cbae7",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

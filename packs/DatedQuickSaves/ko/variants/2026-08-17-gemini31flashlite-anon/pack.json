@@ -1,0 +1,10 @@
+{
+  "keys_target": 23,
+  "keys_translated": 23,
+  "lang": "ko",
+  "mod_id": "DatedQuickSaves",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:c24ea858a83a32695d2db3bf1aa5dbf87e945acccbbc520d00f8db4c383bb5c2",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

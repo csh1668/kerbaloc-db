@@ -1,0 +1,10 @@
+{
+  "keys_target": 62,
+  "keys_translated": 62,
+  "lang": "ko",
+  "mod_id": "UnKerballedStart",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:643793dbd1056803fc89f109ffc02607aec9fd2d2d0b6b83223d8ab0d28957b8",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

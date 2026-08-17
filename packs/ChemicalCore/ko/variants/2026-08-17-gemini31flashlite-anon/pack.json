@@ -1,0 +1,10 @@
+{
+  "keys_target": 55,
+  "keys_translated": 55,
+  "lang": "ko",
+  "mod_id": "ChemicalCore",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:a61b9bd3c9e152813d0f45dd899757a66bd953d19f2036772118ac8689502ff2",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

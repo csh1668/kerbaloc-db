@@ -1,0 +1,10 @@
+{
+  "keys_target": 8,
+  "keys_translated": 8,
+  "lang": "ko",
+  "mod_id": "KerbalEngineerRedux",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:c2ae151e967885a9add44276c3062c8649bf1512ffd5fb478c4029b3190e4ce2",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

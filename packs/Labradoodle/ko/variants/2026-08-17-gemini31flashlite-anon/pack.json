@@ -1,0 +1,10 @@
+{
+  "keys_target": 3,
+  "keys_translated": 3,
+  "lang": "ko",
+  "mod_id": "Labradoodle",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:5873ecfd29b927a48ec8ebe68f58096ff9b74529cf52573dc9dda9c0a9589ee9",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

@@ -1,0 +1,10 @@
+{
+  "keys_target": 550,
+  "keys_translated": 550,
+  "lang": "ko",
+  "mod_id": "KerbalAlarmClock",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:aa03a6a74776d563d6c09867c8a22e358d8bfe74773ea7b4be72df86e2060054",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

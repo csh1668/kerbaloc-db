@@ -1,0 +1,10 @@
+{
+  "keys_target": 69,
+  "keys_translated": 69,
+  "lang": "ko",
+  "mod_id": "MoldaviteMachines",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:21a48f4b8e3d5f15827dc07334d9124065452bc8b5c9c663319528bd46f8c07b",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

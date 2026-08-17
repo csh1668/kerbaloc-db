@@ -1,0 +1,10 @@
+{
+  "keys_target": 38,
+  "keys_translated": 38,
+  "lang": "ko",
+  "mod_id": "Toolbar",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:159400c4c41ee4c81ef059efcabfd59a8e76d18d4000915ae500461c825f1a48",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

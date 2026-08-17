@@ -1,0 +1,10 @@
+{
+  "keys_target": 171,
+  "keys_translated": 171,
+  "lang": "ko",
+  "mod_id": "B9-PWings-Fork",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:1cade67433f6facbbab5c0b42107d747f7583eb65782ff3ac4ab513f3e81c3c6",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

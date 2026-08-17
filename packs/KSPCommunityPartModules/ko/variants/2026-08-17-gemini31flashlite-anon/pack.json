@@ -1,0 +1,10 @@
+{
+  "keys_target": 1,
+  "keys_translated": 1,
+  "lang": "ko",
+  "mod_id": "KSPCommunityPartModules",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:a13c7d61ef8592571d26de5d7b262906791c7d1499dfb70bae6b16cca8b9ec91",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

@@ -1,0 +1,10 @@
+{
+  "keys_target": 320,
+  "keys_translated": 320,
+  "lang": "ko",
+  "mod_id": "SCANsat",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:be87f533da274d07bc38dfbf72d112a13631421564d2766928e16a56b886bb14",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

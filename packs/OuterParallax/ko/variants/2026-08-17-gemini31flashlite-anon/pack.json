@@ -1,0 +1,10 @@
+{
+  "keys_target": 61,
+  "keys_translated": 61,
+  "lang": "ko",
+  "mod_id": "OuterParallax",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:485df8e05adaaf4c515044223a9352a91856bbe22f8e8fc3c1e6d93513c64ecd",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

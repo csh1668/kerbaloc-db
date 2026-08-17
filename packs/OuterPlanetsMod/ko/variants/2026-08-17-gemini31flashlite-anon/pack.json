@@ -1,0 +1,10 @@
+{
+  "keys_target": 2318,
+  "keys_translated": 2318,
+  "lang": "ko",
+  "mod_id": "OuterPlanetsMod",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:5d4e1aa7ebed846eb2abb2693dc38ae4c2bd2af15d7aca63982bf87df4036f95",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}

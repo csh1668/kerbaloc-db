@@ -1,0 +1,10 @@
+{
+  "keys_target": 125,
+  "keys_translated": 125,
+  "lang": "ko",
+  "mod_id": "SmartParts",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:f10ddd63d83795f7c5858604816e757ea5ac2f673a2792238092d283ba73ca2e",
+  "variant_id": "2026-08-17-gemini31flashlite-anon"
+}
