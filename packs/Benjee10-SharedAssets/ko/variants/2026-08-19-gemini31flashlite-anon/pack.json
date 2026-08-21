@@ -1,0 +1,10 @@
+{
+  "keys_target": 6,
+  "keys_translated": 6,
+  "lang": "ko",
+  "mod_id": "Benjee10-SharedAssets",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:d3cced333ade901450b923501c82568a2d7f4b3098ca6ba8ea9d1050cc4985a3",
+  "variant_id": "2026-08-19-gemini31flashlite-anon"
+}
