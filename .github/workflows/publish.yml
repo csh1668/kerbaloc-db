@@ -29,11 +29,11 @@ jobs:
       - uses: dtolnay/rust-toolchain@stable
       - uses: Swatinem/rust-cache@v2
         with:
-          workspaces: tool/kerbaloc
+          workspaces: tool
       - name: 전수 검증
-        run: cargo run -q -p kerbaloc-cli --manifest-path tool/kerbaloc/Cargo.toml -- db validate db
+        run: cargo run -q -p kerbaloc-cli --manifest-path tool/Cargo.toml -- db validate db
       - name: 인덱스 재생성
-        run: cargo run -q -p kerbaloc-cli --manifest-path tool/kerbaloc/Cargo.toml -- db index db --out db/index/ko.json
+        run: cargo run -q -p kerbaloc-cli --manifest-path tool/Cargo.toml -- db index db --out db/index/ko.json
       - name: 인덱스 커밋 (변경 시)
         id: commit
         working-directory: db
