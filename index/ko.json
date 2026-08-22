@@ -77,6 +77,196 @@
       ]
     },
     {
+      "modId": "B9-PWings-Fork",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "3f665c5ac4c4a5e22649108a8049272817ec7aa512257ad41b05bc1e4446ec82",
+              "sizeB": 14367
+            },
+            {
+              "path": "pack.json",
+              "sha256": "7027261264f95ff6cad673dfab4730b69cc08013a25448bae1f0b2ff314a903a",
+              "sizeB": 310
+            }
+          ],
+          "keysTarget": 171,
+          "keysTranslated": 171,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/B9-PWings-Fork/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:1cade67433f6facbbab5c0b42107d747f7583eb65782ff3ac4ab513f3e81c3c6",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "B9PartSwitch",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "be4f2f367b6b45b463467d854a760272d233efe33116c077544eb787bf34279f",
+              "sizeB": 1485
+            },
+            {
+              "path": "pack.json",
+              "sha256": "e5acffb0689b140097cb7df82002638984b06214aec2ade685270932d4981a83",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 18,
+          "keysTranslated": 18,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/B9PartSwitch/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:ecd7c9c0a77d307565499d539e3a10b7df0793c4458c37c64146ca9a1dd6d5ab",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "0498108dea2285b03a79c9be105e07976ad356b1a080ab85619d390fc93c1c5f",
+              "sizeB": 1454
+            },
+            {
+              "path": "pack.json",
+              "sha256": "d3bb9870ee84449d977e6b776f8a00dc100389a444858ae2e26f55edff6aa2c7",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 18,
+          "keysTranslated": 18,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/B9PartSwitch/ko/variants/2026-08-19-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:ecd7c9c0a77d307565499d539e3a10b7df0793c4458c37c64146ca9a1dd6d5ab",
+          "variantId": "2026-08-19-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "BackgroundResourceProcessing",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "462720a45f6ae4ab366dc91dff2ac154f083bccac37a66c0f0fe38014969a677",
+              "sizeB": 2579
+            },
+            {
+              "path": "pack.json",
+              "sha256": "6fd19aca2ab67c706e7e6dc054a8a67cf33d6402d2481f398a723c21194ce5f7",
+              "sizeB": 322
+            }
+          ],
+          "keysTarget": 39,
+          "keysTranslated": 39,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/BackgroundResourceProcessing/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:9ab17566edd80b14c904ed91b2158ed2944fbb9c9b8a0f337a3f4f237f96bcd7",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "Benjee10-SharedAssets",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "b562dc30876e7ba0bcd7179cd393d07a227cbc428aeacb932fdf2fd0c536661d",
+              "sizeB": 415
+            },
+            {
+              "path": "pack.json",
+              "sha256": "aba1252e98d50191b9cc57150d12948d24a801820d3902da6013219a81117d1a",
+              "sizeB": 313
+            }
+          ],
+          "keysTarget": 6,
+          "keysTranslated": 6,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/Benjee10-SharedAssets/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:d3cced333ade901450b923501c82568a2d7f4b3098ca6ba8ea9d1050cc4985a3",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "e005a99d2304a68b27b2dace81cb1ba3be83bb4b0783ca336868a95157d0a550",
+              "sizeB": 419
+            },
+            {
+              "path": "pack.json",
+              "sha256": "6a4b44be6fa4876366faf5c30463e07bb0e363e447158099ca60f4668081e827",
+              "sizeB": 313
+            }
+          ],
+          "keysTarget": 6,
+          "keysTranslated": 6,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/Benjee10-SharedAssets/ko/variants/2026-08-19-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:d3cced333ade901450b923501c82568a2d7f4b3098ca6ba8ea9d1050cc4985a3",
+          "variantId": "2026-08-19-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "BonVoyage",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "474658255122f573d68f0dcc5c749e62499459805cf892948d7aa881be281918",
+              "sizeB": 8938
+            },
+            {
+              "path": "pack.json",
+              "sha256": "57d74c8929be0baf5dcd84df046bd2d9cffc582400a2ea661b946c5233a26867",
+              "sizeB": 305
+            }
+          ],
+          "keysTarget": 136,
+          "keysTranslated": 136,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/BonVoyage/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:ed50c63f2b9c8d356fea2f9e5915d91ba1d63a3d374263af32d72fc6e8a705e7",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "BreakingGround-DLC",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "33d731211f39f0ef23373be1e6e685d89041454d24604a9639510e7bf6bb44da",
+              "sizeB": 70993
+            },
+            {
+              "path": "pack.json",
+              "sha256": "f47a56ec7582410c10f7904f293ab92f14c355cbb535947c4b0d6639ce3935b4",
+              "sizeB": 314
+            }
+          ],
+          "keysTarget": 724,
+          "keysTranslated": 724,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/BreakingGround-DLC/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:dd5a05a88afb73bca0ba4b471295e2a4222c1d12c9c5b4dc5d132ea76c76763b",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
       "modId": "Bureaucracy",
       "variants": [
         {
@@ -98,6 +288,176 @@
           "path": "packs/Bureaucracy/ko/variants/2026-08-16-gemini31flashlite-csh/",
           "srcSha256": "v1:sha256:e8113952154b41a07eced1774e4ed05a890f1062dbaca54d9c33aff31b6cd82c",
           "variantId": "2026-08-16-gemini31flashlite-csh"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "a01a982181c712b3e7db911844db9aec2500ea04049e5ac7b3f2955d86b72763",
+              "sizeB": 211
+            },
+            {
+              "path": "pack.json",
+              "sha256": "c940fe77ca5f3af728e163407b8cf5d67e6fc79ea359c75b92525fe65a52f9c1",
+              "sizeB": 303
+            }
+          ],
+          "keysTarget": 3,
+          "keysTranslated": 3,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/Bureaucracy/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:e8113952154b41a07eced1774e4ed05a890f1062dbaca54d9c33aff31b6cd82c",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "BurstPQS",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "6ed9bb8b1e6fa3c6fab54c06e71d21064f005a47a218a277d03047f7edd5fd9e",
+              "sizeB": 596
+            },
+            {
+              "path": "pack.json",
+              "sha256": "c0242e8d230cb872b1bcb7e8847aca07b9666e24f618f4aa92816774eb764e68",
+              "sizeB": 300
+            }
+          ],
+          "keysTarget": 2,
+          "keysTranslated": 2,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/BurstPQS/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:08f0ce84ef7fc7b7742ab9cb12716ce441007c4a3266c5ce558ed00306b6e72a",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "CameraTools",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "6a034f902ace2d20e71e1609a9e24c74638eac75211989a51d2e8836ce6495a6",
+              "sizeB": 10311
+            },
+            {
+              "path": "pack.json",
+              "sha256": "ad0299f85d36c711523ff355cf30f48d6706e7817cb232eb239749c69e1a6686",
+              "sizeB": 307
+            }
+          ],
+          "keysTarget": 152,
+          "keysTranslated": 152,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/CameraTools/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:31a2bf30848338814ffcad08792636a74d0f9af0c0105e225b52762ab007d10b",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "ChemicalCore",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "4a965c5bdde678d99c7efcae6c17ed529b814f835cb38b62d02f46dfa7e9660e",
+              "sizeB": 9390
+            },
+            {
+              "path": "pack.json",
+              "sha256": "68e92eab8be02ec29e90a35689ce84d29907516231aacf6b6f49f174f55ee66c",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 55,
+          "keysTranslated": 55,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/ChemicalCore/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:a61b9bd3c9e152813d0f45dd899757a66bd953d19f2036772118ac8689502ff2",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "ChemicalPropulsion",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "e78a845a01e9edf8b65bb84e3a10ee870e02f9e7ab39b06dcebd5e19076812dd",
+              "sizeB": 11812
+            },
+            {
+              "path": "pack.json",
+              "sha256": "7a198d57a7a498f1ff84498c2ba7e9b3be7570251d8bd039701015cb56a4f6e9",
+              "sizeB": 314
+            }
+          ],
+          "keysTarget": 123,
+          "keysTranslated": 123,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/ChemicalPropulsion/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:aad32c103a356f27767ca7ffd4ddd62d6a7381f75bfe90ac0aea3ff708f669e8",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "ClassicStockResources",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "16bd36e4604eb8df6650b6a3abbac3190e5d171c0c0c175dbda946d5bf51fbc5",
+              "sizeB": 2316
+            },
+            {
+              "path": "pack.json",
+              "sha256": "e5df51ab4698a7c073107651a3b5a71771da6019ace6cafa66c8efff12b5896c",
+              "sizeB": 315
+            }
+          ],
+          "keysTarget": 18,
+          "keysTranslated": 18,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/ClassicStockResources/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:5790d120a1542e1c59f4d69cb18a962c170d646475dd61ea1a776523021a5620",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "CommunityPartsTitles",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "d51917b52920b3c87c7de7c33a7ebe45d0d3dcbbd0fb555c2ca2f5612848c8c2",
+              "sizeB": 152812
+            },
+            {
+              "path": "pack.json",
+              "sha256": "d4a669eba7105835269c3302dcfe24643dfffb1f64b84ed3f30a50398c0414b1",
+              "sizeB": 318
+            }
+          ],
+          "keysTarget": 2066,
+          "keysTranslated": 2066,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/CommunityPartsTitles/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:eb4a4172d58875c4f45d7055ca1af37824c5d5ebe1b18056e886532d4d6653db",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
         }
       ]
     },
@@ -123,6 +483,1846 @@
           "path": "packs/CommunityResourcePack/ko/variants/2026-08-16-gemini31flashlite-spike/",
           "srcSha256": "v1:sha256:62d1c3f7c0fe3820b43abde9d32834c6eb2429606f1ed331fdef0bf2ca124383",
           "variantId": "2026-08-16-gemini31flashlite-spike"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "5f8e06597af52b334faabeff8b887eae0b94feceacf495596415cee3cc01880f",
+              "sizeB": 10574
+            },
+            {
+              "path": "pack.json",
+              "sha256": "f1eb476f1f841a7e6c7b41535db6ff20fefa81a0e49e43c37896813a8bb713fd",
+              "sizeB": 317
+            }
+          ],
+          "keysTarget": 240,
+          "keysTranslated": 240,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/CommunityResourcePack/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:62d1c3f7c0fe3820b43abde9d32834c6eb2429606f1ed331fdef0bf2ca124383",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "CommunityTechTree",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "e4a025daa7705cba7cdb9e558ab9f983e2eb97634b7cd06b867240cc277245d1",
+              "sizeB": 16920
+            },
+            {
+              "path": "pack.json",
+              "sha256": "3054d40efe6350454e3951486f7fbd05ca9a36fe68e704911cd8895b4dd16289",
+              "sizeB": 313
+            }
+          ],
+          "keysTarget": 164,
+          "keysTranslated": 164,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/CommunityTechTree/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:c996409d760f884e3d0dbf6df91face438c15d7d4b4d5db5994e9dc7ee89bc31",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "ConnectedLivingSpace",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "3904779cae1fcbcfd1606854a4195b92f573f8e944dc7cd2216a396548010786",
+              "sizeB": 1650
+            },
+            {
+              "path": "pack.json",
+              "sha256": "53a5769b98d54a918fd13ae6c92f3635ff3ee2c0d622bb2d232830ada9ffd6d5",
+              "sizeB": 314
+            }
+          ],
+          "keysTarget": 40,
+          "keysTranslated": 40,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/ConnectedLivingSpace/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:b88153df9ad193c56421aa18a8c617ce76bc2207e9837cf5fec98689b2fbeaf2",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "ContractConfigurator",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "7a6365c76dfdb7e4a3d83c796c9760c21da5640ab6c56496accca2385490c8aa",
+              "sizeB": 28712
+            },
+            {
+              "path": "pack.json",
+              "sha256": "c7c2c55a8bed1ccdc268c825b77283b95ac8bb2343d4966facd83d7768e1e520",
+              "sizeB": 316
+            }
+          ],
+          "keysTarget": 400,
+          "keysTranslated": 400,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/ContractConfigurator/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:9ebc19af1b967261f012c4d988b56a6fc575d2add984cec77a19101c6077a6f4",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "CryoEngines",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "665bd73509b894e1aad221cf698c888532bb3409978b6d2f2a0a79f46216cdc6",
+              "sizeB": 13037
+            },
+            {
+              "path": "pack.json",
+              "sha256": "50ff19f7403ea59cb34cc83799fe08f3cc4a60504dbd394fffa357e166ebc68a",
+              "sizeB": 307
+            }
+          ],
+          "keysTarget": 106,
+          "keysTranslated": 106,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/CryoEngines/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:b0c39cfca9833c0e6a059a639618b52189caa0277312e40b6a4b9d7e4a903fcc",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "CryoTanks",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "6d4c7465276f237153ec3f8ecb7e88e7320b1f2c239c0a74276b2cf7a8d8d59b",
+              "sizeB": 10846
+            },
+            {
+              "path": "pack.json",
+              "sha256": "bdb6b4aa77a378827b6d48e8cca2a574cf6dab9b6458eff4513e79c806fe0ee2",
+              "sizeB": 305
+            }
+          ],
+          "keysTarget": 103,
+          "keysTranslated": 103,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/CryoTanks/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:2a8bc2b644220fa278f3bdf783ac128de2d1a37eb0c358f38073d93c55fdc443",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "DatedQuickSaves",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "cecb1e0bdfa6dbba43c4cda1eae38b323395ae3734bc51ee20ff2fe5502694ca",
+              "sizeB": 2163
+            },
+            {
+              "path": "pack.json",
+              "sha256": "06a36acccfb2a77185955a24d858c242e8742948eac35e981352a8b938e6350b",
+              "sizeB": 309
+            }
+          ],
+          "keysTarget": 23,
+          "keysTranslated": 23,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/DatedQuickSaves/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:c24ea858a83a32695d2db3bf1aa5dbf87e945acccbbc520d00f8db4c383bb5c2",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "DeepFreeze",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "946c6578308506f1013e538caa2fd0c677212b49b955763d61d7d70240dac437",
+              "sizeB": 15323
+            },
+            {
+              "path": "pack.json",
+              "sha256": "d3431b8b71e205545f0a479aea0a28e9e93c43f1fc18bf6485c8bdc3018ccc30",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 206,
+          "keysTranslated": 206,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/DeepFreeze/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:d10ace2d6a8b45cc4b1f650c49b139e1aa8d3afd0bc9f7eada581aadeda4eebf",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "DockRotate",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "2a5375d40f705e5b947bf5be7a932d31a6362fd63fd2008c0efae2679a398772",
+              "sizeB": 1365
+            },
+            {
+              "path": "pack.json",
+              "sha256": "6aa44dfff69d24c9f0f4049c4b1c26dc6e3e6ad834164337bdfb74a0d84335be",
+              "sizeB": 304
+            }
+          ],
+          "keysTarget": 25,
+          "keysTranslated": 25,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/DockRotate/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:f366699a8ee3a3a6086412f70f4eee98d68af7ac82d81edd585ade6ddd8d3572",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "DockingCamKURS",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "d940b18a12a77eae73931c47ba7909d22dc1d5ccb52b57d7e0d32f937d06dd7c",
+              "sizeB": 6061
+            },
+            {
+              "path": "pack.json",
+              "sha256": "a018c624a03a593cca36381d7cfb059bda1257cb03b8e92b8b91982994ba3483",
+              "sizeB": 310
+            }
+          ],
+          "keysTarget": 123,
+          "keysTranslated": 123,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/DockingCamKURS/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:4b9aad179c67a4d05e23c87468e846377058b47250fab391835d61fe0f38e079",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "DynamicBatteryStorage",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "993e1451bd57617499c9543d36ccf7bdd01d5cfcf1d4716ce0dbe29c335168bc",
+              "sizeB": 8732
+            },
+            {
+              "path": "pack.json",
+              "sha256": "f994e9905452be0f7a2c0558b03f0b8717ed5bce691856a32644d308dc5b032b",
+              "sizeB": 317
+            }
+          ],
+          "keysTarget": 114,
+          "keysTranslated": 114,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/DynamicBatteryStorage/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:af7c8a97c8be0dc929f68a6bc72410b57a9039be49937fcfcc1880079f89543e",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "EasyVesselSwitch",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "90c13fb04b2a226101e1e866a220150acb0ff4196fc78736f52385d05cb08c71",
+              "sizeB": 1345
+            },
+            {
+              "path": "pack.json",
+              "sha256": "69d593d1aa2b7116f15771c8c33bd9dd25a19bf9d5328051f60f7093472e3bb1",
+              "sizeB": 310
+            }
+          ],
+          "keysTarget": 25,
+          "keysTranslated": 25,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/EasyVesselSwitch/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:bd68c737cd5bacee0f70399c7ccbfbf14a6ac63ba04372f9b6e3edaeba19286d",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "FMRSContinued",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "7f4bb828000636526f726988733bdec997f48119b13d4f1247c33352ba9fc60a",
+              "sizeB": 2568
+            },
+            {
+              "path": "pack.json",
+              "sha256": "1515ab024c32051c0e93da01890bc4f6f64d922d9aeb28b209e7dcb1e40ff623",
+              "sizeB": 307
+            }
+          ],
+          "keysTarget": 42,
+          "keysTranslated": 42,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/FMRSContinued/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:a5542fd8c69840536273846e543b2afb20bc3227a005656023ff73c822882a2d",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "FarFutureTechnologies",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "9ce0e1061a7e73a39310d8c5a0de739ff6daa2c7a15d66e85383c94d278e789d",
+              "sizeB": 60026
+            },
+            {
+              "path": "pack.json",
+              "sha256": "c8b93701111b2bb44f8ffa7999537d10d1e97b4055dd0fbc0909f6fb28cf4fe0",
+              "sizeB": 317
+            }
+          ],
+          "keysTarget": 503,
+          "keysTranslated": 503,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/FarFutureTechnologies/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:88f230e74b6b25fcf73dd5f9945947a0d1193f21df538d89c507ddfdadf51b3c",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "FerramAerospaceResearchContinued",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "e5c8da7f19d18e39397a0ea755d1d2894d15e512bf0e50a11b7752c3272ed926",
+              "sizeB": 18254
+            },
+            {
+              "path": "pack.json",
+              "sha256": "ac7e36007920965db1322e7416eaab40dd31359c543bc14ff744eb9d4d60af2a",
+              "sizeB": 328
+            }
+          ],
+          "keysTarget": 357,
+          "keysTranslated": 357,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/FerramAerospaceResearchContinued/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:f06a2059aaac2a7851701103ad59bdf5a0f532da94f1623d1c4d6c47daf2f76a",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "FreeIva",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "8400b29dcfba210b766f35072e46814aac4a975a719f4a9665e3b4ff94b54c42",
+              "sizeB": 3729
+            },
+            {
+              "path": "pack.json",
+              "sha256": "830bf3b2ff1cf77e0f183061ea47a0df3b9d77ce843ceb7cc0d9e82daa7d1611",
+              "sizeB": 301
+            }
+          ],
+          "keysTarget": 53,
+          "keysTranslated": 53,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/FreeIva/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:232e15fd7ab7e8b40656e25ad8da5c44b7b0edeccfdfa11843f57a59418be40f",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "HeatControl",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "f38923fa10232df3eeabbd8ad04c09eb3f3db837d01d15e48f05ce309a59a749",
+              "sizeB": 10457
+            },
+            {
+              "path": "pack.json",
+              "sha256": "ae29f35de1cba1f03b6aa9efdd371c10fe0a41d0810ef573c5f1637d08c128fc",
+              "sizeB": 305
+            }
+          ],
+          "keysTarget": 87,
+          "keysTranslated": 87,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/HeatControl/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:7dbf0c372c856cf193eac0b9247e27ed94c5cefbcfc2f4f7f5fb47e637f7150a",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "HideEmptyTechNodes",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "de38bdd1c117afbe8d346cbd734916920ccf9eed6ac95260a1509408808c41e7",
+              "sizeB": 2733
+            },
+            {
+              "path": "pack.json",
+              "sha256": "38de9b1ff5c1bcfe34b68eddec335cf603f568d8e33e2549849ac924a544ddd7",
+              "sizeB": 312
+            }
+          ],
+          "keysTarget": 32,
+          "keysTranslated": 32,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/HideEmptyTechNodes/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:e1a5ff2915a6a6bc45daa07581882552a3a71616207209f0f5a3666d104cf351",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "KAS",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "a16b36a021460bfb4d6623413e1c1e3d92ff8b1bec9a6d7e7e632c9060004762",
+              "sizeB": 15321
+            },
+            {
+              "path": "pack.json",
+              "sha256": "866a84b27a4e5f16bc57cf3bc10ebe316ee9c77cc157f9e94b7ddc825ce2af03",
+              "sizeB": 299
+            }
+          ],
+          "keysTarget": 225,
+          "keysTranslated": 225,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/KAS/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:ac531f16e918fad2428f2dc61961a0f4cb92b3e0c91abe6e1014e7c3db4ca343",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "KRASH",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "879dd3f0008283fa7211d24a34158e54277bd3818b36d52c4614f43d80934a6b",
+              "sizeB": 6009
+            },
+            {
+              "path": "pack.json",
+              "sha256": "240dbe78e3fb0d63e22f2bd77207e9879d90549fc7066c7f7f66e8b1e1cf7cad",
+              "sizeB": 301
+            }
+          ],
+          "keysTarget": 102,
+          "keysTranslated": 102,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/KRASH/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:c2d01ad83e6f371b905646ed3ca48be9bb0ca920ed21cddd0db81e60db87cbdf",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "KSPCommunityFixes",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "7a411be17e96830ed5789d2f7276ab49c044cc98d381e4cd8a7a7f2ecc3e3350",
+              "sizeB": 7009
+            },
+            {
+              "path": "pack.json",
+              "sha256": "d93721d6b858e3d4c631ec413e23af25633cb6b3a8d31eec77eef9bf9069c011",
+              "sizeB": 311
+            }
+          ],
+          "keysTarget": 29,
+          "keysTranslated": 29,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/KSPCommunityFixes/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:0924678a029541d86ca352fb1209404198e4048f69bf6d5b3e511824cd320fdf",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "KSPCommunityPartModules",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "760470646ca44107f2d8dd98c11a3b8a487b31effbc462882457b85c6d42db3b",
+              "sizeB": 84
+            },
+            {
+              "path": "pack.json",
+              "sha256": "22e536fb4d364787ec4f0d90720b4561b3ce0adf15bf9f27afa243336a4eb191",
+              "sizeB": 315
+            }
+          ],
+          "keysTarget": 1,
+          "keysTranslated": 1,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/KSPCommunityPartModules/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:a13c7d61ef8592571d26de5d7b262906791c7d1499dfb70bae6b16cca8b9ec91",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "KcalbelohSystem",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "abd51e56f22e3c698b2fbff9ac800b3a74fdc58ecce224feb9d21af80d154472",
+              "sizeB": 441724
+            },
+            {
+              "path": "pack.json",
+              "sha256": "a143771f3896cd17fcad85143e23ede10be8bac84a4318a15d15010b6bd0855f",
+              "sizeB": 313
+            }
+          ],
+          "keysTarget": 2010,
+          "keysTranslated": 2009,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/KcalbelohSystem/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:e6e70f74fa1ffc9a057e7636b8fd80f65867fbb19b13246045913aff970ecbe5",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "KerbalAlarmClock",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "91b98654e6391803cd75f6e3cd1acf9514c7234e6462150a3d198cdea476cfd5",
+              "sizeB": 24097
+            },
+            {
+              "path": "pack.json",
+              "sha256": "4a1fe5fe15cf55735f09a8aeac26fd11dd9a20040d99b6bcc9ce318e8d3bb706",
+              "sizeB": 312
+            }
+          ],
+          "keysTarget": 550,
+          "keysTranslated": 550,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/KerbalAlarmClock/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:aa03a6a74776d563d6c09867c8a22e358d8bfe74773ea7b4be72df86e2060054",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "KerbalAtomics",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "ce41d4bb63030fc9a7c759becb2f14164c5d8dc5d7fb916f3ae44c75dd3b66c1",
+              "sizeB": 9568
+            },
+            {
+              "path": "pack.json",
+              "sha256": "4164f58d3c0efcf0b91511a9336bd68a0eda578cde5fa1336bdc40bfb6a85e42",
+              "sizeB": 307
+            }
+          ],
+          "keysTarget": 41,
+          "keysTranslated": 41,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/KerbalAtomics/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:3c12447c20f324aaa63041df00eb68aca8e9d68a05c40ad14b703a8b26a632d7",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "KerbalChangelog",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "29e04faf153d954097059d4bcb2000aa826b083b77e54cbf99e35af37c19a6de",
+              "sizeB": 2880
+            },
+            {
+              "path": "pack.json",
+              "sha256": "c3827baee4ae7dc0cc24ed5823c34bf652443f809bda85e8c50796c3d970851b",
+              "sizeB": 309
+            }
+          ],
+          "keysTarget": 41,
+          "keysTranslated": 41,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/KerbalChangelog/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:5b8af2233e1f00abcab24ac2b5e0ae8ae7df02f1b1b2ad9c905101882633bb38",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "KerbalEngineerRedux",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "aace63b10fafe7de130e094bb0212370b9658a9bd4eb8b63b07d8acbe268f4e6",
+              "sizeB": 924
+            },
+            {
+              "path": "pack.json",
+              "sha256": "ca3e4c2624fdde2cc0075812e0aac6150bf4c859e0d4ee5fa9a29b1dffec948f",
+              "sizeB": 311
+            }
+          ],
+          "keysTarget": 8,
+          "keysTranslated": 8,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/KerbalEngineerRedux/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:c2ae151e967885a9add44276c3062c8649bf1512ffd5fb478c4029b3190e4ce2",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "119e8f5fdd9c0e12e7544b755da2c04f8dbd3c3c1ff55cf430371bc6815415eb",
+              "sizeB": 915
+            },
+            {
+              "path": "pack.json",
+              "sha256": "20af62aab19ab5a5b1ba2135f7aec7ca3a6b33a16978a08ec0c9ec002bee2201",
+              "sizeB": 311
+            }
+          ],
+          "keysTarget": 8,
+          "keysTranslated": 8,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/KerbalEngineerRedux/ko/variants/2026-08-19-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:c2ae151e967885a9add44276c3062c8649bf1512ffd5fb478c4029b3190e4ce2",
+          "variantId": "2026-08-19-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "Kopernicus",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "25f04efb2e1b8d29cd12233623d346ce00eff69388e816a266f63ff01ad63e41",
+              "sizeB": 2061
+            },
+            {
+              "path": "pack.json",
+              "sha256": "01bb3f465e03fba1659cb41d12a82ffb3e94c8d05f3fde72403ff8b56b96636f",
+              "sizeB": 304
+            }
+          ],
+          "keysTarget": 26,
+          "keysTranslated": 26,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/Kopernicus/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:35e5f93c7413558547cc8360155bbd363f1f8f11a7069e5aa54e32060a9566aa",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "Labradoodle",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "9f8dedb8aca6045f7194d1972b1a839a68d2d55502612bec07a3c4f59c66cff8",
+              "sizeB": 364
+            },
+            {
+              "path": "pack.json",
+              "sha256": "ca407045e4b593fac624d11a6d829f9f3be1476f312096f75be7fb2dc22b12c3",
+              "sizeB": 303
+            }
+          ],
+          "keysTarget": 3,
+          "keysTranslated": 3,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/Labradoodle/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:5873ecfd29b927a48ec8ebe68f58096ff9b74529cf52573dc9dda9c0a9589ee9",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "LoadingTipsPlus",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "6bef35b129473d1909c547f7559af2cbe0f04f6f4243ec206e933712db4109b7",
+              "sizeB": 113
+            },
+            {
+              "path": "pack.json",
+              "sha256": "605a5415e57b1c73fa34ef3f2d7cdd4cf889ca10e5f092a2721653959f37b90a",
+              "sizeB": 307
+            }
+          ],
+          "keysTarget": 1,
+          "keysTranslated": 1,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/LoadingTipsPlus/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:d33e5326f42049a6e7a44fc2b35e64b19b4c1665e3655c61afdd38b3c9694ec3",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "MechJeb2",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "cd5e0df9946c63b4620140887d108f942d30bce69f6fe5fc069a81171f9a4fe0",
+              "sizeB": 68187
+            },
+            {
+              "path": "pack.json",
+              "sha256": "d539960ea79ca16ad533fc82305c2aaf23cbbbe64b29736148d5951378c0e999",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 1188,
+          "keysTranslated": 1188,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/MechJeb2/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:6b24678afd8989267179bc6f68e216cf0e3f5a93ecc0ddb9386a02ba282e76ba",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "MinorPlanetsExpansion",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "b7c76c98f4122add7c75ab99d685660f32c4c97bd5cae61e183818551b4668f7",
+              "sizeB": 13885
+            },
+            {
+              "path": "pack.json",
+              "sha256": "2a5e1968d0e5faa1ef33ae0fd691a80bcbad90482ed3898c57d6f0f7bbe9e2c0",
+              "sizeB": 317
+            }
+          ],
+          "keysTarget": 125,
+          "keysTranslated": 125,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/MinorPlanetsExpansion/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:34a8bea459dafbc16708bcdb156c39238fea19e4b6635dc43589e1879b9cee51",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "MoldaviteMachines",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "6af9a01ca961c9e5e43f0634cc46d4e5b8b8679a38ca04db59ee4248517c95e9",
+              "sizeB": 4801
+            },
+            {
+              "path": "pack.json",
+              "sha256": "8e01f4e8772c08193eb1f053a2a089f03d40adc46d59d2fb884d8eedbc2ec00e",
+              "sizeB": 311
+            }
+          ],
+          "keysTarget": 69,
+          "keysTranslated": 69,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/MoldaviteMachines/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:21a48f4b8e3d5f15827dc07334d9124065452bc8b5c9c663319528bd46f8c07b",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "NearFutureAeronautics",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "75bfec9e0065b089d1c5d46f39aa5dd08bd7a0513ddd2a0a9dd316d231941ad7",
+              "sizeB": 16100
+            },
+            {
+              "path": "pack.json",
+              "sha256": "44607cf9a635eb9a1f727d253cabba925a45f84d92b1a5264e09273c07d2a46d",
+              "sizeB": 317
+            }
+          ],
+          "keysTarget": 119,
+          "keysTranslated": 119,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/NearFutureAeronautics/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:29349d42561e663bf614ae398d56088330d9e3d2119a5dfcedcdc8982c222c75",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "NearFutureConstruction",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "f91f6a9bf2ab1a65f0b42f1f3c56f9499374307472b70befb3d38db9058f9237",
+              "sizeB": 31659
+            },
+            {
+              "path": "pack.json",
+              "sha256": "ca623b17e75732116642f26a1bb026fc51b933a2905d9c0d49f68ff1e88a25ce",
+              "sizeB": 318
+            }
+          ],
+          "keysTarget": 292,
+          "keysTranslated": 292,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/NearFutureConstruction/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:a7d70538f77dcdaa3089f0e83fbd686876e4d4345973fdb9b11f35766e43efcc",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "NearFutureElectrical",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "325c1556703ff4c1cee1b0ce05a714192519e52370e0a5ace77d6777af908180",
+              "sizeB": 27146
+            },
+            {
+              "path": "pack.json",
+              "sha256": "9c34bcc2b274317292efc84f5c1fc3168264df671be4121b12e1730364b116ef",
+              "sizeB": 316
+            }
+          ],
+          "keysTarget": 240,
+          "keysTranslated": 240,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/NearFutureElectrical/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:d3daa7c1be25a0327e5a10084a6749c1289043ad14c7f6e431d5408f454b0f31",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "NearFutureExploration",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "a2c674664e0c78739c3ed721139e3ed5a97fe4d5b43a9dd14c96f9c7e1981a89",
+              "sizeB": 35243
+            },
+            {
+              "path": "pack.json",
+              "sha256": "f8049c00bf831a184681c29a816907b0fd25e2fb3781f997d50c3b6116e87c3a",
+              "sizeB": 317
+            }
+          ],
+          "keysTarget": 302,
+          "keysTranslated": 302,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/NearFutureExploration/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:553a700c732464668d733c1c089b3116580a22d30f5c128be4da79cce8deba73",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "NearFutureLaunchVehicles",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "c47138dab79baf76919325fe2298bd28d8ec77701c944c0b31310611e6b489b5",
+              "sizeB": 73130
+            },
+            {
+              "path": "pack.json",
+              "sha256": "df3c8eb73916f32d2b5338ae960cad31a71af557321103958d61b0724ac7f10e",
+              "sizeB": 320
+            }
+          ],
+          "keysTarget": 536,
+          "keysTranslated": 536,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/NearFutureLaunchVehicles/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:61fc94dd47ffde5c89c7ce0b1b1ec92df45b962e07b64d64c90b0eae7313e8fe",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "NearFuturePropulsion",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "622edfe48c33c55391971e93d2b9fe3b8e53aed98b2aa1fa2bd09bdd50e56c28",
+              "sizeB": 26477
+            },
+            {
+              "path": "pack.json",
+              "sha256": "e0bd7de893681dec925b2b31de16bf04b3b4811ff413b63a8f1fa4d8904f897d",
+              "sizeB": 316
+            }
+          ],
+          "keysTarget": 216,
+          "keysTranslated": 216,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/NearFuturePropulsion/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:72e293841834115b4fd6191cefe0098b35ea6b768619fc14a40d116bc55d96b6",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "NearFutureSolar",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "c3c788d0a403e5ce0b6641d6821147215166dacd84ea3463bf3ddb86f984cd1e",
+              "sizeB": 21307
+            },
+            {
+              "path": "pack.json",
+              "sha256": "62db2ee0172ec16621560dcad10c8ebd26a06ab3eb8771d002f298ee37499bbc",
+              "sizeB": 311
+            }
+          ],
+          "keysTarget": 136,
+          "keysTranslated": 136,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/NearFutureSolar/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:4e7363e715d547cd8c4fe93a1dfe9cbe85cd7171e27a31c24577cb43cf24fe18",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "NearFutureSpacecraft",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "a1ea880859d1ff3591b374085a1f49f5cb8814416e936b4e9d8ac0efab646d2e",
+              "sizeB": 19622
+            },
+            {
+              "path": "pack.json",
+              "sha256": "73052b452874bc0f9a14c0eee6befc290b7937378bf7d4ea416bf5ca44819b80",
+              "sizeB": 316
+            }
+          ],
+          "keysTarget": 155,
+          "keysTranslated": 155,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/NearFutureSpacecraft/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:7a61eb4e87a98d2da7f9e1a26ca20679477296c747e64e32f9e8f1bd0501a071",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "NewTantares",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "2be0e0c809d2d941f19100df93e15c95bf1f668687ec9c5b25a11aeb8615671c",
+              "sizeB": 104149
+            },
+            {
+              "path": "pack.json",
+              "sha256": "b6ece7aedbf802b2d3150e235d0b38eb8f2a934f4cde1a4c18613d0cd0c3a7fe",
+              "sizeB": 309
+            }
+          ],
+          "keysTarget": 1016,
+          "keysTranslated": 1016,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/NewTantares/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:cc0ef3b63bb5f6cce3ebd70ab597eeda476fc0b02959e4961510899c2b739e52",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "NewTantaresLV",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "910cbf802e90b84793e41b69eaee6d36ac681dc5430a2585ba1be814d130194e",
+              "sizeB": 42616
+            },
+            {
+              "path": "pack.json",
+              "sha256": "4d5f6bf65c662107e369ff84bbc78d8c1046918bb4ad1ecf3eb6dbda1a6334a1",
+              "sizeB": 309
+            }
+          ],
+          "keysTarget": 392,
+          "keysTranslated": 392,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/NewTantaresLV/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:9924d9ed33d7b222d1302041fbb4aae031cbbc98dca14a0e9120a8cc4d768ced",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "OPTReconfig",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "9016d4645460ce465afe93ee81177a63eed61da8a507e1011a24e6bca6995a77",
+              "sizeB": 3776
+            },
+            {
+              "path": "pack.json",
+              "sha256": "03b967fe64fb95d2b4ad6f33e5c707b6f165af418b366daa3c5f205a2bb9ac92",
+              "sizeB": 305
+            }
+          ],
+          "keysTarget": 35,
+          "keysTranslated": 35,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/OPTReconfig/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:7c0d62e4000a6b3d01bb94b90dca92395e0ca045368257f615727161e914c0e1",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "OPTSpacePlaneMain",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "f00013d408b52fee1cb648c7ef194914628de9e70dd3ac19f8d14569ae53e95e",
+              "sizeB": 20836
+            },
+            {
+              "path": "pack.json",
+              "sha256": "e096bba0a492651566ab1b5177d280b3ade26d57c8f56386374e960d2f1ad82d",
+              "sizeB": 313
+            }
+          ],
+          "keysTarget": 174,
+          "keysTranslated": 174,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/OPTSpacePlaneMain/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:48f794e96c81857bb5e0bcd6e223e6245811ae836d73885382648c3cd3bde54b",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "OuterParallax",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "664388a1a646ec56cd6f726c3191e48b94aa18810276009f1e952e3f0af67ec1",
+              "sizeB": 16679
+            },
+            {
+              "path": "pack.json",
+              "sha256": "88387ffc90cfee186ea21361a6693d0d19d1518cbbf017af0bbfa5422e51bdf7",
+              "sizeB": 307
+            }
+          ],
+          "keysTarget": 61,
+          "keysTranslated": 61,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/OuterParallax/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:485df8e05adaaf4c515044223a9352a91856bbe22f8e8fc3c1e6d93513c64ecd",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "OuterPlanetsMod",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "fc87b72c8cbb04c5d70bfe56fbcb003b287232af9f0256957ec9eeab6c24ccb9",
+              "sizeB": 358589
+            },
+            {
+              "path": "pack.json",
+              "sha256": "483cf40a230c0c3cb8f2dbd768dccddb9af8229166c554ab3fd163b925a8ea13",
+              "sizeB": 313
+            }
+          ],
+          "keysTarget": 2318,
+          "keysTranslated": 2318,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/OuterPlanetsMod/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:5d4e1aa7ebed846eb2abb2693dc38ae4c2bd2af15d7aca63982bf87df4036f95",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "PatchManager",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "74efe92f8916d108ea0ee69649d86f468f7bf2c1a70f9ba2b65cb23c4b2f77c7",
+              "sizeB": 1408
+            },
+            {
+              "path": "pack.json",
+              "sha256": "eff2eb45511a95639e1b6860a336cd50b96634ada05353d86f62e33d21205514",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 25,
+          "keysTranslated": 25,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/PatchManager/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:4b4af370b0882f7710258278560789a64f5a2c8b02640074b07200a7ff7345b5",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "PersistentRotationUpgraded",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "db1f7ee968ce961a8efd468e57de483780dc1203e486f8f9518fef217b3a12bb",
+              "sizeB": 1130
+            },
+            {
+              "path": "pack.json",
+              "sha256": "aa1465539a587d3f6e942ca2d2a6750785dc75d8cd64954d69ec1784db62ec8c",
+              "sizeB": 320
+            }
+          ],
+          "keysTarget": 27,
+          "keysTranslated": 27,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/PersistentRotationUpgraded/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:115e33dde35dbf452e54c83f5b3780bc5d6845ee532baabbc78d32b7d8200353",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "PersistentThrust",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "86528fb5fdbe6f46d4ef03e7598f44bb33ada1b95d3dc033c46012a12d256bb9",
+              "sizeB": 1792
+            },
+            {
+              "path": "pack.json",
+              "sha256": "797345bcce8a47c5886e81080dc3882e6835c9d24e17ab9871bca65f113767fe",
+              "sizeB": 310
+            }
+          ],
+          "keysTarget": 23,
+          "keysTranslated": 23,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/PersistentThrust/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:501711505349374f92cbb1471086277e380e0e7c551857fa5c6975d381a1d132",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "REPOSoftTech-Agencies",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "47ee0c103a095db2496b209c80d2420dc5ab7f25b023f7f90ff47fe28d057300",
+              "sizeB": 295
+            },
+            {
+              "path": "pack.json",
+              "sha256": "35fe87e0b8f19321b135ed2be53f9c5412ffdde708a214a7da710d0de8117312",
+              "sizeB": 313
+            }
+          ],
+          "keysTarget": 2,
+          "keysTranslated": 2,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/REPOSoftTech-Agencies/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:4953a25e1b354425b1a103d26b38c49e1fabc8f0ee78a8d38f9ee06a7cd127b5",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "ReStock",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "5f4af45cbfb557dbc7f73e94bbf655cd217c48aca9a88f275a522ccf9f821cd9",
+              "sizeB": 8219
+            },
+            {
+              "path": "pack.json",
+              "sha256": "08f533263db40d5ef1597f24cb5bf6465758788d7d689d5a0aa02a5958ddb1fd",
+              "sizeB": 303
+            }
+          ],
+          "keysTarget": 128,
+          "keysTranslated": 128,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/ReStock/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:4fee6dd69efaa418418c15c151bdd7fe7a6581e6d7147f7466e7ede8e30ccb77",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "ReStockPlus",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "27490c4a620f3673a64827563bfa0c35e917181de72eb75e5ea9e31f357ca32a",
+              "sizeB": 58147
+            },
+            {
+              "path": "pack.json",
+              "sha256": "f3c6ee8fbff1f31c50042525f32fd4d6565bb0b033e982da3598184958530d84",
+              "sizeB": 307
+            }
+          ],
+          "keysTarget": 393,
+          "keysTranslated": 393,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/ReStockPlus/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:7357fe11e346e6b7e59e7cfd1aaf7ae171f8375a8a795b6bd65e6c4d53dccb3f",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "SCANsat",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "f28b94e542eedfc000477b8301d25fba5c6bf567bd50882c3cfb8ad6323b6e41",
+              "sizeB": 48077
+            },
+            {
+              "path": "pack.json",
+              "sha256": "ff48dd252ddf697e152954df60d3580e5a07449701c8d6b95421ab189bf719e3",
+              "sizeB": 303
+            }
+          ],
+          "keysTarget": 320,
+          "keysTranslated": 320,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/SCANsat/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:be87f533da274d07bc38dfbf72d112a13631421564d2766928e16a56b886bb14",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "SimpleConstruction",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "9ccdd7918647c358a58a1a25528659a5fb0c567993213fa3b497a254f3dec9dc",
+              "sizeB": 12008
+            },
+            {
+              "path": "pack.json",
+              "sha256": "2170d5ffb37618ea70208622c6c051502803d7a1baa84e2a8f3307dfc93ec5b5",
+              "sizeB": 314
+            }
+          ],
+          "keysTarget": 128,
+          "keysTranslated": 128,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/SimpleConstruction/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:f5d29d10fb0f31194f2d4b699ec8996bdea5d356b6f4b7fe990dfaa93cfe5abb",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "SmartParts",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "8a0433c2ac5463ee573da8ee1fe6c5afede21fa258f0035f997c57e22b8c19ba",
+              "sizeB": 7273
+            },
+            {
+              "path": "pack.json",
+              "sha256": "0247189f90eac8262e9cf5c79015ab2c2c26442f66a231959d7e80b3803e72d6",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 125,
+          "keysTranslated": 125,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/SmartParts/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:f10ddd63d83795f7c5858604816e757ea5ac2f673a2792238092d283ba73ca2e",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "SpaceDust",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "370b6c97a41c8c339ccf0fecde36b20b33ebe9a12626aed576e8c61a3077a3ca",
+              "sizeB": 13761
+            },
+            {
+              "path": "pack.json",
+              "sha256": "70960b2fe6d8f5daa021d5c8680e33d5232a9700f51baa8ca1d57beba4be32e5",
+              "sizeB": 305
+            }
+          ],
+          "keysTarget": 142,
+          "keysTranslated": 142,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/SpaceDust/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:89038811c9c781f67f2e0d47379ba77f5c4da456248a914d7fcee5e30a04460e",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "SpaceTuxLibrary",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "03b7f94a77e754e8cc4136d8c97fd463e1032ffa4fde90218d928a68c1d4ec2e",
+              "sizeB": 707
+            },
+            {
+              "path": "pack.json",
+              "sha256": "221ebaa292c36a0e25c330e774660b50953bedfad22b7d48a3ae6ca5083024d8",
+              "sizeB": 309
+            }
+          ],
+          "keysTarget": 18,
+          "keysTranslated": 18,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/SpaceTuxLibrary/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:170ca0ffd2e317e02cf646ec0e80e18ed51002ce207166ea8560538d5f33a7f9",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "Squad",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "cf39305055a480f05aff1c4ae719401bb9107060cce0864f31fca52aa21009f5",
+              "sizeB": 1050543
+            },
+            {
+              "path": "pack.json",
+              "sha256": "863a436215c1b24148415737c662232fdac07970b40e017beae2eba47f87f6aa",
+              "sizeB": 305
+            }
+          ],
+          "keysTarget": 12030,
+          "keysTranslated": 12026,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/Squad/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:39295cfe2f6b020c3d1fce86e54f82ea512c803aa6b04e56a291c04fc595fd18",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "StageRecovery",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "d1649c4d2efdad51f4161e36159944ff683fa155e1464546363c9283318d8eb3",
+              "sizeB": 9139
+            },
+            {
+              "path": "pack.json",
+              "sha256": "d656b56a73cbfe17ede9c330ca3ba6e4a25c58e678caf88f269bde1c53dc6e15",
+              "sizeB": 309
+            }
+          ],
+          "keysTarget": 124,
+          "keysTranslated": 124,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/StageRecovery/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:451a8b5874cf6f88eb3c34442f21b66bc2ee5cf4b7c7232acbec5407868cbae7",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "StarshipExpansionProject",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "68e82956680c3e853a758d6b160635090f59b37a88b203f07c3e30f6ab43cbf4",
+              "sizeB": 51084
+            },
+            {
+              "path": "pack.json",
+              "sha256": "7d1d7c136b5ddeb27372447423b7fb358b77e727ae9565a2c3b766e04170ebaf",
+              "sizeB": 320
+            }
+          ],
+          "keysTarget": 489,
+          "keysTranslated": 489,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/StarshipExpansionProject/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:0c1919a1eaa82605c54a716472a5a04dee3d858f4d30dd7dcf3d4d22baef2b8b",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "StationPartsExpansionRedux",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "acafa979fc4c5e899333cb8d55c1a60717cb222e8f827babc47a0a50a9522ece",
+              "sizeB": 114357
+            },
+            {
+              "path": "pack.json",
+              "sha256": "f912dbdfd2a9b850fa728be07c32a7478d3ccbe28addbe54673cdc88010116e6",
+              "sizeB": 322
+            }
+          ],
+          "keysTarget": 813,
+          "keysTranslated": 813,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/StationPartsExpansionRedux/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:fbb71e7000cd0afccfac7354986c093b9fbf05903a53fdec4e5b0aa8b70ee8ee",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "StationScienceContinued",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "77cd2b5de646308dd42bb83412d0ebca40db826328ad906a7eb2eec5449e88e0",
+              "sizeB": 19950
+            },
+            {
+              "path": "pack.json",
+              "sha256": "ef6bf8a04d264344520a9951f4d014f6b16f10837170f7544743b0bc5bb6bd27",
+              "sizeB": 319
+            }
+          ],
+          "keysTarget": 185,
+          "keysTranslated": 185,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/StationScienceContinued/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:f5d177831843499dc660be7eda2898df4781a76ddc9f6a327f4d62882583ba25",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "SupplementaryElectricEngines",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "0c411293ee6a54cc695f2525aa097f6bc1286a6b03be5ffd7ee36fba7a730af1",
+              "sizeB": 6939
+            },
+            {
+              "path": "pack.json",
+              "sha256": "048173ff742d9f13813c30a3fb2bd370ca93d8926b017ed85dd175715e74abf9",
+              "sizeB": 322
+            }
+          ],
+          "keysTarget": 51,
+          "keysTranslated": 51,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/SupplementaryElectricEngines/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:040eb66fd14bb992e15738fae68be0309f2e44e4a47af1468f72760d7c3ebc79",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "SystemHeat",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "43313c05021b3c3c9ccbaee4304f8478268e8b19f44c6770293a4256c395b5d4",
+              "sizeB": 29475
+            },
+            {
+              "path": "pack.json",
+              "sha256": "721832ba0e9413cb95fa5294dc6d8b788d48fdaa447cf8bf4f9120836279f6b9",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 291,
+          "keysTranslated": 291,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/SystemHeat/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:779b6f2bf183a705cfda4ee6cecf87502977f91241456173334d1f6a1711d456",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "TACLS",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "d8e04032fa6b104a77c843e946855533177c59f522904b65fb27b0d513e4645d",
+              "sizeB": 22397
+            },
+            {
+              "path": "pack.json",
+              "sha256": "d8ae7afa0603a9ea7b834489d97bce969f573700dbe74da13b5d130bc059541a",
+              "sizeB": 301
+            }
+          ],
+          "keysTarget": 261,
+          "keysTranslated": 261,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/TACLS/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:ed20b903a4259ce63d0eb50f0d177c888a169aa993a63bc2048eebee9aececd5",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "TantaresSP",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "88a050c6d5b263f599de0de4f6d41400f7105abbf5245d7eefbae172b38e2916",
+              "sizeB": 38423
+            },
+            {
+              "path": "pack.json",
+              "sha256": "1907323c8fc5d9ff5879219d327411244eecae4986bb8b139098424ca491be10",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 351,
+          "keysTranslated": 351,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/TantaresSP/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:b173ce7a2da390019ac924855ce8c68d60900cf7e24b85876f16fa42fcd56749",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "Toolbar",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "9c8b95cc0a81245668e4d8851c5586f290b74e85ed612b8c0494a2a269cdb446",
+              "sizeB": 2396
+            },
+            {
+              "path": "pack.json",
+              "sha256": "18fe3e2340d25a5a5a889664e11ecadbc3480b6819e63a345ebb70dc7b0aadc9",
+              "sizeB": 301
+            }
+          ],
+          "keysTarget": 38,
+          "keysTranslated": 38,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/Toolbar/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:159400c4c41ee4c81ef059efcabfd59a8e76d18d4000915ae500461c825f1a48",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "Trajectories",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "7e04e29dce94842b32318d118fb9fe39c6cabfcbb606f0af82614688b04e4381",
+              "sizeB": 4074
+            },
+            {
+              "path": "pack.json",
+              "sha256": "2fa2679e7e46c032873a4336558674696c5017384aea6b687ca149ec65a2379d",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 58,
+          "keysTranslated": 58,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/Trajectories/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:2d5b2fe7b5e848979ea52c3acf800d2b6d56918d9a1cdf8790839416fac6aa4b",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "UnKerballedStart",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "3f74988caa47ed2b384575ea400ab011934e4137b12f72f9a7de7fe4f39c27ce",
+              "sizeB": 4257
+            },
+            {
+              "path": "pack.json",
+              "sha256": "f7ceb6b4fed5ed3a515c9958e445b6687d9a1d8aa1f6fefea85dc6ca585803eb",
+              "sizeB": 310
+            }
+          ],
+          "keysTarget": 62,
+          "keysTranslated": 62,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/UnKerballedStart/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:643793dbd1056803fc89f109ffc02607aec9fd2d2d0b6b83223d8ab0d28957b8",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "VABOrganizer",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "2dc93f624990a51b321867a3a38d7f816e59dd70b009e36d432883b8f563cb6f",
+              "sizeB": 7657
+            },
+            {
+              "path": "pack.json",
+              "sha256": "300ef7f0cbf616918dd33008ef13d95e746c709e33af67f0cc48a222ce933dd1",
+              "sizeB": 308
+            }
+          ],
+          "keysTarget": 139,
+          "keysTranslated": 139,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/VABOrganizer/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:a1f45f598b6158aa5eb2d9f0d7b43807f5e8a14bffd07ab3f4fc4fd9b993fc48",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "VABOrganizer-Munk",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "8602c2482c114c7f6ffe73bb7db81ca6235a70a7ec41433208a8813b4f8c8a6f",
+              "sizeB": 6075
+            },
+            {
+              "path": "pack.json",
+              "sha256": "67008890c68c327949ee7bdae2d7082841615aba49bec15e1e8e38e194e341eb",
+              "sizeB": 311
+            }
+          ],
+          "keysTarget": 77,
+          "keysTranslated": 77,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/VABOrganizer-Munk/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:c690727dba8d3a6cfd387662fa1db23a1786f2e4c2b7f5f43dafbc4aab0720d4",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "VABOrganizer-SheepDog",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "902faffb678a59b1183ee32b0021e297658d37d4d96e589a0c02113092e1d295",
+              "sizeB": 2526
+            },
+            {
+              "path": "pack.json",
+              "sha256": "fc1159f4b5ca5ed5d76e23e20e5f8c3bedccaa176d23ccaa7b31b383ab6e9ce0",
+              "sizeB": 315
+            }
+          ],
+          "keysTarget": 43,
+          "keysTranslated": 43,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/VABOrganizer-SheepDog/ko/variants/2026-08-17-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:555abb26b41b74716b1c2f7cf93efd304a8f940cecf8c3fab7cdfcecfaf089d3",
+          "variantId": "2026-08-17-gemini31flashlite-anon"
         }
       ]
     }
