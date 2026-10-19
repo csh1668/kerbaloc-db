@@ -1,0 +1,10 @@
+{
+  "keys_target": 57,
+  "keys_translated": 57,
+  "lang": "ko",
+  "mod_id": "ContractsWindowPlus",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:693c5177ae9c6af468496e0020ee4cd6a3c88bbe0012e2c7c3ae6847b0ac7a9f",
+  "variant_id": "2026-10-19-gemini31flashlite-dino"
+}
