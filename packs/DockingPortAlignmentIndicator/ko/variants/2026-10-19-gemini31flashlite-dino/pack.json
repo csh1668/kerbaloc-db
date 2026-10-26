@@ -1,0 +1,10 @@
+{
+  "keys_target": 27,
+  "keys_translated": 27,
+  "lang": "ko",
+  "mod_id": "DockingPortAlignmentIndicator",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:6ea593972a6c1606bd68166af4abe97f75ae01c47e65da1b24ec835d8315f391",
+  "variant_id": "2026-10-19-gemini31flashlite-dino"
+}
