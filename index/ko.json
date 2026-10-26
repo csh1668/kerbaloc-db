@@ -582,6 +582,31 @@
       ]
     },
     {
+      "modId": "ContractsWindowPlus",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "b94529cf04d3dbf06f22200ba29580ffb1b4a31c1af8edca4db08254b4b589a9",
+              "sizeB": 2879
+            },
+            {
+              "path": "pack.json",
+              "sha256": "3e9b87792516b904a76c4a5bc8efae6b558db50186513d1b0b1d2c9cd6a82a3f",
+              "sizeB": 313
+            }
+          ],
+          "keysTarget": 57,
+          "keysTranslated": 57,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/ContractsWindowPlus/ko/variants/2026-10-19-gemini31flashlite-dino/",
+          "srcSha256": "v1:sha256:693c5177ae9c6af468496e0020ee4cd6a3c88bbe0012e2c7c3ae6847b0ac7a9f",
+          "variantId": "2026-10-19-gemini31flashlite-dino"
+        }
+      ]
+    },
+    {
       "modId": "CryoEngines",
       "variants": [
         {
@@ -728,6 +753,31 @@
           "path": "packs/DockingCamKURS/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:4b9aad179c67a4d05e23c87468e846377058b47250fab391835d61fe0f38e079",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "DockingPortAlignmentIndicator",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "ca759d5bcacd48585820cb74a857e28d444e77a325ea1fbd0eac3d5534285459",
+              "sizeB": 1148
+            },
+            {
+              "path": "pack.json",
+              "sha256": "85465ee1977d27fbc77f70d47251bc2cf0f73b5a569126ef11dab157d1f17b60",
+              "sizeB": 323
+            }
+          ],
+          "keysTarget": 27,
+          "keysTranslated": 27,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/DockingPortAlignmentIndicator/ko/variants/2026-10-19-gemini31flashlite-dino/",
+          "srcSha256": "v1:sha256:6ea593972a6c1606bd68166af4abe97f75ae01c47e65da1b24ec835d8315f391",
+          "variantId": "2026-10-19-gemini31flashlite-dino"
         }
       ]
     },
