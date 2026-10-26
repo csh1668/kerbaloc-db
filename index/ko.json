@@ -832,6 +832,31 @@
       ]
     },
     {
+      "modId": "ExtraDockingPorts",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "44e79a6067727f9d67924480e978d20557151f34c08bab9febffdfe9c31ada2c",
+              "sizeB": 3499
+            },
+            {
+              "path": "pack.json",
+              "sha256": "21e2a591db249b2dc01fa999ec2eb7531e62b1c18a1a96dd8f615ed88e7820f1",
+              "sizeB": 311
+            }
+          ],
+          "keysTarget": 19,
+          "keysTranslated": 19,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/ExtraDockingPorts/ko/variants/2026-10-19-gemini31flashlite-dino/",
+          "srcSha256": "v1:sha256:c118562d4b05f34c48b06c8042a7d1e30ab36682502953def33bab6bf8eb2db2",
+          "variantId": "2026-10-19-gemini31flashlite-dino"
+        }
+      ]
+    },
+    {
       "modId": "FMRSContinued",
       "variants": [
         {
