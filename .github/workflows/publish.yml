@@ -21,6 +21,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           path: db
+          ref: main # 트리거 SHA가 아닌 최신 main — 대기 중이던 run이 앞 run의 인덱스 커밋 위에서 시작
       - name: kerbaloc 도구 체크아웃
         uses: actions/checkout@v4
         with:
@@ -32,21 +33,33 @@ jobs:
           workspaces: tool
       - name: 전수 검증
         run: cargo run -q -p kerbaloc-cli --manifest-path tool/Cargo.toml -- db validate db
-      - name: 인덱스 재생성
-        run: cargo run -q -p kerbaloc-cli --manifest-path tool/Cargo.toml -- db index db --out db/index/ko.json
-      - name: 인덱스 커밋 (변경 시)
+      - name: 인덱스 재생성·커밋 (변경 시)
         id: commit
         working-directory: db
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add index/ko.json
-          if git diff --cached --quiet; then
-            echo "인덱스 변경 없음"
-          else
+          # 연속 머지로 push가 거부되면 최신 main 위에서 인덱스를 다시 만들어 재시도.
+          # 인덱스는 트리에서 결정적으로 생성되므로 리베이스 대신 재생성한다.
+          for attempt in 1 2 3 4 5; do
+            cargo run -q -p kerbaloc-cli --manifest-path ../tool/Cargo.toml -- db index . --out index/ko.json
+            git add index/ko.json
+            if git diff --cached --quiet; then
+              echo "인덱스 변경 없음"
+              break
+            fi
             git commit -m "chore(index): rebuild [skip ci]"
-            git push
-          fi
+            if git push; then
+              break
+            fi
+            if [ "$attempt" -eq 5 ]; then
+              echo "::error::인덱스 push 5회 거부"
+              exit 1
+            fi
+            echo "push 거부 — 최신 main으로 재시도 ($attempt/5)"
+            git fetch origin main
+            git reset --hard FETCH_HEAD
+          done
           echo "sha=$(git rev-parse HEAD)" >> "$GITHUB_OUTPUT"
       - name: manifest 생성
         working-directory: db
