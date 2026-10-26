@@ -1,0 +1,10 @@
+{
+  "keys_target": 19,
+  "keys_translated": 19,
+  "lang": "ko",
+  "mod_id": "ExtraDockingPorts",
+  "model": "gemini-3.1-flash-lite",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:c118562d4b05f34c48b06c8042a7d1e30ab36682502953def33bab6bf8eb2db2",
+  "variant_id": "2026-10-19-gemini31flashlite-dino"
+}
