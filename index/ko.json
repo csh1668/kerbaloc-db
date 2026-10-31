@@ -23,6 +23,26 @@
           "path": "packs/AGExt/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:bd9d5413b08e69a46feefef7cff6558cf7160c6391bbc3e800da77aaa3c18ae2",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "791ae6594a2ebf60049c9e2bd8834d21f46694299810004e80bbe342a1c71035",
+              "sizeB": 2747
+            },
+            {
+              "path": "pack.json",
+              "sha256": "c53678b2177b588ea1692806f8d3cae321f0ed82c4d1cdbc1845144be9938e66",
+              "sizeB": 288
+            }
+          ],
+          "keysTarget": 55,
+          "keysTranslated": 55,
+          "model": "claude-opus-5-5",
+          "path": "packs/AGExt/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:bd9d5413b08e69a46feefef7cff6558cf7160c6391bbc3e800da77aaa3c18ae2",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -48,6 +68,26 @@
           "path": "packs/AlcoholicAeronautics/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:a728f1167be54b2c3d3a8d849701eef5730f09ae29d165300cc80e2a6b58a425",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "6d8633977a63bbe2ec9115fc2d5cdeaf56015282f5be42069cb3cf245879aace",
+              "sizeB": 5833
+            },
+            {
+              "path": "pack.json",
+              "sha256": "99ebb3d6361cd27bbf638fecdcaf97836aeba945f787e8d625c14d9b7afb05d7",
+              "sizeB": 303
+            }
+          ],
+          "keysTarget": 31,
+          "keysTranslated": 31,
+          "model": "claude-opus-5-5",
+          "path": "packs/AlcoholicAeronautics/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:a728f1167be54b2c3d3a8d849701eef5730f09ae29d165300cc80e2a6b58a425",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -73,6 +113,26 @@
           "path": "packs/Astrogator/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:5f9fbe911f9f0cff1be8f478c3ed4702a049ca071c1389f04e2c202e3896e670",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "946fc99377ae2a957ea92f6ed34fc9f82414f4e6c3d73c5171139b0342450ba5",
+              "sizeB": 3230
+            },
+            {
+              "path": "pack.json",
+              "sha256": "2a8aa3f1b8bbe5dcfda6066eec26b6253e3bf56aae5748b5c3b7120419a43eb4",
+              "sizeB": 293
+            }
+          ],
+          "keysTarget": 50,
+          "keysTranslated": 50,
+          "model": "claude-opus-5-5",
+          "path": "packs/Astrogator/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:5f9fbe911f9f0cff1be8f478c3ed4702a049ca071c1389f04e2c202e3896e670",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -98,6 +158,26 @@
           "path": "packs/B9-PWings-Fork/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:1cade67433f6facbbab5c0b42107d747f7583eb65782ff3ac4ab513f3e81c3c6",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "66d925acf08fd62dfb5f411828ef505abf05b76bda0b1533dc2aeec31759b3f2",
+              "sizeB": 14302
+            },
+            {
+              "path": "pack.json",
+              "sha256": "a8f956673427c12822282b4a3d657cdd6795832c2e6c7e28d0db6cbf2137d695",
+              "sizeB": 299
+            }
+          ],
+          "keysTarget": 171,
+          "keysTranslated": 171,
+          "model": "claude-opus-5-5",
+          "path": "packs/B9-PWings-Fork/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:1cade67433f6facbbab5c0b42107d747f7583eb65782ff3ac4ab513f3e81c3c6",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -143,6 +223,26 @@
           "path": "packs/B9PartSwitch/ko/variants/2026-08-19-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:ecd7c9c0a77d307565499d539e3a10b7df0793c4458c37c64146ca9a1dd6d5ab",
           "variantId": "2026-08-19-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "7b967fd2cfa699d152ac69d1fe7849fdcf8d1ca39fa40eedcf30cd85cf3eeb76",
+              "sizeB": 1451
+            },
+            {
+              "path": "pack.json",
+              "sha256": "76d84e139034d78dd854722a37405e033434fa772bdbf0ac12ce5257edc63383",
+              "sizeB": 295
+            }
+          ],
+          "keysTarget": 18,
+          "keysTranslated": 18,
+          "model": "claude-opus-5-5",
+          "path": "packs/B9PartSwitch/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:ecd7c9c0a77d307565499d539e3a10b7df0793c4458c37c64146ca9a1dd6d5ab",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -168,6 +268,26 @@
           "path": "packs/BackgroundResourceProcessing/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:9ab17566edd80b14c904ed91b2158ed2944fbb9c9b8a0f337a3f4f237f96bcd7",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "7b7048d1fe71732bdbfea34ef6ff67e21677ca65789a994d50b05ceb08a66bbb",
+              "sizeB": 2607
+            },
+            {
+              "path": "pack.json",
+              "sha256": "fc0d5d8ca9adfa304bd743f319fb63bbcc1fd5bee472fe580ec33768106d2e86",
+              "sizeB": 311
+            }
+          ],
+          "keysTarget": 39,
+          "keysTranslated": 39,
+          "model": "claude-opus-5-5",
+          "path": "packs/BackgroundResourceProcessing/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:9ab17566edd80b14c904ed91b2158ed2944fbb9c9b8a0f337a3f4f237f96bcd7",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -213,6 +333,26 @@
           "path": "packs/Benjee10-SharedAssets/ko/variants/2026-08-19-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:d3cced333ade901450b923501c82568a2d7f4b3098ca6ba8ea9d1050cc4985a3",
           "variantId": "2026-08-19-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "55d3b8015db0915208c26c354460c5c9c7b4928919984d80b40739d4a69617bd",
+              "sizeB": 415
+            },
+            {
+              "path": "pack.json",
+              "sha256": "50bd85fff16d757e291ca712760ab63dc999f3bf6cadeae83ff8e6c7bdf85322",
+              "sizeB": 302
+            }
+          ],
+          "keysTarget": 6,
+          "keysTranslated": 6,
+          "model": "claude-opus-5-5",
+          "path": "packs/Benjee10-SharedAssets/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:d3cced333ade901450b923501c82568a2d7f4b3098ca6ba8ea9d1050cc4985a3",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -238,6 +378,26 @@
           "path": "packs/BonVoyage/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:ed50c63f2b9c8d356fea2f9e5915d91ba1d63a3d374263af32d72fc6e8a705e7",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "dc83033e04dcc8ecef98358cd874a4bf683651d4b2c464e3e38f91e9670c2f40",
+              "sizeB": 8915
+            },
+            {
+              "path": "pack.json",
+              "sha256": "5ac60e1f7cbf65208746844853502adb54620deb805dd2255db8acaa9f6b8a9b",
+              "sizeB": 294
+            }
+          ],
+          "keysTarget": 136,
+          "keysTranslated": 136,
+          "model": "claude-opus-5-5",
+          "path": "packs/BonVoyage/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:ed50c63f2b9c8d356fea2f9e5915d91ba1d63a3d374263af32d72fc6e8a705e7",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -263,6 +423,26 @@
           "path": "packs/BreakingGround-DLC/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:dd5a05a88afb73bca0ba4b471295e2a4222c1d12c9c5b4dc5d132ea76c76763b",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "d947b04db7e7a7a5a75aa71fa03aceac2301451e553c29c5865cf0485a4fe367",
+              "sizeB": 71540
+            },
+            {
+              "path": "pack.json",
+              "sha256": "f308cd669f1ade02921d7eb9ff2d19de4551ad2ef440e1bdff5ee86962ae747a",
+              "sizeB": 303
+            }
+          ],
+          "keysTarget": 724,
+          "keysTranslated": 724,
+          "model": "claude-opus-5-5",
+          "path": "packs/BreakingGround-DLC/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:dd5a05a88afb73bca0ba4b471295e2a4222c1d12c9c5b4dc5d132ea76c76763b",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -333,6 +513,26 @@
           "path": "packs/BurstPQS/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:08f0ce84ef7fc7b7742ab9cb12716ce441007c4a3266c5ce558ed00306b6e72a",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "29e53bf04fc23e4d9abc1793fac270dca4b9ee97003ece389343fa08d7dabec9",
+              "sizeB": 503
+            },
+            {
+              "path": "pack.json",
+              "sha256": "243ba1370c6cb6f9760a769498251eb404709c56b9144407d6d40750c8c706e4",
+              "sizeB": 289
+            }
+          ],
+          "keysTarget": 2,
+          "keysTranslated": 2,
+          "model": "claude-opus-5-5",
+          "path": "packs/BurstPQS/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:08f0ce84ef7fc7b7742ab9cb12716ce441007c4a3266c5ce558ed00306b6e72a",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -358,6 +558,26 @@
           "path": "packs/CameraTools/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:31a2bf30848338814ffcad08792636a74d0f9af0c0105e225b52762ab007d10b",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "ded76af6286ed1b5d52e9cfee42cb64176ffbdb4dafb04e54694739c9c8df226",
+              "sizeB": 10447
+            },
+            {
+              "path": "pack.json",
+              "sha256": "cc1e0510775c2f9bab407182b98024de2c47411b345566b704876d6ff92c1db1",
+              "sizeB": 296
+            }
+          ],
+          "keysTarget": 152,
+          "keysTranslated": 152,
+          "model": "claude-opus-5-5",
+          "path": "packs/CameraTools/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:31a2bf30848338814ffcad08792636a74d0f9af0c0105e225b52762ab007d10b",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -383,6 +603,26 @@
           "path": "packs/ChemicalCore/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:a61b9bd3c9e152813d0f45dd899757a66bd953d19f2036772118ac8689502ff2",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "ab47d3a1b8b72be330fe7c3a106d238e528fd5c3fa0e52ba9d96e8313cfe31d7",
+              "sizeB": 9366
+            },
+            {
+              "path": "pack.json",
+              "sha256": "9ede22e809708f1a92d8114ea1654d377a85615f58f506d93aa28d482a1dbcb8",
+              "sizeB": 295
+            }
+          ],
+          "keysTarget": 55,
+          "keysTranslated": 55,
+          "model": "claude-opus-5-5",
+          "path": "packs/ChemicalCore/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:a61b9bd3c9e152813d0f45dd899757a66bd953d19f2036772118ac8689502ff2",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -408,6 +648,26 @@
           "path": "packs/ChemicalPropulsion/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:aad32c103a356f27767ca7ffd4ddd62d6a7381f75bfe90ac0aea3ff708f669e8",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "c86078a2dd017fcbedb6fd9c4995b7758cf8ea251d7080eb723907dc0bac5bd2",
+              "sizeB": 12049
+            },
+            {
+              "path": "pack.json",
+              "sha256": "c5ee1f3e88b61d6f134caa65aa158d4489ab75a619af3758e7d0719ff67a36b9",
+              "sizeB": 303
+            }
+          ],
+          "keysTarget": 123,
+          "keysTranslated": 123,
+          "model": "claude-opus-5-5",
+          "path": "packs/ChemicalPropulsion/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:6795170c56652a359eaa49efc21df785375eda4569cba142c9e05d1162338ca1",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -433,6 +693,26 @@
           "path": "packs/ClassicStockResources/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:5790d120a1542e1c59f4d69cb18a962c170d646475dd61ea1a776523021a5620",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "c23f610758b9f6506977b6f09d1510af419d52271dd475cdb9b61c9155b6edfc",
+              "sizeB": 2316
+            },
+            {
+              "path": "pack.json",
+              "sha256": "ac6a73054f66b6a80993ce4e5680b3d7bf013172cb4650e90c0a797da24cf69c",
+              "sizeB": 304
+            }
+          ],
+          "keysTarget": 18,
+          "keysTranslated": 18,
+          "model": "claude-opus-5-5",
+          "path": "packs/ClassicStockResources/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:5790d120a1542e1c59f4d69cb18a962c170d646475dd61ea1a776523021a5620",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -458,6 +738,26 @@
           "path": "packs/CommunityPartsTitles/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:eb4a4172d58875c4f45d7055ca1af37824c5d5ebe1b18056e886532d4d6653db",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "946597f44549eb456a806aa4fbf20b8a8e1bcd0161f4d63ac2ee31518ac1be31",
+              "sizeB": 152938
+            },
+            {
+              "path": "pack.json",
+              "sha256": "1653cb090520de2a7b29dd7be707a79a21ec9814b6f92ab540599fe5e52e838d",
+              "sizeB": 307
+            }
+          ],
+          "keysTarget": 2066,
+          "keysTranslated": 2066,
+          "model": "claude-opus-5-5",
+          "path": "packs/CommunityPartsTitles/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:eb4a4172d58875c4f45d7055ca1af37824c5d5ebe1b18056e886532d4d6653db",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -503,6 +803,26 @@
           "path": "packs/CommunityResourcePack/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:62d1c3f7c0fe3820b43abde9d32834c6eb2429606f1ed331fdef0bf2ca124383",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "f1c955f5effe965220f1ccf6880a921b96450009d34ab610de3189939b882e28",
+              "sizeB": 10555
+            },
+            {
+              "path": "pack.json",
+              "sha256": "0374d14dfb5fcf7a5cd2b7956deaf12a043735fe094da7f77f1f742ea5dbefd2",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 240,
+          "keysTranslated": 240,
+          "model": "claude-opus-5-5",
+          "path": "packs/CommunityResourcePack/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:62d1c3f7c0fe3820b43abde9d32834c6eb2429606f1ed331fdef0bf2ca124383",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -528,6 +848,26 @@
           "path": "packs/CommunityTechTree/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:c996409d760f884e3d0dbf6df91face438c15d7d4b4d5db5994e9dc7ee89bc31",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "1cd14a5b2fc272a34772920c06d4078283ac40421e1209ad2864584d773c8ce0",
+              "sizeB": 16681
+            },
+            {
+              "path": "pack.json",
+              "sha256": "0866b2ebb2649c6b5b700678cb04d3617875688159670a41a67cfa1ec1fc3b61",
+              "sizeB": 302
+            }
+          ],
+          "keysTarget": 164,
+          "keysTranslated": 164,
+          "model": "claude-opus-5-5",
+          "path": "packs/CommunityTechTree/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:c996409d760f884e3d0dbf6df91face438c15d7d4b4d5db5994e9dc7ee89bc31",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -553,6 +893,26 @@
           "path": "packs/ConnectedLivingSpace/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:b88153df9ad193c56421aa18a8c617ce76bc2207e9837cf5fec98689b2fbeaf2",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "10ab43c82ca794baff7d36e225a63a516ae76e41f16cf86853be2fd67377c685",
+              "sizeB": 1638
+            },
+            {
+              "path": "pack.json",
+              "sha256": "2d1b15cf999baaafba009957ea4f857aae32f168aa100b147d9584095e6f453c",
+              "sizeB": 303
+            }
+          ],
+          "keysTarget": 40,
+          "keysTranslated": 40,
+          "model": "claude-opus-5-5",
+          "path": "packs/ConnectedLivingSpace/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:b88153df9ad193c56421aa18a8c617ce76bc2207e9837cf5fec98689b2fbeaf2",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -578,6 +938,26 @@
           "path": "packs/ContractConfigurator/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:9ebc19af1b967261f012c4d988b56a6fc575d2add984cec77a19101c6077a6f4",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "29a061e906897ba535e1b2637ca8d9e11d6b99c818295994f4516c22911a7ec8",
+              "sizeB": 28507
+            },
+            {
+              "path": "pack.json",
+              "sha256": "f200ec2d126a71b838cac4296dd2180d84e00a597b34edc2cabeddcea20996b6",
+              "sizeB": 305
+            }
+          ],
+          "keysTarget": 400,
+          "keysTranslated": 400,
+          "model": "claude-opus-5-5",
+          "path": "packs/ContractConfigurator/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:9ebc19af1b967261f012c4d988b56a6fc575d2add984cec77a19101c6077a6f4",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -628,6 +1008,26 @@
           "path": "packs/CryoEngines/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:b0c39cfca9833c0e6a059a639618b52189caa0277312e40b6a4b9d7e4a903fcc",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "44dfb8f75af4f111183384831ed84cf1b32496ca10597b9c10530fc6179094cd",
+              "sizeB": 13705
+            },
+            {
+              "path": "pack.json",
+              "sha256": "cfdbebfb6fd13abcfef19dc0fcc6f9826c59f2ddef5ff46a3c7ee0669186b29f",
+              "sizeB": 296
+            }
+          ],
+          "keysTarget": 106,
+          "keysTranslated": 106,
+          "model": "claude-opus-5-5",
+          "path": "packs/CryoEngines/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:b0c39cfca9833c0e6a059a639618b52189caa0277312e40b6a4b9d7e4a903fcc",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -653,6 +1053,26 @@
           "path": "packs/CryoTanks/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:2a8bc2b644220fa278f3bdf783ac128de2d1a37eb0c358f38073d93c55fdc443",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "67f366c5858baf481e9cb310f46ca62f0aafc63aea6186cf40a8062c20fc206b",
+              "sizeB": 11132
+            },
+            {
+              "path": "pack.json",
+              "sha256": "62abf5a127958c6100b76273076540916c8f601d2c44f8be380a816d5c2e2aeb",
+              "sizeB": 294
+            }
+          ],
+          "keysTarget": 103,
+          "keysTranslated": 103,
+          "model": "claude-opus-5-5",
+          "path": "packs/CryoTanks/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:2a8bc2b644220fa278f3bdf783ac128de2d1a37eb0c358f38073d93c55fdc443",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -678,6 +1098,26 @@
           "path": "packs/DatedQuickSaves/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:c24ea858a83a32695d2db3bf1aa5dbf87e945acccbbc520d00f8db4c383bb5c2",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "4c7b19505052a336ba7a00d3f37279c79e3613e8756bd94c73f478fee641b962",
+              "sizeB": 2176
+            },
+            {
+              "path": "pack.json",
+              "sha256": "f9ca4b04b52abfd175832027627afcf3bb39a043ee706e4636002ba52a8d3c15",
+              "sizeB": 298
+            }
+          ],
+          "keysTarget": 23,
+          "keysTranslated": 23,
+          "model": "claude-opus-5-5",
+          "path": "packs/DatedQuickSaves/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:c24ea858a83a32695d2db3bf1aa5dbf87e945acccbbc520d00f8db4c383bb5c2",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -703,6 +1143,26 @@
           "path": "packs/DeepFreeze/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:d10ace2d6a8b45cc4b1f650c49b139e1aa8d3afd0bc9f7eada581aadeda4eebf",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "982c5eb00f7a57ab687754b9b127d846e3c80e120b84409f2e92c89015b6ebd2",
+              "sizeB": 15193
+            },
+            {
+              "path": "pack.json",
+              "sha256": "b4f28d14edddcab73667236ae3838afe34d452be27758b1cd32267a43f09dfb8",
+              "sizeB": 295
+            }
+          ],
+          "keysTarget": 210,
+          "keysTranslated": 210,
+          "model": "claude-opus-5-5",
+          "path": "packs/DeepFreeze/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:de994e7a91ad8b61c88ecf47365d3d397c9035d220aa3961d7313db74dbafbcf",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -728,6 +1188,26 @@
           "path": "packs/DockRotate/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:f366699a8ee3a3a6086412f70f4eee98d68af7ac82d81edd585ade6ddd8d3572",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "a3ff3e104ebe4807bd15b54259ae83f9320ed142808e779cdc9d4a81f21dc5a4",
+              "sizeB": 1371
+            },
+            {
+              "path": "pack.json",
+              "sha256": "85cfa096e11365ab9b149c33534455e0f061571bc6fc7b4af41d4248d7e57393",
+              "sizeB": 293
+            }
+          ],
+          "keysTarget": 25,
+          "keysTranslated": 25,
+          "model": "claude-opus-5-5",
+          "path": "packs/DockRotate/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:f366699a8ee3a3a6086412f70f4eee98d68af7ac82d81edd585ade6ddd8d3572",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -753,6 +1233,26 @@
           "path": "packs/DockingCamKURS/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:4b9aad179c67a4d05e23c87468e846377058b47250fab391835d61fe0f38e079",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "463776ed9193e65780faefd9c90a72b3150476f8eb4fbab196c7c6fc4bfc2624",
+              "sizeB": 6192
+            },
+            {
+              "path": "pack.json",
+              "sha256": "31bdbc6d14325c0c6c9f6272aff95853719289b9d76d4bee15aa89f4add7286e",
+              "sizeB": 299
+            }
+          ],
+          "keysTarget": 123,
+          "keysTranslated": 123,
+          "model": "claude-opus-5-5",
+          "path": "packs/DockingCamKURS/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:4b9aad179c67a4d05e23c87468e846377058b47250fab391835d61fe0f38e079",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -803,6 +1303,26 @@
           "path": "packs/DynamicBatteryStorage/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:af7c8a97c8be0dc929f68a6bc72410b57a9039be49937fcfcc1880079f89543e",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "8521c404d7b32cb502ea3430576eac7649e31abaef5bec93eede18f0dada2e75",
+              "sizeB": 8959
+            },
+            {
+              "path": "pack.json",
+              "sha256": "587279bb49e55f1361c89c09e9f03a3de7cbbeea33dd7b067b028c834bdfa1e2",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 114,
+          "keysTranslated": 114,
+          "model": "claude-opus-5-5",
+          "path": "packs/DynamicBatteryStorage/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:af7c8a97c8be0dc929f68a6bc72410b57a9039be49937fcfcc1880079f89543e",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -828,6 +1348,51 @@
           "path": "packs/EasyVesselSwitch/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:bd68c737cd5bacee0f70399c7ccbfbf14a6ac63ba04372f9b6e3edaeba19286d",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "871fb6e82283a90ea6f7f4f1233c210c28d2231bf3b3033830156844c52ad3c6",
+              "sizeB": 1396
+            },
+            {
+              "path": "pack.json",
+              "sha256": "76c68d17d07a9aed1165d3e39ead7ff85f37727d2978d3cc86350cbd570c2e82",
+              "sizeB": 299
+            }
+          ],
+          "keysTarget": 25,
+          "keysTranslated": 25,
+          "model": "claude-opus-5-5",
+          "path": "packs/EasyVesselSwitch/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:bd68c737cd5bacee0f70399c7ccbfbf14a6ac63ba04372f9b6e3edaeba19286d",
+          "variantId": "2026-10-31-claudeopus55-anon"
+        }
+      ]
+    },
+    {
+      "modId": "EditorExtensionsRedux",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "bef03cbe6a10ba64008196ed3e79b5b55ba101d4e4cf9ee1804073e1d8365f48",
+              "sizeB": 6225
+            },
+            {
+              "path": "pack.json",
+              "sha256": "109eb5e7d66acc78fc1353e0b627087a5efaba062f0c3d4e781fbac34e14d474",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 164,
+          "keysTranslated": 164,
+          "model": "claude-opus-5-5",
+          "path": "packs/EditorExtensionsRedux/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:fadfacce3c6794c9bf0f6473a7116f2b8c10f04c4904fc850b39e62466d6a936",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -878,6 +1443,26 @@
           "path": "packs/FMRSContinued/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:a5542fd8c69840536273846e543b2afb20bc3227a005656023ff73c822882a2d",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "b4ef33f489753ce62bcf30a88937168b2611ea90c068f257cb5c4588c5c14388",
+              "sizeB": 2604
+            },
+            {
+              "path": "pack.json",
+              "sha256": "058d7ab6f20a031dbd3aab5dc4ff59f308aaf339ce4b1a5c08cf01c04bf06e83",
+              "sizeB": 296
+            }
+          ],
+          "keysTarget": 42,
+          "keysTranslated": 42,
+          "model": "claude-opus-5-5",
+          "path": "packs/FMRSContinued/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:a5542fd8c69840536273846e543b2afb20bc3227a005656023ff73c822882a2d",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -903,6 +1488,26 @@
           "path": "packs/FarFutureTechnologies/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:88f230e74b6b25fcf73dd5f9945947a0d1193f21df538d89c507ddfdadf51b3c",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "7893d4aec02211be99d0b526c6d81d89e51625c27bf1b97cd1a491dfbb4762a6",
+              "sizeB": 61207
+            },
+            {
+              "path": "pack.json",
+              "sha256": "7aa1d457fe318dd3bebcb08693cdbb6c3cab710d34f6c00110442e86cfa16d18",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 503,
+          "keysTranslated": 492,
+          "model": "claude-opus-5-5",
+          "path": "packs/FarFutureTechnologies/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:88f230e74b6b25fcf73dd5f9945947a0d1193f21df538d89c507ddfdadf51b3c",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -928,6 +1533,26 @@
           "path": "packs/FerramAerospaceResearchContinued/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:f06a2059aaac2a7851701103ad59bdf5a0f532da94f1623d1c4d6c47daf2f76a",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "9b4e49af4442d09ad6c756922725ba1ad2e4dbfc1db77655884e7c73e0c614dd",
+              "sizeB": 18432
+            },
+            {
+              "path": "pack.json",
+              "sha256": "44d6abe31e9c197ef7759e99eb390746db9b5001cbf615bed9effe317414dd4a",
+              "sizeB": 317
+            }
+          ],
+          "keysTarget": 357,
+          "keysTranslated": 357,
+          "model": "claude-opus-5-5",
+          "path": "packs/FerramAerospaceResearchContinued/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:f06a2059aaac2a7851701103ad59bdf5a0f532da94f1623d1c4d6c47daf2f76a",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -953,6 +1578,26 @@
           "path": "packs/FreeIva/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:232e15fd7ab7e8b40656e25ad8da5c44b7b0edeccfdfa11843f57a59418be40f",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "4aed6c65d1b5b6b8332b88147e620eed0a3db8a6b2663be98f650671edb2c9e4",
+              "sizeB": 3666
+            },
+            {
+              "path": "pack.json",
+              "sha256": "4f2b0f76b02c933a4d3f65a78006f1f026d259ffd0416a1094888fb739763735",
+              "sizeB": 290
+            }
+          ],
+          "keysTarget": 53,
+          "keysTranslated": 53,
+          "model": "claude-opus-5-5",
+          "path": "packs/FreeIva/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:232e15fd7ab7e8b40656e25ad8da5c44b7b0edeccfdfa11843f57a59418be40f",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -978,6 +1623,26 @@
           "path": "packs/HeatControl/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:7dbf0c372c856cf193eac0b9247e27ed94c5cefbcfc2f4f7f5fb47e637f7150a",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "a30189e173fd1ad776e4a882f1fd4703051a0f8f06cc3935494f35844920fd66",
+              "sizeB": 11860
+            },
+            {
+              "path": "pack.json",
+              "sha256": "66eae07a4df252ac922e5430117e02b8806766f46b209e2e7c6777124c0bf583",
+              "sizeB": 294
+            }
+          ],
+          "keysTarget": 87,
+          "keysTranslated": 87,
+          "model": "claude-opus-5-5",
+          "path": "packs/HeatControl/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:7dbf0c372c856cf193eac0b9247e27ed94c5cefbcfc2f4f7f5fb47e637f7150a",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1003,6 +1668,26 @@
           "path": "packs/HideEmptyTechNodes/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:e1a5ff2915a6a6bc45daa07581882552a3a71616207209f0f5a3666d104cf351",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "a14b76d16a14b4ef73f8889f5519b1893ef400839ad13a74f66b9a04e3340b89",
+              "sizeB": 2710
+            },
+            {
+              "path": "pack.json",
+              "sha256": "1b0f943c90bbc940b8697cfdc082d3fc6a7176e37dc96fb8ae11924fec73cf40",
+              "sizeB": 301
+            }
+          ],
+          "keysTarget": 32,
+          "keysTranslated": 32,
+          "model": "claude-opus-5-5",
+          "path": "packs/HideEmptyTechNodes/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:e1a5ff2915a6a6bc45daa07581882552a3a71616207209f0f5a3666d104cf351",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1028,6 +1713,26 @@
           "path": "packs/KAS/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:ac531f16e918fad2428f2dc61961a0f4cb92b3e0c91abe6e1014e7c3db4ca343",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "8146a5b57484133d8612fe3457cdcd0e234046ac82948c4425f46a4cd43dcdb5",
+              "sizeB": 15568
+            },
+            {
+              "path": "pack.json",
+              "sha256": "9741ef796965497ce5d1efbb9e33952ff85dca473ca800aa25dfd9a3caf5d245",
+              "sizeB": 288
+            }
+          ],
+          "keysTarget": 225,
+          "keysTranslated": 225,
+          "model": "claude-opus-5-5",
+          "path": "packs/KAS/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:ac531f16e918fad2428f2dc61961a0f4cb92b3e0c91abe6e1014e7c3db4ca343",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1053,6 +1758,26 @@
           "path": "packs/KRASH/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:c2d01ad83e6f371b905646ed3ca48be9bb0ca920ed21cddd0db81e60db87cbdf",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "b497bc40963f405b7d5907e8e242d8c446501c9d0c83095f6d02eda01b42299e",
+              "sizeB": 6050
+            },
+            {
+              "path": "pack.json",
+              "sha256": "31aadb92a944e6d3f03a33cbc9f4a732e137edcd7855430afd9ae9bf0a4de59d",
+              "sizeB": 290
+            }
+          ],
+          "keysTarget": 102,
+          "keysTranslated": 102,
+          "model": "claude-opus-5-5",
+          "path": "packs/KRASH/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:c2d01ad83e6f371b905646ed3ca48be9bb0ca920ed21cddd0db81e60db87cbdf",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1078,6 +1803,26 @@
           "path": "packs/KSPCommunityFixes/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:0924678a029541d86ca352fb1209404198e4048f69bf6d5b3e511824cd320fdf",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "8c0c14204e05eb6387d562756f98f3f37ae8e7d81decb76f44114cc60c2ad146",
+              "sizeB": 7031
+            },
+            {
+              "path": "pack.json",
+              "sha256": "ad8ef8f49d12111bf914330cc3d41d1467fca823b7909722ed5c94f6a4f60820",
+              "sizeB": 300
+            }
+          ],
+          "keysTarget": 29,
+          "keysTranslated": 29,
+          "model": "claude-opus-5-5",
+          "path": "packs/KSPCommunityFixes/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:0924678a029541d86ca352fb1209404198e4048f69bf6d5b3e511824cd320fdf",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1103,6 +1848,26 @@
           "path": "packs/KSPCommunityPartModules/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:a13c7d61ef8592571d26de5d7b262906791c7d1499dfb70bae6b16cca8b9ec91",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "7fe6c48aff941a49632bd72c57fea3663a8e0f355be9bb76aa5efd75f918941a",
+              "sizeB": 84
+            },
+            {
+              "path": "pack.json",
+              "sha256": "83e4e7fb144cd3e4d67608c77ce304c0840326e216e5c658abd0553a2c34b11b",
+              "sizeB": 304
+            }
+          ],
+          "keysTarget": 1,
+          "keysTranslated": 1,
+          "model": "claude-opus-5-5",
+          "path": "packs/KSPCommunityPartModules/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:a13c7d61ef8592571d26de5d7b262906791c7d1499dfb70bae6b16cca8b9ec91",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1128,6 +1893,26 @@
           "path": "packs/KcalbelohSystem/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:e6e70f74fa1ffc9a057e7636b8fd80f65867fbb19b13246045913aff970ecbe5",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "f7fa4ec34fad1768d240e3851b621b566ac911d220d081f433c7068012a19edd",
+              "sizeB": 440268
+            },
+            {
+              "path": "pack.json",
+              "sha256": "5b51b4939edee9f726d9ac73bb667e148df457bc99ebf8256131cf7f77f202aa",
+              "sizeB": 302
+            }
+          ],
+          "keysTarget": 2010,
+          "keysTranslated": 2010,
+          "model": "claude-opus-5-5",
+          "path": "packs/KcalbelohSystem/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:e6e70f74fa1ffc9a057e7636b8fd80f65867fbb19b13246045913aff970ecbe5",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1153,6 +1938,26 @@
           "path": "packs/KerbalAlarmClock/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:aa03a6a74776d563d6c09867c8a22e358d8bfe74773ea7b4be72df86e2060054",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "b82bb4006ae16eee19eb81ff4b5457ce2840b43f1061fb9dfeb715cd4a867f5f",
+              "sizeB": 23936
+            },
+            {
+              "path": "pack.json",
+              "sha256": "842acd8e0834ed20896cf01eb14c1cdb7175c30a403e196b47d6bdb7df1dac6b",
+              "sizeB": 301
+            }
+          ],
+          "keysTarget": 550,
+          "keysTranslated": 550,
+          "model": "claude-opus-5-5",
+          "path": "packs/KerbalAlarmClock/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:aa03a6a74776d563d6c09867c8a22e358d8bfe74773ea7b4be72df86e2060054",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1178,6 +1983,26 @@
           "path": "packs/KerbalAtomics/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:3c12447c20f324aaa63041df00eb68aca8e9d68a05c40ad14b703a8b26a632d7",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "40c4c62403c286f0276e54f5a4ded4bde70cabfd709af74324aaa38bf8273927",
+              "sizeB": 10233
+            },
+            {
+              "path": "pack.json",
+              "sha256": "40f48f2020b87d9921a3fd80dd66d25f82a85075a990641a410dc5082676942f",
+              "sizeB": 296
+            }
+          ],
+          "keysTarget": 41,
+          "keysTranslated": 41,
+          "model": "claude-opus-5-5",
+          "path": "packs/KerbalAtomics/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:3c12447c20f324aaa63041df00eb68aca8e9d68a05c40ad14b703a8b26a632d7",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1203,6 +2028,26 @@
           "path": "packs/KerbalChangelog/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:5b8af2233e1f00abcab24ac2b5e0ae8ae7df02f1b1b2ad9c905101882633bb38",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "a06ce043b799cd4ec80974e096168599c21deab92b21e1cf79685bb8ec2f211b",
+              "sizeB": 2847
+            },
+            {
+              "path": "pack.json",
+              "sha256": "0f29070af436332d41fc158af08ae90950941e97e7b2decf292aa3bc3c848ff2",
+              "sizeB": 298
+            }
+          ],
+          "keysTarget": 41,
+          "keysTranslated": 41,
+          "model": "claude-opus-5-5",
+          "path": "packs/KerbalChangelog/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:5b8af2233e1f00abcab24ac2b5e0ae8ae7df02f1b1b2ad9c905101882633bb38",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1248,6 +2093,126 @@
           "path": "packs/KerbalEngineerRedux/ko/variants/2026-08-19-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:c2ae151e967885a9add44276c3062c8649bf1512ffd5fb478c4029b3190e4ce2",
           "variantId": "2026-08-19-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "3d8da7d94772a4e89caaa4a5de874adacb279c861fa95b557628ade3168d22a8",
+              "sizeB": 980
+            },
+            {
+              "path": "pack.json",
+              "sha256": "a90b36cc32cf1c1259818e7ed31df2fa78890d7f14dcc0e3f79391a8579068f7",
+              "sizeB": 300
+            }
+          ],
+          "keysTarget": 8,
+          "keysTranslated": 8,
+          "model": "claude-opus-5-5",
+          "path": "packs/KerbalEngineerRedux/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:c2ae151e967885a9add44276c3062c8649bf1512ffd5fb478c4029b3190e4ce2",
+          "variantId": "2026-10-31-claudeopus55-anon"
+        }
+      ]
+    },
+    {
+      "modId": "KerbalFX-AeroFX",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "b61c96740abb502704a20187abe0a863e07fb8c4e9c1b88614085fbd1f65678b",
+              "sizeB": 3176
+            },
+            {
+              "path": "pack.json",
+              "sha256": "7e7ce91581621f459cc68fd24ab57bf07f515a57d26f13d3b01c71d3a3efe674",
+              "sizeB": 298
+            }
+          ],
+          "keysTarget": 34,
+          "keysTranslated": 34,
+          "model": "claude-opus-5-5",
+          "path": "packs/KerbalFX-AeroFX/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:08a0c6c3cfc15c9f461fa20ef85ecc1d36ee56066a272404de51e077ee5ebd3a",
+          "variantId": "2026-10-31-claudeopus55-anon"
+        }
+      ]
+    },
+    {
+      "modId": "KerbalFX-BlastFX",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "8ab637f94546c7d9394d63ad0f20ed52996631b0ac663eda9f0b44a90f3502c4",
+              "sizeB": 4434
+            },
+            {
+              "path": "pack.json",
+              "sha256": "4b774ca03be2c30fe8dc34335408a376660f7383d4510e3c40c2fd107230e749",
+              "sizeB": 299
+            }
+          ],
+          "keysTarget": 42,
+          "keysTranslated": 42,
+          "model": "claude-opus-5-5",
+          "path": "packs/KerbalFX-BlastFX/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:2c042b7ecc4a7a6fb782fc110bd36237260414feeb1c2fcffa9d6cd3ee091326",
+          "variantId": "2026-10-31-claudeopus55-anon"
+        }
+      ]
+    },
+    {
+      "modId": "KerbalFX-ImpactPuffs",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "60f49ad318274a1a5ce9497e0c82dc949dbb9a1d1eb6657420138be36a594cc0",
+              "sizeB": 3608
+            },
+            {
+              "path": "pack.json",
+              "sha256": "320bc43ad11aee0708d735865dd7b9913815fc73ca6107e149a23b39fa7e466c",
+              "sizeB": 303
+            }
+          ],
+          "keysTarget": 32,
+          "keysTranslated": 32,
+          "model": "claude-opus-5-5",
+          "path": "packs/KerbalFX-ImpactPuffs/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:062e2d54653fdda451cb5695aa8a568b87f21bf2daa4caea1b3b8c54b252c01b",
+          "variantId": "2026-10-31-claudeopus55-anon"
+        }
+      ]
+    },
+    {
+      "modId": "KerbalFX-RoverDust",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "d7856f0e456647867d27d62c7dfd357c5eb8f853e792044d722a6194bff1afe9",
+              "sizeB": 2766
+            },
+            {
+              "path": "pack.json",
+              "sha256": "40ee2977cd6b49bac9de08c6a5680d969435564c67bd8827c2bfaa72ed011923",
+              "sizeB": 301
+            }
+          ],
+          "keysTarget": 29,
+          "keysTranslated": 29,
+          "model": "claude-opus-5-5",
+          "path": "packs/KerbalFX-RoverDust/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:bae19ba179115cbb5c7ee89b3805b61e8498209f17c9873cf8f9bbfb261ecd83",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1273,6 +2238,26 @@
           "path": "packs/Kopernicus/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:35e5f93c7413558547cc8360155bbd363f1f8f11a7069e5aa54e32060a9566aa",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "105bddc9e42b6f118b5daee63dc26addc49cdac8a93b20a5884acaf5dc69efc2",
+              "sizeB": 2068
+            },
+            {
+              "path": "pack.json",
+              "sha256": "4aa984dda874aa9816ad63c7beea8e25cb4a2156d34f6b6f92e4751907fb968d",
+              "sizeB": 293
+            }
+          ],
+          "keysTarget": 26,
+          "keysTranslated": 26,
+          "model": "claude-opus-5-5",
+          "path": "packs/Kopernicus/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:35e5f93c7413558547cc8360155bbd363f1f8f11a7069e5aa54e32060a9566aa",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1298,6 +2283,26 @@
           "path": "packs/Labradoodle/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:5873ecfd29b927a48ec8ebe68f58096ff9b74529cf52573dc9dda9c0a9589ee9",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "95b4bc4daf7121746f6503a8ceda4b5c83080dda82a0cbbe42773c07e20850c6",
+              "sizeB": 367
+            },
+            {
+              "path": "pack.json",
+              "sha256": "f0eb4dc7679166a8c675c668d2030280300b6c9e1cc7d1531dc997eb18a81c24",
+              "sizeB": 292
+            }
+          ],
+          "keysTarget": 3,
+          "keysTranslated": 3,
+          "model": "claude-opus-5-5",
+          "path": "packs/Labradoodle/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:5873ecfd29b927a48ec8ebe68f58096ff9b74529cf52573dc9dda9c0a9589ee9",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1323,6 +2328,26 @@
           "path": "packs/LoadingTipsPlus/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:d33e5326f42049a6e7a44fc2b35e64b19b4c1665e3655c61afdd38b3c9694ec3",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "d7dece528721dece71d7b78c1b49c172bc68b715970529eeeb2dd0a019ddc2a2",
+              "sizeB": 111
+            },
+            {
+              "path": "pack.json",
+              "sha256": "8118ff0a3131775776fe37863804a4842938bbe47fe4922955da79cae4a4fea9",
+              "sizeB": 296
+            }
+          ],
+          "keysTarget": 1,
+          "keysTranslated": 1,
+          "model": "claude-opus-5-5",
+          "path": "packs/LoadingTipsPlus/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:d33e5326f42049a6e7a44fc2b35e64b19b4c1665e3655c61afdd38b3c9694ec3",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1348,6 +2373,26 @@
           "path": "packs/MechJeb2/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:6b24678afd8989267179bc6f68e216cf0e3f5a93ecc0ddb9386a02ba282e76ba",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "afe538573ca02096faced519f3b7b70c8a282d52ea8ef547ea8044e88b20ec06",
+              "sizeB": 68138
+            },
+            {
+              "path": "pack.json",
+              "sha256": "82274317bd9f27d167560e350d928ff972c86f25991624017d6acdd16d0061e2",
+              "sizeB": 295
+            }
+          ],
+          "keysTarget": 1187,
+          "keysTranslated": 1187,
+          "model": "claude-opus-5-5",
+          "path": "packs/MechJeb2/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:b0c68f2afe1dd5253af8199a2ad08d5b06d7ac2674db05e6182e7bcf5450d74e",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1373,6 +2418,26 @@
           "path": "packs/MinorPlanetsExpansion/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:34a8bea459dafbc16708bcdb156c39238fea19e4b6635dc43589e1879b9cee51",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "4239b305a51e442b084a98c2e2864da94d5b400adcb590313485487271a5991b",
+              "sizeB": 13786
+            },
+            {
+              "path": "pack.json",
+              "sha256": "3ea87d1382e4b7ccaf0c8e84e49adcaf2f81e3382a99d4bf3cdf5165606f3562",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 125,
+          "keysTranslated": 125,
+          "model": "claude-opus-5-5",
+          "path": "packs/MinorPlanetsExpansion/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:34a8bea459dafbc16708bcdb156c39238fea19e4b6635dc43589e1879b9cee51",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1398,6 +2463,26 @@
           "path": "packs/MoldaviteMachines/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:21a48f4b8e3d5f15827dc07334d9124065452bc8b5c9c663319528bd46f8c07b",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "7dddc9f3c2275d18c5bcc8393c0fd9c6c17e52c5b4c6e8b88157a0cbef00d95e",
+              "sizeB": 4753
+            },
+            {
+              "path": "pack.json",
+              "sha256": "1d919432a9290a9bab607773699599fc2e165fccdfc1c7fbb55f70dcfb57f057",
+              "sizeB": 300
+            }
+          ],
+          "keysTarget": 69,
+          "keysTranslated": 69,
+          "model": "claude-opus-5-5",
+          "path": "packs/MoldaviteMachines/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:21a48f4b8e3d5f15827dc07334d9124065452bc8b5c9c663319528bd46f8c07b",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1423,6 +2508,26 @@
           "path": "packs/NearFutureAeronautics/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:29349d42561e663bf614ae398d56088330d9e3d2119a5dfcedcdc8982c222c75",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "6bd3306fff0a837dce88032474f54f37d5cac899cfa396fde8243b7995efa5e5",
+              "sizeB": 18352
+            },
+            {
+              "path": "pack.json",
+              "sha256": "3ac2b86625f5e044f2c4908fc10337a1a0607928d178ffed49a1af24e20f77cb",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 119,
+          "keysTranslated": 119,
+          "model": "claude-opus-5-5",
+          "path": "packs/NearFutureAeronautics/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:29349d42561e663bf614ae398d56088330d9e3d2119a5dfcedcdc8982c222c75",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1448,6 +2553,26 @@
           "path": "packs/NearFutureConstruction/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:a7d70538f77dcdaa3089f0e83fbd686876e4d4345973fdb9b11f35766e43efcc",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "be1d362facdca1a0df719481fb141fb9869e38d00b104a0cef40337c25fc466c",
+              "sizeB": 34985
+            },
+            {
+              "path": "pack.json",
+              "sha256": "5eb729d873f0278804cdf2f956422c1dbca02fddb68388d2d690c6c300933099",
+              "sizeB": 307
+            }
+          ],
+          "keysTarget": 292,
+          "keysTranslated": 290,
+          "model": "claude-opus-5-5",
+          "path": "packs/NearFutureConstruction/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:a7d70538f77dcdaa3089f0e83fbd686876e4d4345973fdb9b11f35766e43efcc",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1473,6 +2598,26 @@
           "path": "packs/NearFutureElectrical/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:d3daa7c1be25a0327e5a10084a6749c1289043ad14c7f6e431d5408f454b0f31",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "f9c95b2f5c95ad81642320d344cb68c9a896e20146887b534e68dcaa4af4f67b",
+              "sizeB": 28566
+            },
+            {
+              "path": "pack.json",
+              "sha256": "c02730602466675de638f5ed3a319a6e7ddfc8ea266d8869345d246aa9a39c0f",
+              "sizeB": 305
+            }
+          ],
+          "keysTarget": 240,
+          "keysTranslated": 240,
+          "model": "claude-opus-5-5",
+          "path": "packs/NearFutureElectrical/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:d3daa7c1be25a0327e5a10084a6749c1289043ad14c7f6e431d5408f454b0f31",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1498,6 +2643,26 @@
           "path": "packs/NearFutureExploration/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:553a700c732464668d733c1c089b3116580a22d30f5c128be4da79cce8deba73",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "33f7a290cd72aa73fc9cabf28ac17608e5bc36053ffe8af07be5bebf0eb74cba",
+              "sizeB": 39527
+            },
+            {
+              "path": "pack.json",
+              "sha256": "1555f67ce238569e6eabe7c665c49b13f4f3bf4fb3acea50aa81ab9f031b8c4c",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 302,
+          "keysTranslated": 298,
+          "model": "claude-opus-5-5",
+          "path": "packs/NearFutureExploration/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:553a700c732464668d733c1c089b3116580a22d30f5c128be4da79cce8deba73",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1523,6 +2688,26 @@
           "path": "packs/NearFutureLaunchVehicles/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:61fc94dd47ffde5c89c7ce0b1b1ec92df45b962e07b64d64c90b0eae7313e8fe",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "fc7bf6028c0e65e97e1cbb082d559fde7f67debce1b3d687e29c5f4cc61efe5c",
+              "sizeB": 78816
+            },
+            {
+              "path": "pack.json",
+              "sha256": "3f42b1c49221d4ad9ee6fd0eb8c73239754a9fd3fc446f467325052cc629ec9d",
+              "sizeB": 309
+            }
+          ],
+          "keysTarget": 536,
+          "keysTranslated": 531,
+          "model": "claude-opus-5-5",
+          "path": "packs/NearFutureLaunchVehicles/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:61fc94dd47ffde5c89c7ce0b1b1ec92df45b962e07b64d64c90b0eae7313e8fe",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1548,6 +2733,26 @@
           "path": "packs/NearFuturePropulsion/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:72e293841834115b4fd6191cefe0098b35ea6b768619fc14a40d116bc55d96b6",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "32fa044c386a93c8171f586fc2bd1f1b5a2bac5b44360f4a991a235dcef74c79",
+              "sizeB": 27642
+            },
+            {
+              "path": "pack.json",
+              "sha256": "ea7571bba1b3ca17c7398c22fa8c9c65b42ca53decc9bcea5f3c78c1888a65ba",
+              "sizeB": 305
+            }
+          ],
+          "keysTarget": 216,
+          "keysTranslated": 216,
+          "model": "claude-opus-5-5",
+          "path": "packs/NearFuturePropulsion/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:72e293841834115b4fd6191cefe0098b35ea6b768619fc14a40d116bc55d96b6",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1573,6 +2778,26 @@
           "path": "packs/NearFutureSolar/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:4e7363e715d547cd8c4fe93a1dfe9cbe85cd7171e27a31c24577cb43cf24fe18",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "83ce152716e99a8bfa0031ddf76032f567a55927a43416dd9f161a2ee20fc127",
+              "sizeB": 24435
+            },
+            {
+              "path": "pack.json",
+              "sha256": "20ec8066f94d6fce420dadcf207bd9d95dde73946e58f7ff9e798a20dc7ebdfd",
+              "sizeB": 300
+            }
+          ],
+          "keysTarget": 136,
+          "keysTranslated": 135,
+          "model": "claude-opus-5-5",
+          "path": "packs/NearFutureSolar/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:4e7363e715d547cd8c4fe93a1dfe9cbe85cd7171e27a31c24577cb43cf24fe18",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1598,6 +2823,26 @@
           "path": "packs/NearFutureSpacecraft/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:7a61eb4e87a98d2da7f9e1a26ca20679477296c747e64e32f9e8f1bd0501a071",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "982f0ff33d8e0c9c4a0cd73d9ae473eb214d013c0080bc63474c50a9f2d23c2a",
+              "sizeB": 21250
+            },
+            {
+              "path": "pack.json",
+              "sha256": "7fcffaee2f5c4da31c3ea3a139e6f8da5fc7e1c12c19be15d6dc1306353671cc",
+              "sizeB": 305
+            }
+          ],
+          "keysTarget": 155,
+          "keysTranslated": 155,
+          "model": "claude-opus-5-5",
+          "path": "packs/NearFutureSpacecraft/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:7a61eb4e87a98d2da7f9e1a26ca20679477296c747e64e32f9e8f1bd0501a071",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1623,6 +2868,26 @@
           "path": "packs/NewTantares/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:cc0ef3b63bb5f6cce3ebd70ab597eeda476fc0b02959e4961510899c2b739e52",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "de9af1c5c26e84d82070f968db77ec24beaab3871c8b6e84a2e3d9d02428638c",
+              "sizeB": 104654
+            },
+            {
+              "path": "pack.json",
+              "sha256": "06ee72bdc34165f59b9ca528b0d22b1954635c58d50a7117e36ea9f13ee682bd",
+              "sizeB": 297
+            }
+          ],
+          "keysTarget": 1016,
+          "keysTranslated": 997,
+          "model": "claude-opus-5-5",
+          "path": "packs/NewTantares/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:cc0ef3b63bb5f6cce3ebd70ab597eeda476fc0b02959e4961510899c2b739e52",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1648,6 +2913,26 @@
           "path": "packs/NewTantaresLV/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:9924d9ed33d7b222d1302041fbb4aae031cbbc98dca14a0e9120a8cc4d768ced",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "b7c2cb44683cfc571108b9cb59fa796a93d304d0c54d4e9633e67f91f9260aa8",
+              "sizeB": 43208
+            },
+            {
+              "path": "pack.json",
+              "sha256": "2934abd45eb1d6916842cbba88059d060304c5afa8cbce7aa27352ae8f708b76",
+              "sizeB": 298
+            }
+          ],
+          "keysTarget": 392,
+          "keysTranslated": 392,
+          "model": "claude-opus-5-5",
+          "path": "packs/NewTantaresLV/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:9924d9ed33d7b222d1302041fbb4aae031cbbc98dca14a0e9120a8cc4d768ced",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1673,6 +2958,26 @@
           "path": "packs/OPTReconfig/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:7c0d62e4000a6b3d01bb94b90dca92395e0ca045368257f615727161e914c0e1",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "0e234a5aeabc698748ba6398e6d3bc6cc03e00334abaae893c708c77ded66e6e",
+              "sizeB": 4746
+            },
+            {
+              "path": "pack.json",
+              "sha256": "7eb654adbbf265218489070c70a513564d2260fdb2be4454111e1b49c03d6495",
+              "sizeB": 294
+            }
+          ],
+          "keysTarget": 35,
+          "keysTranslated": 35,
+          "model": "claude-opus-5-5",
+          "path": "packs/OPTReconfig/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:7c0d62e4000a6b3d01bb94b90dca92395e0ca045368257f615727161e914c0e1",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1698,6 +3003,26 @@
           "path": "packs/OPTSpacePlaneMain/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:48f794e96c81857bb5e0bcd6e223e6245811ae836d73885382648c3cd3bde54b",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "d4b1576908ea2821e42b90c4537cdddead6122c897b23ac38cd8af2b7de19956",
+              "sizeB": 20534
+            },
+            {
+              "path": "pack.json",
+              "sha256": "cb29f5a7ed61036397224a7d99ff60bc2f35de9ba225785d7be26a7964aa43e5",
+              "sizeB": 302
+            }
+          ],
+          "keysTarget": 174,
+          "keysTranslated": 174,
+          "model": "claude-opus-5-5",
+          "path": "packs/OPTSpacePlaneMain/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:48f794e96c81857bb5e0bcd6e223e6245811ae836d73885382648c3cd3bde54b",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1723,6 +3048,26 @@
           "path": "packs/OuterParallax/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:485df8e05adaaf4c515044223a9352a91856bbe22f8e8fc3c1e6d93513c64ecd",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "fd64c5f6d11707475ffa0187154d6324c63c5c8fbe12dfdc77eb5ccd652a0ab5",
+              "sizeB": 16180
+            },
+            {
+              "path": "pack.json",
+              "sha256": "fe92dc3fa82f02e0a1c7467dc21361c78e5f81489a39256c4fc247393294e94b",
+              "sizeB": 296
+            }
+          ],
+          "keysTarget": 61,
+          "keysTranslated": 61,
+          "model": "claude-opus-5-5",
+          "path": "packs/OuterParallax/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:485df8e05adaaf4c515044223a9352a91856bbe22f8e8fc3c1e6d93513c64ecd",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1748,6 +3093,26 @@
           "path": "packs/OuterPlanetsMod/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:5d4e1aa7ebed846eb2abb2693dc38ae4c2bd2af15d7aca63982bf87df4036f95",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "25ef0f72637c303297c42556216a08d59534b86c49744c0c83a7643903c1a5d2",
+              "sizeB": 358300
+            },
+            {
+              "path": "pack.json",
+              "sha256": "15f3f454ce17af35f8d31b47a8bce6278e56c7b16c1be02478d26c78baf6ecf9",
+              "sizeB": 302
+            }
+          ],
+          "keysTarget": 2318,
+          "keysTranslated": 2318,
+          "model": "claude-opus-5-5",
+          "path": "packs/OuterPlanetsMod/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:5d4e1aa7ebed846eb2abb2693dc38ae4c2bd2af15d7aca63982bf87df4036f95",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1773,6 +3138,26 @@
           "path": "packs/PatchManager/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:4b4af370b0882f7710258278560789a64f5a2c8b02640074b07200a7ff7345b5",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "46bc906eacb8600bfa47b9e7f347f044c0b298e2df42051b2280a070823e671e",
+              "sizeB": 1448
+            },
+            {
+              "path": "pack.json",
+              "sha256": "1509973e4ef4a78b4c08f87e55c650db71936c4d31c7d69c6888747b07536924",
+              "sizeB": 295
+            }
+          ],
+          "keysTarget": 25,
+          "keysTranslated": 25,
+          "model": "claude-opus-5-5",
+          "path": "packs/PatchManager/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:4b4af370b0882f7710258278560789a64f5a2c8b02640074b07200a7ff7345b5",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1798,6 +3183,26 @@
           "path": "packs/PersistentRotationUpgraded/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:115e33dde35dbf452e54c83f5b3780bc5d6845ee532baabbc78d32b7d8200353",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "eb25629c63074c86b3dca8609b5be91a818d1ed8b57289ac57438e45c8cdffed",
+              "sizeB": 1137
+            },
+            {
+              "path": "pack.json",
+              "sha256": "741fafe00cf0d1a7d31593cd37b75341250b55678b3b751f00d57b333382eca3",
+              "sizeB": 309
+            }
+          ],
+          "keysTarget": 27,
+          "keysTranslated": 27,
+          "model": "claude-opus-5-5",
+          "path": "packs/PersistentRotationUpgraded/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:115e33dde35dbf452e54c83f5b3780bc5d6845ee532baabbc78d32b7d8200353",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1823,6 +3228,26 @@
           "path": "packs/PersistentThrust/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:501711505349374f92cbb1471086277e380e0e7c551857fa5c6975d381a1d132",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "86d96d39ba03479a94552b97b6980bdd1a2db1b6ebc32ecb81a6a57c39bc92b8",
+              "sizeB": 1790
+            },
+            {
+              "path": "pack.json",
+              "sha256": "ebe34d9ecf3b372e381f624c1772e9fb716a99ef855b5154e09ecec420f333e4",
+              "sizeB": 299
+            }
+          ],
+          "keysTarget": 23,
+          "keysTranslated": 23,
+          "model": "claude-opus-5-5",
+          "path": "packs/PersistentThrust/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:501711505349374f92cbb1471086277e380e0e7c551857fa5c6975d381a1d132",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1848,6 +3273,26 @@
           "path": "packs/REPOSoftTech-Agencies/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:4953a25e1b354425b1a103d26b38c49e1fabc8f0ee78a8d38f9ee06a7cd127b5",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "8453998af9e5530ca4e5b2199b9db18a7a69161bf3257313cc2bb3beb80017de",
+              "sizeB": 321
+            },
+            {
+              "path": "pack.json",
+              "sha256": "5686ee294fc45dbde1f4ecf612da88b840c3d98980fc3375faefb6f1b1f8b96b",
+              "sizeB": 302
+            }
+          ],
+          "keysTarget": 2,
+          "keysTranslated": 2,
+          "model": "claude-opus-5-5",
+          "path": "packs/REPOSoftTech-Agencies/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:4953a25e1b354425b1a103d26b38c49e1fabc8f0ee78a8d38f9ee06a7cd127b5",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1873,6 +3318,26 @@
           "path": "packs/ReStock/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:4fee6dd69efaa418418c15c151bdd7fe7a6581e6d7147f7466e7ede8e30ccb77",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "0fa450e6b615b7c2cde07548422ebc19ea438270b1dc67f871d8438a8bc71b0a",
+              "sizeB": 8369
+            },
+            {
+              "path": "pack.json",
+              "sha256": "f5695bd2eb7e0a8ca694a24bf68535e3d803d18eb29ca2c76574209bf02b3958",
+              "sizeB": 292
+            }
+          ],
+          "keysTarget": 128,
+          "keysTranslated": 128,
+          "model": "claude-opus-5-5",
+          "path": "packs/ReStock/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:4fee6dd69efaa418418c15c151bdd7fe7a6581e6d7147f7466e7ede8e30ccb77",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1898,6 +3363,26 @@
           "path": "packs/ReStockPlus/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:7357fe11e346e6b7e59e7cfd1aaf7ae171f8375a8a795b6bd65e6c4d53dccb3f",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "f29172e056ce8b5b3abfa2bc33632106b5c383af53e260e6cb1d285f72cc0235",
+              "sizeB": 64419
+            },
+            {
+              "path": "pack.json",
+              "sha256": "c971f318f6b0800605b4ae7372db161bbeabd22036ea7303182542d438492788",
+              "sizeB": 296
+            }
+          ],
+          "keysTarget": 393,
+          "keysTranslated": 393,
+          "model": "claude-opus-5-5",
+          "path": "packs/ReStockPlus/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:7357fe11e346e6b7e59e7cfd1aaf7ae171f8375a8a795b6bd65e6c4d53dccb3f",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1923,6 +3408,76 @@
           "path": "packs/SCANsat/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:be87f533da274d07bc38dfbf72d112a13631421564d2766928e16a56b886bb14",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "6a428471ed7b065ca556189d903e3b02a1681c0f9122601b52e97a93bdea9816",
+              "sizeB": 48041
+            },
+            {
+              "path": "pack.json",
+              "sha256": "2f384c96b9bb6def32928e4f1560d4dd6ec35f3df96db641e125031bc1a09f0e",
+              "sizeB": 292
+            }
+          ],
+          "keysTarget": 320,
+          "keysTranslated": 320,
+          "model": "claude-opus-5-5",
+          "path": "packs/SCANsat/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:be87f533da274d07bc38dfbf72d112a13631421564d2766928e16a56b886bb14",
+          "variantId": "2026-10-31-claudeopus55-anon"
+        }
+      ]
+    },
+    {
+      "modId": "ScienceRelay",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "472800d8f0d23f887df156c7f6d333d03cc5dc13563fcd83609995b4600e8cbd",
+              "sizeB": 1097
+            },
+            {
+              "path": "pack.json",
+              "sha256": "e6bb01f3a1feca590bddc0c597435bfffc195a14eec3cf1ede0174ed5cff3d69",
+              "sizeB": 295
+            }
+          ],
+          "keysTarget": 12,
+          "keysTranslated": 12,
+          "model": "claude-opus-5-5",
+          "path": "packs/ScienceRelay/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:1604dfd138ec1b0ce2201c2690a23bd8476bf3edd4bc9daa231a881377ff1d02",
+          "variantId": "2026-10-31-claudeopus55-anon"
+        }
+      ]
+    },
+    {
+      "modId": "ShipManifest",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "2f4d2816f8945c2a3f22d1b428b20b9222f3d396e97f3b54d50ed90069e991b2",
+              "sizeB": 35453
+            },
+            {
+              "path": "pack.json",
+              "sha256": "71dab4ab88202f9f086fab6f5f032d5c97b239760fda7df0fad00e73980eb604",
+              "sizeB": 297
+            }
+          ],
+          "keysTarget": 391,
+          "keysTranslated": 391,
+          "model": "claude-opus-5-5",
+          "path": "packs/ShipManifest/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:01d5900730b100f75f5cb20e7c57cc10e7e864371009b3b2894ed53b9d0b97c4",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1948,6 +3503,26 @@
           "path": "packs/SimpleConstruction/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:f5d29d10fb0f31194f2d4b699ec8996bdea5d356b6f4b7fe990dfaa93cfe5abb",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "826e52f8a3cf32522a34230ad6c7aa8a29b7e773b614344c321205c4422707d0",
+              "sizeB": 12288
+            },
+            {
+              "path": "pack.json",
+              "sha256": "238c850e35d819357b4642bad4832b6f35a14a2e6edd390f2a89b8cbdb995635",
+              "sizeB": 303
+            }
+          ],
+          "keysTarget": 128,
+          "keysTranslated": 128,
+          "model": "claude-opus-5-5",
+          "path": "packs/SimpleConstruction/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:f5d29d10fb0f31194f2d4b699ec8996bdea5d356b6f4b7fe990dfaa93cfe5abb",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1973,6 +3548,26 @@
           "path": "packs/SmartParts/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:f10ddd63d83795f7c5858604816e757ea5ac2f673a2792238092d283ba73ca2e",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "28c34e10fc55825b468cde3c9317913fce45e7228b7e2c16b08fb28de13e41b5",
+              "sizeB": 7154
+            },
+            {
+              "path": "pack.json",
+              "sha256": "129f5a5ae057f8770556b1b65f596050b38a09fdfa4787ca66ddc4d04f8666ea",
+              "sizeB": 295
+            }
+          ],
+          "keysTarget": 125,
+          "keysTranslated": 125,
+          "model": "claude-opus-5-5",
+          "path": "packs/SmartParts/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:f10ddd63d83795f7c5858604816e757ea5ac2f673a2792238092d283ba73ca2e",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -1998,6 +3593,26 @@
           "path": "packs/SpaceDust/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:89038811c9c781f67f2e0d47379ba77f5c4da456248a914d7fcee5e30a04460e",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "6adedc0653312d6da0015874185616428465c1cbd95d12b798c8295364f0347c",
+              "sizeB": 13199
+            },
+            {
+              "path": "pack.json",
+              "sha256": "4fec6566979c019a0b9a195250837131db411a811b3c784deaeb0c4c5661a8c7",
+              "sizeB": 294
+            }
+          ],
+          "keysTarget": 142,
+          "keysTranslated": 135,
+          "model": "claude-opus-5-5",
+          "path": "packs/SpaceDust/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:89038811c9c781f67f2e0d47379ba77f5c4da456248a914d7fcee5e30a04460e",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -2023,6 +3638,26 @@
           "path": "packs/SpaceTuxLibrary/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:170ca0ffd2e317e02cf646ec0e80e18ed51002ce207166ea8560538d5f33a7f9",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "ab9d02930fa6aafa807880a415bd111d1fa2c65c97acb38e209370b40e709ebc",
+              "sizeB": 706
+            },
+            {
+              "path": "pack.json",
+              "sha256": "0ad32b2ff096eda33d59cae1b4b377dc5a9f6ecbf7796255a91e56caca330608",
+              "sizeB": 298
+            }
+          ],
+          "keysTarget": 18,
+          "keysTranslated": 18,
+          "model": "claude-opus-5-5",
+          "path": "packs/SpaceTuxLibrary/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:170ca0ffd2e317e02cf646ec0e80e18ed51002ce207166ea8560538d5f33a7f9",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -2048,6 +3683,26 @@
           "path": "packs/Squad/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:39295cfe2f6b020c3d1fce86e54f82ea512c803aa6b04e56a291c04fc595fd18",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "a38550234719e178ea52ef363ccd2faf8562725916f463c32595b4583731b78b",
+              "sizeB": 1058298
+            },
+            {
+              "path": "pack.json",
+              "sha256": "d15dd3992d986340102887a4ced8330e4de0fb8b6e57effdb78b4397adce1cfa",
+              "sizeB": 294
+            }
+          ],
+          "keysTarget": 12030,
+          "keysTranslated": 12030,
+          "model": "claude-opus-5-5",
+          "path": "packs/Squad/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:39295cfe2f6b020c3d1fce86e54f82ea512c803aa6b04e56a291c04fc595fd18",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -2073,6 +3728,26 @@
           "path": "packs/StageRecovery/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:451a8b5874cf6f88eb3c34442f21b66bc2ee5cf4b7c7232acbec5407868cbae7",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "54659ed0922f30616b06b7c524779f6ac1bac002649758b7d4315014e5b8c840",
+              "sizeB": 9285
+            },
+            {
+              "path": "pack.json",
+              "sha256": "c1f221946d4243a0b7db97c2d3fd9db63c6daef766fdd54a8c12ca90291dbd44",
+              "sizeB": 298
+            }
+          ],
+          "keysTarget": 124,
+          "keysTranslated": 124,
+          "model": "claude-opus-5-5",
+          "path": "packs/StageRecovery/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:451a8b5874cf6f88eb3c34442f21b66bc2ee5cf4b7c7232acbec5407868cbae7",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -2098,6 +3773,26 @@
           "path": "packs/StarshipExpansionProject/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:0c1919a1eaa82605c54a716472a5a04dee3d858f4d30dd7dcf3d4d22baef2b8b",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "2c3d1413a99034c6dd46a61e54cda13cf9bf3866056db28d14f55f21517a3f7f",
+              "sizeB": 50267
+            },
+            {
+              "path": "pack.json",
+              "sha256": "19a4f60124799260c557c56ec76b558c5ef805e7ef1f37848aa94f94418f080b",
+              "sizeB": 309
+            }
+          ],
+          "keysTarget": 500,
+          "keysTranslated": 458,
+          "model": "claude-opus-5-5",
+          "path": "packs/StarshipExpansionProject/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:42d9d7b25aac7cd8730f19d33459c4b5ecd55c1ca354f105bccad245e606e629",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -2123,6 +3818,26 @@
           "path": "packs/StationPartsExpansionRedux/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:fbb71e7000cd0afccfac7354986c093b9fbf05903a53fdec4e5b0aa8b70ee8ee",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "658b3417617c0d1867f4330a19e4df66e6d64e27d610ee6438f231c78fa83ce1",
+              "sizeB": 114993
+            },
+            {
+              "path": "pack.json",
+              "sha256": "e0f622880442329a1bde4d05a1d1d3334ac2f7a6c85df0b5521318762c352e66",
+              "sizeB": 311
+            }
+          ],
+          "keysTarget": 813,
+          "keysTranslated": 777,
+          "model": "claude-opus-5-5",
+          "path": "packs/StationPartsExpansionRedux/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:fbb71e7000cd0afccfac7354986c093b9fbf05903a53fdec4e5b0aa8b70ee8ee",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -2148,6 +3863,51 @@
           "path": "packs/StationScienceContinued/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:f5d177831843499dc660be7eda2898df4781a76ddc9f6a327f4d62882583ba25",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "e3c65e7fdc0fd69d6b4edab447a1d0ef3651b907d3737cde7ea49574aa87b17b",
+              "sizeB": 19569
+            },
+            {
+              "path": "pack.json",
+              "sha256": "c3d7495aab1d2f81db5d171cb70d3915cabea75c4591aceefa3879683e5cee15",
+              "sizeB": 308
+            }
+          ],
+          "keysTarget": 185,
+          "keysTranslated": 185,
+          "model": "claude-opus-5-5",
+          "path": "packs/StationScienceContinued/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:f5d177831843499dc660be7eda2898df4781a76ddc9f6a327f4d62882583ba25",
+          "variantId": "2026-10-31-claudeopus55-anon"
+        }
+      ]
+    },
+    {
+      "modId": "SterlingSystemsAgency",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "810c89b79135b8ef2f9cbb8f09adb6747fc45028109347a22a9fdcd93e7d73b0",
+              "sizeB": 60533
+            },
+            {
+              "path": "pack.json",
+              "sha256": "458de534090c2441e6d8967a89114d6c0629775e1ea6c9d408b52b4aa970f821",
+              "sizeB": 306
+            }
+          ],
+          "keysTarget": 591,
+          "keysTranslated": 591,
+          "model": "claude-opus-5-5",
+          "path": "packs/SterlingSystemsAgency/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:6807e725710203530748f178c712214c31f119832ae8c08969dd067bd3eb2426",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -2173,6 +3933,26 @@
           "path": "packs/SupplementaryElectricEngines/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:040eb66fd14bb992e15738fae68be0309f2e44e4a47af1468f72760d7c3ebc79",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "b744c739586e6876632577043295563fe07fc1e31b22fdbc29fd9de714ae0841",
+              "sizeB": 6932
+            },
+            {
+              "path": "pack.json",
+              "sha256": "c234b4f7255af0b7b0a17614c9321f7324cec09ed7393bd498656c44bcd81826",
+              "sizeB": 311
+            }
+          ],
+          "keysTarget": 51,
+          "keysTranslated": 51,
+          "model": "claude-opus-5-5",
+          "path": "packs/SupplementaryElectricEngines/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:040eb66fd14bb992e15738fae68be0309f2e44e4a47af1468f72760d7c3ebc79",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -2198,6 +3978,26 @@
           "path": "packs/SystemHeat/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:779b6f2bf183a705cfda4ee6cecf87502977f91241456173334d1f6a1711d456",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "6eb78489050d1a699cba1d415b56e218b7e6ac1cc0f8eb4871a8a1be100dee00",
+              "sizeB": 29913
+            },
+            {
+              "path": "pack.json",
+              "sha256": "f8675b76c5216b6e76c7d786f22335e6d9d36d494dfca451aa1eb74e4a43a4f9",
+              "sizeB": 295
+            }
+          ],
+          "keysTarget": 291,
+          "keysTranslated": 291,
+          "model": "claude-opus-5-5",
+          "path": "packs/SystemHeat/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:779b6f2bf183a705cfda4ee6cecf87502977f91241456173334d1f6a1711d456",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -2223,6 +4023,26 @@
           "path": "packs/TACLS/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:ed20b903a4259ce63d0eb50f0d177c888a169aa993a63bc2048eebee9aececd5",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "edad28a13c8c3d9905c8205d6be0ad1b9758f8d3ceb17b69dbe049b73d73cb8b",
+              "sizeB": 22978
+            },
+            {
+              "path": "pack.json",
+              "sha256": "459edb671f7eb1818765677898c3ade3b2dddfcfe967e9214c32ecd0686f1175",
+              "sizeB": 290
+            }
+          ],
+          "keysTarget": 261,
+          "keysTranslated": 261,
+          "model": "claude-opus-5-5",
+          "path": "packs/TACLS/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:ed20b903a4259ce63d0eb50f0d177c888a169aa993a63bc2048eebee9aececd5",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -2248,6 +4068,26 @@
           "path": "packs/TantaresSP/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:b173ce7a2da390019ac924855ce8c68d60900cf7e24b85876f16fa42fcd56749",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "edc5d17e388e2bb2311ac0a3df8155e4546196b9a3e2b56dce7fadd9d0e967b1",
+              "sizeB": 38830
+            },
+            {
+              "path": "pack.json",
+              "sha256": "20d49c31ad7b4d510c386a9eccd0a46672dd901ebf78b910ed47e4850ac6abe9",
+              "sizeB": 295
+            }
+          ],
+          "keysTarget": 351,
+          "keysTranslated": 351,
+          "model": "claude-opus-5-5",
+          "path": "packs/TantaresSP/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:b173ce7a2da390019ac924855ce8c68d60900cf7e24b85876f16fa42fcd56749",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -2273,6 +4113,26 @@
           "path": "packs/Toolbar/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:159400c4c41ee4c81ef059efcabfd59a8e76d18d4000915ae500461c825f1a48",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "b1d2df1117fcffdfe8665a7ec8283ed469abd14c319dc786c6548817815eaac7",
+              "sizeB": 2373
+            },
+            {
+              "path": "pack.json",
+              "sha256": "8c55de482cb464a1e04f12a3ec42e2143c6600d897978b612a8b334cedc3f793",
+              "sizeB": 290
+            }
+          ],
+          "keysTarget": 38,
+          "keysTranslated": 38,
+          "model": "claude-opus-5-5",
+          "path": "packs/Toolbar/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:159400c4c41ee4c81ef059efcabfd59a8e76d18d4000915ae500461c825f1a48",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -2298,6 +4158,26 @@
           "path": "packs/Trajectories/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:2d5b2fe7b5e848979ea52c3acf800d2b6d56918d9a1cdf8790839416fac6aa4b",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "13346da1d3edfae724df87ec80eb9025895ca808dc83098ddba62305d7e108d5",
+              "sizeB": 4286
+            },
+            {
+              "path": "pack.json",
+              "sha256": "ec5b2c6421c8aca2a66980fdd438002b429f073ff9ff78baaf7b4f0c03968bc3",
+              "sizeB": 295
+            }
+          ],
+          "keysTarget": 58,
+          "keysTranslated": 58,
+          "model": "claude-opus-5-5",
+          "path": "packs/Trajectories/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:2d5b2fe7b5e848979ea52c3acf800d2b6d56918d9a1cdf8790839416fac6aa4b",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -2323,6 +4203,26 @@
           "path": "packs/UnKerballedStart/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:643793dbd1056803fc89f109ffc02607aec9fd2d2d0b6b83223d8ab0d28957b8",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "9c9b48b0ac33fd373b7fbdef3a5e5ca66a8e4113182d302db185024bd5c591b1",
+              "sizeB": 4114
+            },
+            {
+              "path": "pack.json",
+              "sha256": "207f0ee15b8c7842b87ff84dd12763d027a0ae46146706da5212282d52b0c8b9",
+              "sizeB": 299
+            }
+          ],
+          "keysTarget": 62,
+          "keysTranslated": 62,
+          "model": "claude-opus-5-5",
+          "path": "packs/UnKerballedStart/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:643793dbd1056803fc89f109ffc02607aec9fd2d2d0b6b83223d8ab0d28957b8",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -2348,6 +4248,26 @@
           "path": "packs/VABOrganizer/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:a1f45f598b6158aa5eb2d9f0d7b43807f5e8a14bffd07ab3f4fc4fd9b993fc48",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "83d7532eb6d5c0bad0d947960bda4a089b9ae2c23a0fa9a66c3f4c5c851d85a1",
+              "sizeB": 7615
+            },
+            {
+              "path": "pack.json",
+              "sha256": "b052a831b876b65a7cb3eaab4c5f49bd44230b25fd6dbc964326c9c5741054d2",
+              "sizeB": 297
+            }
+          ],
+          "keysTarget": 139,
+          "keysTranslated": 139,
+          "model": "claude-opus-5-5",
+          "path": "packs/VABOrganizer/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:a1f45f598b6158aa5eb2d9f0d7b43807f5e8a14bffd07ab3f4fc4fd9b993fc48",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -2373,6 +4293,26 @@
           "path": "packs/VABOrganizer-Munk/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:c690727dba8d3a6cfd387662fa1db23a1786f2e4c2b7f5f43dafbc4aab0720d4",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "3100a59e2241100278fcc50fd43f436e271ee56088fc1094699ab2fa1977f9b2",
+              "sizeB": 6101
+            },
+            {
+              "path": "pack.json",
+              "sha256": "6929b8db09760a579a12f9441f6f2588e01aff2a6fcd6a24396f657debc99cba",
+              "sizeB": 300
+            }
+          ],
+          "keysTarget": 77,
+          "keysTranslated": 77,
+          "model": "claude-opus-5-5",
+          "path": "packs/VABOrganizer-Munk/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:c690727dba8d3a6cfd387662fa1db23a1786f2e4c2b7f5f43dafbc4aab0720d4",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     },
@@ -2398,6 +4338,26 @@
           "path": "packs/VABOrganizer-SheepDog/ko/variants/2026-08-17-gemini31flashlite-anon/",
           "srcSha256": "v1:sha256:555abb26b41b74716b1c2f7cf93efd304a8f940cecf8c3fab7cdfcecfaf089d3",
           "variantId": "2026-08-17-gemini31flashlite-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "95df82ffdf7d5122c87233a705f5b1244c6faa20a9b579026c91f6ab45c362b3",
+              "sizeB": 2531
+            },
+            {
+              "path": "pack.json",
+              "sha256": "a16afc30362c85f09d4564048680f6707c031f7fa6ff95772891e0f0199b5817",
+              "sizeB": 304
+            }
+          ],
+          "keysTarget": 43,
+          "keysTranslated": 43,
+          "model": "claude-opus-5-5",
+          "path": "packs/VABOrganizer-SheepDog/ko/variants/2026-10-31-claudeopus55-anon/",
+          "srcSha256": "v1:sha256:555abb26b41b74716b1c2f7cf93efd304a8f940cecf8c3fab7cdfcecfaf089d3",
+          "variantId": "2026-10-31-claudeopus55-anon"
         }
       ]
     }
