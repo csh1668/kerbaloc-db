@@ -1,0 +1,10 @@
+{
+  "keys_target": 142,
+  "keys_translated": 135,
+  "lang": "ko",
+  "mod_id": "SpaceDust",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:89038811c9c781f67f2e0d47379ba77f5c4da456248a914d7fcee5e30a04460e",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

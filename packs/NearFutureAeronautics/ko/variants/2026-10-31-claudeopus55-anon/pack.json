@@ -1,0 +1,10 @@
+{
+  "keys_target": 119,
+  "keys_translated": 119,
+  "lang": "ko",
+  "mod_id": "NearFutureAeronautics",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:29349d42561e663bf614ae398d56088330d9e3d2119a5dfcedcdc8982c222c75",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

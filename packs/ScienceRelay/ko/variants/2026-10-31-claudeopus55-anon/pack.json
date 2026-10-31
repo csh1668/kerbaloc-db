@@ -1,0 +1,10 @@
+{
+  "keys_target": 12,
+  "keys_translated": 12,
+  "lang": "ko",
+  "mod_id": "ScienceRelay",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:1604dfd138ec1b0ce2201c2690a23bd8476bf3edd4bc9daa231a881377ff1d02",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

@@ -1,0 +1,10 @@
+{
+  "keys_target": 43,
+  "keys_translated": 43,
+  "lang": "ko",
+  "mod_id": "VABOrganizer-SheepDog",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:555abb26b41b74716b1c2f7cf93efd304a8f940cecf8c3fab7cdfcecfaf089d3",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

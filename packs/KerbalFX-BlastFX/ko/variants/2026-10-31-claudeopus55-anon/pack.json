@@ -1,0 +1,10 @@
+{
+  "keys_target": 42,
+  "keys_translated": 42,
+  "lang": "ko",
+  "mod_id": "KerbalFX-BlastFX",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:2c042b7ecc4a7a6fb782fc110bd36237260414feeb1c2fcffa9d6cd3ee091326",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

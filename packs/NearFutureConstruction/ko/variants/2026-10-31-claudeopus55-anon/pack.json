@@ -1,0 +1,10 @@
+{
+  "keys_target": 292,
+  "keys_translated": 290,
+  "lang": "ko",
+  "mod_id": "NearFutureConstruction",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:a7d70538f77dcdaa3089f0e83fbd686876e4d4345973fdb9b11f35766e43efcc",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

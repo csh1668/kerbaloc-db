@@ -1,0 +1,10 @@
+{
+  "keys_target": 391,
+  "keys_translated": 391,
+  "lang": "ko",
+  "mod_id": "ShipManifest",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:01d5900730b100f75f5cb20e7c57cc10e7e864371009b3b2894ed53b9d0b97c4",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

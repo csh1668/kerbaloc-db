@@ -1,0 +1,10 @@
+{
+  "keys_target": 25,
+  "keys_translated": 25,
+  "lang": "ko",
+  "mod_id": "PatchManager",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:4b4af370b0882f7710258278560789a64f5a2c8b02640074b07200a7ff7345b5",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}
