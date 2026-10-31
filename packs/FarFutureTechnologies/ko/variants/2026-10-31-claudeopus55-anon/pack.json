@@ -1,0 +1,10 @@
+{
+  "keys_target": 503,
+  "keys_translated": 492,
+  "lang": "ko",
+  "mod_id": "FarFutureTechnologies",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:88f230e74b6b25fcf73dd5f9945947a0d1193f21df538d89c507ddfdadf51b3c",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

@@ -1,0 +1,10 @@
+{
+  "keys_target": 51,
+  "keys_translated": 51,
+  "lang": "ko",
+  "mod_id": "SupplementaryElectricEngines",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:040eb66fd14bb992e15738fae68be0309f2e44e4a47af1468f72760d7c3ebc79",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

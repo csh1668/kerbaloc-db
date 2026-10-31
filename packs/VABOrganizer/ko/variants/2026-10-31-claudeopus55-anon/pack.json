@@ -1,0 +1,10 @@
+{
+  "keys_target": 139,
+  "keys_translated": 139,
+  "lang": "ko",
+  "mod_id": "VABOrganizer",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:a1f45f598b6158aa5eb2d9f0d7b43807f5e8a14bffd07ab3f4fc4fd9b993fc48",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

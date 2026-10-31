@@ -1,0 +1,10 @@
+{
+  "keys_target": 34,
+  "keys_translated": 34,
+  "lang": "ko",
+  "mod_id": "KerbalFX-AeroFX",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:08a0c6c3cfc15c9f461fa20ef85ecc1d36ee56066a272404de51e077ee5ebd3a",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

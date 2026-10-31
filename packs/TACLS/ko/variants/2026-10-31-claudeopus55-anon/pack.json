@@ -1,0 +1,10 @@
+{
+  "keys_target": 261,
+  "keys_translated": 261,
+  "lang": "ko",
+  "mod_id": "TACLS",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:ed20b903a4259ce63d0eb50f0d177c888a169aa993a63bc2048eebee9aececd5",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

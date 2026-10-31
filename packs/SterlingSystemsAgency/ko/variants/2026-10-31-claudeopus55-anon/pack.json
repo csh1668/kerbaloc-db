@@ -1,0 +1,10 @@
+{
+  "keys_target": 591,
+  "keys_translated": 591,
+  "lang": "ko",
+  "mod_id": "SterlingSystemsAgency",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:6807e725710203530748f178c712214c31f119832ae8c08969dd067bd3eb2426",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

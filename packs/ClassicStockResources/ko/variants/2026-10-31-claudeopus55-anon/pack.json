@@ -1,0 +1,10 @@
+{
+  "keys_target": 18,
+  "keys_translated": 18,
+  "lang": "ko",
+  "mod_id": "ClassicStockResources",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:5790d120a1542e1c59f4d69cb18a962c170d646475dd61ea1a776523021a5620",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

@@ -1,0 +1,10 @@
+{
+  "keys_target": 102,
+  "keys_translated": 102,
+  "lang": "ko",
+  "mod_id": "KRASH",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:c2d01ad83e6f371b905646ed3ca48be9bb0ca920ed21cddd0db81e60db87cbdf",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

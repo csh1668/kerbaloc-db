@@ -1,0 +1,10 @@
+{
+  "keys_target": 29,
+  "keys_translated": 29,
+  "lang": "ko",
+  "mod_id": "KerbalFX-RoverDust",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:bae19ba179115cbb5c7ee89b3805b61e8498209f17c9873cf8f9bbfb261ecd83",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

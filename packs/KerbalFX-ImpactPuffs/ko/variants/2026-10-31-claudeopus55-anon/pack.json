@@ -1,0 +1,10 @@
+{
+  "keys_target": 32,
+  "keys_translated": 32,
+  "lang": "ko",
+  "mod_id": "KerbalFX-ImpactPuffs",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:062e2d54653fdda451cb5695aa8a568b87f21bf2daa4caea1b3b8c54b252c01b",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

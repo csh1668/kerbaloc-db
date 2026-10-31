@@ -1,0 +1,10 @@
+{
+  "keys_target": 123,
+  "keys_translated": 123,
+  "lang": "ko",
+  "mod_id": "ChemicalPropulsion",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:6795170c56652a359eaa49efc21df785375eda4569cba142c9e05d1162338ca1",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

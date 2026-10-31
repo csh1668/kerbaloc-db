@@ -1,0 +1,10 @@
+{
+  "keys_target": 2,
+  "keys_translated": 2,
+  "lang": "ko",
+  "mod_id": "BurstPQS",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:08f0ce84ef7fc7b7742ab9cb12716ce441007c4a3266c5ce558ed00306b6e72a",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}

@@ -1,0 +1,10 @@
+{
+  "keys_target": 400,
+  "keys_translated": 400,
+  "lang": "ko",
+  "mod_id": "ContractConfigurator",
+  "model": "claude-opus-5-5",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:9ebc19af1b967261f012c4d988b56a6fc575d2add984cec77a19101c6077a6f4",
+  "variant_id": "2026-10-31-claudeopus55-anon"
+}
