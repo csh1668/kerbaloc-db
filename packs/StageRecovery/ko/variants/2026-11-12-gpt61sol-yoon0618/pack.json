@@ -1,0 +1,10 @@
+{
+  "schema": "kerbaloc/pack@1",
+  "lang": "ko",
+  "mod_id": "StageRecovery",
+  "variant_id": "2026-11-12-gpt61sol-yoon0618",
+  "src_sha256": "v1:sha256:451a8b5874cf6f88eb3c34442f21b66bc2ee5cf4b7c7232acbec5407868cbae7",
+  "keys_translated": 123,
+  "keys_target": 124,
+  "model": "gpt-6.1-sol"
+}

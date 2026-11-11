@@ -1,0 +1,10 @@
+{
+  "schema": "kerbaloc/pack@1",
+  "lang": "ko",
+  "mod_id": "BreakingGround-DLC",
+  "variant_id": "2026-11-12-gpt61sol-yoon0618",
+  "src_sha256": "v1:sha256:dd5a05a88afb73bca0ba4b471295e2a4222c1d12c9c5b4dc5d132ea76c76763b",
+  "keys_translated": 709,
+  "keys_target": 724,
+  "model": "gpt-6.1-sol"
+}
