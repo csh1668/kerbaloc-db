@@ -1,0 +1,10 @@
+{
+  "schema": "kerbaloc/pack@1",
+  "lang": "ko",
+  "mod_id": "MechJeb2",
+  "variant_id": "2026-11-12-gpt61sol-yoon0618",
+  "src_sha256": "v1:sha256:6b24678afd8989267179bc6f68e216cf0e3f5a93ecc0ddb9386a02ba282e76ba",
+  "keys_translated": 1164,
+  "keys_target": 1188,
+  "model": "gpt-6.1-sol"
+}
