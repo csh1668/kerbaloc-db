@@ -443,6 +443,26 @@
           "path": "packs/BreakingGround-DLC/ko/variants/2026-10-31-claudeopus55-anon/",
           "srcSha256": "v1:sha256:dd5a05a88afb73bca0ba4b471295e2a4222c1d12c9c5b4dc5d132ea76c76763b",
           "variantId": "2026-10-31-claudeopus55-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "1ef221a7c7cbcdf13f4629b7ff8694104c3e3a4fc2a4e0df205f0059c801ac7b",
+              "sizeB": 72687
+            },
+            {
+              "path": "pack.json",
+              "sha256": "2e2b4420d56d9a5cb5a705ebac143f1f66312cb54dbb895a24f63733efe49ca3",
+              "sizeB": 299
+            }
+          ],
+          "keysTarget": 724,
+          "keysTranslated": 709,
+          "model": "gpt-6.1-sol",
+          "path": "packs/BreakingGround-DLC/ko/variants/2026-11-12-gpt61sol-yoon0618/",
+          "srcSha256": "v1:sha256:dd5a05a88afb73bca0ba4b471295e2a4222c1d12c9c5b4dc5d132ea76c76763b",
+          "variantId": "2026-11-12-gpt61sol-yoon0618"
         }
       ]
     },
@@ -1823,6 +1843,26 @@
           "path": "packs/KSPCommunityFixes/ko/variants/2026-10-31-claudeopus55-anon/",
           "srcSha256": "v1:sha256:0924678a029541d86ca352fb1209404198e4048f69bf6d5b3e511824cd320fdf",
           "variantId": "2026-10-31-claudeopus55-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "c016d9989c3917860f77ff0c320e1ec14a253c702996e680750c32e874170038",
+              "sizeB": 7166
+            },
+            {
+              "path": "pack.json",
+              "sha256": "95328b8a674c277ce8546b9f0d195a34055ef00499ed7f397bcdfdd0c0dd361a",
+              "sizeB": 296
+            }
+          ],
+          "keysTarget": 29,
+          "keysTranslated": 26,
+          "model": "gpt-6.1-sol",
+          "path": "packs/KSPCommunityFixes/ko/variants/2026-11-12-gpt61sol-yoon0618/",
+          "srcSha256": "v1:sha256:0924678a029541d86ca352fb1209404198e4048f69bf6d5b3e511824cd320fdf",
+          "variantId": "2026-11-12-gpt61sol-yoon0618"
         }
       ]
     },
@@ -2113,6 +2153,26 @@
           "path": "packs/KerbalEngineerRedux/ko/variants/2026-10-31-claudeopus55-anon/",
           "srcSha256": "v1:sha256:c2ae151e967885a9add44276c3062c8649bf1512ffd5fb478c4029b3190e4ce2",
           "variantId": "2026-10-31-claudeopus55-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "7b3dadeb6f5f65c716adfbcc695e15237b33ef4b3890bf5db4b8143ce2a715c1",
+              "sizeB": 882
+            },
+            {
+              "path": "pack.json",
+              "sha256": "bc11c004ad62ce25537724dce4cdf5f92c1a4e10c1b8c81125101dfb5e76872d",
+              "sizeB": 296
+            }
+          ],
+          "keysTarget": 8,
+          "keysTranslated": 6,
+          "model": "gpt-6.1-sol",
+          "path": "packs/KerbalEngineerRedux/ko/variants/2026-11-12-gpt61sol-yoon0618/",
+          "srcSha256": "v1:sha256:c2ae151e967885a9add44276c3062c8649bf1512ffd5fb478c4029b3190e4ce2",
+          "variantId": "2026-11-12-gpt61sol-yoon0618"
         }
       ]
     },
@@ -2393,6 +2453,26 @@
           "path": "packs/MechJeb2/ko/variants/2026-10-31-claudeopus55-anon/",
           "srcSha256": "v1:sha256:b0c68f2afe1dd5253af8199a2ad08d5b06d7ac2674db05e6182e7bcf5450d74e",
           "variantId": "2026-10-31-claudeopus55-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "8f09350bcef0a23470e78e0e0d0bfb9473d19ef4221a949511cf3233485e9d9c",
+              "sizeB": 69519
+            },
+            {
+              "path": "pack.json",
+              "sha256": "5ad6a606980bb207c192a02a12293bdf8be89bd5e357e8812b2029d81be12507",
+              "sizeB": 291
+            }
+          ],
+          "keysTarget": 1188,
+          "keysTranslated": 1164,
+          "model": "gpt-6.1-sol",
+          "path": "packs/MechJeb2/ko/variants/2026-11-12-gpt61sol-yoon0618/",
+          "srcSha256": "v1:sha256:6b24678afd8989267179bc6f68e216cf0e3f5a93ecc0ddb9386a02ba282e76ba",
+          "variantId": "2026-11-12-gpt61sol-yoon0618"
         }
       ]
     },
@@ -2528,6 +2608,26 @@
           "path": "packs/NearFutureAeronautics/ko/variants/2026-10-31-claudeopus55-anon/",
           "srcSha256": "v1:sha256:29349d42561e663bf614ae398d56088330d9e3d2119a5dfcedcdc8982c222c75",
           "variantId": "2026-10-31-claudeopus55-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "5182a2287e7940a4e7630f613758f14896e2d783df19329f85b77ecbe9b12c70",
+              "sizeB": 16499
+            },
+            {
+              "path": "pack.json",
+              "sha256": "09cd0fdb01faf425e120ed090eff06b6ced407eefee2f0b2ff9fa9312ade6f8f",
+              "sizeB": 308
+            }
+          ],
+          "keysTarget": 119,
+          "keysTranslated": 119,
+          "model": "gemini-3.8-flash",
+          "path": "packs/NearFutureAeronautics/ko/variants/2026-11-12-gemini38flash-sudo/",
+          "srcSha256": "v1:sha256:29349d42561e663bf614ae398d56088330d9e3d2119a5dfcedcdc8982c222c75",
+          "variantId": "2026-11-12-gemini38flash-sudo"
         }
       ]
     },
@@ -2573,6 +2673,26 @@
           "path": "packs/NearFutureConstruction/ko/variants/2026-10-31-claudeopus55-anon/",
           "srcSha256": "v1:sha256:a7d70538f77dcdaa3089f0e83fbd686876e4d4345973fdb9b11f35766e43efcc",
           "variantId": "2026-10-31-claudeopus55-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "eddd0da1bfd10fc45f3a6a35ceff20ed1c7e4623bfd6a73a841dfdfa90e4bcf7",
+              "sizeB": 32019
+            },
+            {
+              "path": "pack.json",
+              "sha256": "34d826678ae1dadb68300a06c0d10995bd4df212b86753fa2112b6d8b91fa127",
+              "sizeB": 309
+            }
+          ],
+          "keysTarget": 292,
+          "keysTranslated": 292,
+          "model": "gemini-3.8-flash",
+          "path": "packs/NearFutureConstruction/ko/variants/2026-11-12-gemini38flash-sudo/",
+          "srcSha256": "v1:sha256:a7d70538f77dcdaa3089f0e83fbd686876e4d4345973fdb9b11f35766e43efcc",
+          "variantId": "2026-11-12-gemini38flash-sudo"
         }
       ]
     },
@@ -3338,6 +3458,26 @@
           "path": "packs/ReStock/ko/variants/2026-10-31-claudeopus55-anon/",
           "srcSha256": "v1:sha256:4fee6dd69efaa418418c15c151bdd7fe7a6581e6d7147f7466e7ede8e30ccb77",
           "variantId": "2026-10-31-claudeopus55-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "be12becc2f0ac89f71c35694ed8525eb1ddfdaacdf56feabe7463e803ace249f",
+              "sizeB": 8311
+            },
+            {
+              "path": "pack.json",
+              "sha256": "b08895f414af9da8fe67eb52e38d743133dc3366d0027eedfc452bc962e54618",
+              "sizeB": 288
+            }
+          ],
+          "keysTarget": 128,
+          "keysTranslated": 121,
+          "model": "gpt-6.1-sol",
+          "path": "packs/ReStock/ko/variants/2026-11-12-gpt61sol-yoon0618/",
+          "srcSha256": "v1:sha256:4fee6dd69efaa418418c15c151bdd7fe7a6581e6d7147f7466e7ede8e30ccb77",
+          "variantId": "2026-11-12-gpt61sol-yoon0618"
         }
       ]
     },
@@ -3658,6 +3798,26 @@
           "path": "packs/SpaceTuxLibrary/ko/variants/2026-10-31-claudeopus55-anon/",
           "srcSha256": "v1:sha256:170ca0ffd2e317e02cf646ec0e80e18ed51002ce207166ea8560538d5f33a7f9",
           "variantId": "2026-10-31-claudeopus55-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "f0e6b5d51b230e410673e443c9d8bceda5c0842c23802adea083477acf656d25",
+              "sizeB": 725
+            },
+            {
+              "path": "pack.json",
+              "sha256": "08dd338e7f8cbba4206274f9410b8dad73f622b6f57a45619681012d5ef5f6ce",
+              "sizeB": 294
+            }
+          ],
+          "keysTarget": 18,
+          "keysTranslated": 12,
+          "model": "gpt-6.1-sol",
+          "path": "packs/SpaceTuxLibrary/ko/variants/2026-11-12-gpt61sol-yoon0618/",
+          "srcSha256": "v1:sha256:170ca0ffd2e317e02cf646ec0e80e18ed51002ce207166ea8560538d5f33a7f9",
+          "variantId": "2026-11-12-gpt61sol-yoon0618"
         }
       ]
     },
@@ -3748,6 +3908,26 @@
           "path": "packs/StageRecovery/ko/variants/2026-10-31-claudeopus55-anon/",
           "srcSha256": "v1:sha256:451a8b5874cf6f88eb3c34442f21b66bc2ee5cf4b7c7232acbec5407868cbae7",
           "variantId": "2026-10-31-claudeopus55-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "e1b7277227c6520c946c09e7850b98bcb3a74a962ee0ba32ecc617c536168441",
+              "sizeB": 9387
+            },
+            {
+              "path": "pack.json",
+              "sha256": "e8125bbf0e58c963aab75eea02c34b220c2a4b33fdef51f050f089772a9f02b9",
+              "sizeB": 294
+            }
+          ],
+          "keysTarget": 124,
+          "keysTranslated": 123,
+          "model": "gpt-6.1-sol",
+          "path": "packs/StageRecovery/ko/variants/2026-11-12-gpt61sol-yoon0618/",
+          "srcSha256": "v1:sha256:451a8b5874cf6f88eb3c34442f21b66bc2ee5cf4b7c7232acbec5407868cbae7",
+          "variantId": "2026-11-12-gpt61sol-yoon0618"
         }
       ]
     },
@@ -4358,6 +4538,81 @@
           "path": "packs/VABOrganizer-SheepDog/ko/variants/2026-10-31-claudeopus55-anon/",
           "srcSha256": "v1:sha256:555abb26b41b74716b1c2f7cf93efd304a8f940cecf8c3fab7cdfcecfaf089d3",
           "variantId": "2026-10-31-claudeopus55-anon"
+        }
+      ]
+    },
+    {
+      "modId": "local.B9PartSwitch",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "15669e13c188d694da8d28ea4da9a99df84a683327606048a77544e89d81020b",
+              "sizeB": 1447
+            },
+            {
+              "path": "pack.json",
+              "sha256": "bbb9a63bae15a2909ce4890834256f51d2eecc6f0eb7091808ccf3c578d418c4",
+              "sizeB": 312
+            }
+          ],
+          "keysTarget": 18,
+          "keysTranslated": 18,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/local.B9PartSwitch/ko/variants/2026-11-12-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:ecd7c9c0a77d307565499d539e3a10b7df0793c4458c37c64146ca9a1dd6d5ab",
+          "variantId": "2026-11-12-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "local.DynamicBatteryStorage",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "f5952c6eb9941044c1c8a4a9cfe37376c34140d92d84068c005bd6f8c2468a02",
+              "sizeB": 8739
+            },
+            {
+              "path": "pack.json",
+              "sha256": "29cdae1e32571f1578b852cdd106afe7828bfe27e7d2dd1aee479211b9840424",
+              "sizeB": 323
+            }
+          ],
+          "keysTarget": 114,
+          "keysTranslated": 114,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/local.DynamicBatteryStorage/ko/variants/2026-11-12-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:af7c8a97c8be0dc929f68a6bc72410b57a9039be49937fcfcc1880079f89543e",
+          "variantId": "2026-11-12-gemini31flashlite-anon"
+        }
+      ]
+    },
+    {
+      "modId": "local.NearFutureSpacecraft",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "c10dea35502815be489bfc1520e6f3245e0c807298c8307ae4412147bfc08778",
+              "sizeB": 19867
+            },
+            {
+              "path": "pack.json",
+              "sha256": "0487dc59ad434805d26a81be27476ff0b667bfba28004e01d176fc1a6600bc41",
+              "sizeB": 322
+            }
+          ],
+          "keysTarget": 155,
+          "keysTranslated": 155,
+          "model": "gemini-3.1-flash-lite",
+          "path": "packs/local.NearFutureSpacecraft/ko/variants/2026-11-12-gemini31flashlite-anon/",
+          "srcSha256": "v1:sha256:7a61eb4e87a98d2da7f9e1a26ca20679477296c747e64e32f9e8f1bd0501a071",
+          "variantId": "2026-11-12-gemini31flashlite-anon"
         }
       ]
     }
