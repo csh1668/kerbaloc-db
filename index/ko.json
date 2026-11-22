@@ -243,6 +243,26 @@
           "path": "packs/B9PartSwitch/ko/variants/2026-10-31-claudeopus55-anon/",
           "srcSha256": "v1:sha256:ecd7c9c0a77d307565499d539e3a10b7df0793c4458c37c64146ca9a1dd6d5ab",
           "variantId": "2026-10-31-claudeopus55-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "96edc3063a2c6d7e01ed1bbb12815cf2cfe65bedcf5f8513625aac632b81015f",
+              "sizeB": 1445
+            },
+            {
+              "path": "pack.json",
+              "sha256": "6e1642e98164fb66588a39a0bc4c93612290910796447a425f54385bc6b6545b",
+              "sizeB": 292
+            }
+          ],
+          "keysTarget": 18,
+          "keysTranslated": 18,
+          "model": "gpt-6-astra",
+          "path": "packs/B9PartSwitch/ko/variants/2026-11-16-gpt6astra-yoon0618/",
+          "srcSha256": "v1:sha256:ecd7c9c0a77d307565499d539e3a10b7df0793c4458c37c64146ca9a1dd6d5ab",
+          "variantId": "2026-11-16-gpt6astra-yoon0618"
         }
       ]
     },
@@ -463,6 +483,26 @@
           "path": "packs/BreakingGround-DLC/ko/variants/2026-11-12-gpt61sol-yoon0618/",
           "srcSha256": "v1:sha256:dd5a05a88afb73bca0ba4b471295e2a4222c1d12c9c5b4dc5d132ea76c76763b",
           "variantId": "2026-11-12-gpt61sol-yoon0618"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "5d2f762c88702079437048cfac39e0d9e962cd57626dcf96e42adb4af5284f1a",
+              "sizeB": 72748
+            },
+            {
+              "path": "pack.json",
+              "sha256": "d5e9e08ec9102391bce0a903e4b69f8cc08114b7d5ab7c3f4315bf0e631283a3",
+              "sizeB": 300
+            }
+          ],
+          "keysTarget": 724,
+          "keysTranslated": 712,
+          "model": "gpt-6-astra",
+          "path": "packs/BreakingGround-DLC/ko/variants/2026-11-16-gpt6astra-yoon0618/",
+          "srcSha256": "v1:sha256:dd5a05a88afb73bca0ba4b471295e2a4222c1d12c9c5b4dc5d132ea76c76763b",
+          "variantId": "2026-11-16-gpt6astra-yoon0618"
         }
       ]
     },
@@ -978,6 +1018,26 @@
           "path": "packs/ContractConfigurator/ko/variants/2026-10-31-claudeopus55-anon/",
           "srcSha256": "v1:sha256:9ebc19af1b967261f012c4d988b56a6fc575d2add984cec77a19101c6077a6f4",
           "variantId": "2026-10-31-claudeopus55-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "ed06e0c7d55b1bca6c6c433a264e5858dde38905e083299900d309913e11ecc9",
+              "sizeB": 28868
+            },
+            {
+              "path": "pack.json",
+              "sha256": "381c77f59bdef068c4d5a6c34f6866dda0c731d975e89901f6301bb7b47a80d4",
+              "sizeB": 302
+            }
+          ],
+          "keysTarget": 400,
+          "keysTranslated": 384,
+          "model": "gpt-6-astra",
+          "path": "packs/ContractConfigurator/ko/variants/2026-11-16-gpt6astra-yoon0618/",
+          "srcSha256": "v1:sha256:9ebc19af1b967261f012c4d988b56a6fc575d2add984cec77a19101c6077a6f4",
+          "variantId": "2026-11-16-gpt6astra-yoon0618"
         }
       ]
     },
@@ -1413,6 +1473,26 @@
           "path": "packs/EditorExtensionsRedux/ko/variants/2026-10-31-claudeopus55-anon/",
           "srcSha256": "v1:sha256:fadfacce3c6794c9bf0f6473a7116f2b8c10f04c4904fc850b39e62466d6a936",
           "variantId": "2026-10-31-claudeopus55-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "2d2aa32846a6bf9990b906ef43189671170735872f6dae33e01f493831cb9769",
+              "sizeB": 6724
+            },
+            {
+              "path": "pack.json",
+              "sha256": "192dea5f82ba7975e6b49af2596c9a7347d49b077de849d70c2b394882eda2f0",
+              "sizeB": 303
+            }
+          ],
+          "keysTarget": 164,
+          "keysTranslated": 158,
+          "model": "gpt-6-astra",
+          "path": "packs/EditorExtensionsRedux/ko/variants/2026-11-16-gpt6astra-yoon0618/",
+          "srcSha256": "v1:sha256:fadfacce3c6794c9bf0f6473a7116f2b8c10f04c4904fc850b39e62466d6a936",
+          "variantId": "2026-11-16-gpt6astra-yoon0618"
         }
       ]
     },
@@ -1618,6 +1698,26 @@
           "path": "packs/FreeIva/ko/variants/2026-10-31-claudeopus55-anon/",
           "srcSha256": "v1:sha256:232e15fd7ab7e8b40656e25ad8da5c44b7b0edeccfdfa11843f57a59418be40f",
           "variantId": "2026-10-31-claudeopus55-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "ed0de43d6f975747adc9739236ede88d9abbefc737ceb08e3ee700187b2afbde",
+              "sizeB": 3700
+            },
+            {
+              "path": "pack.json",
+              "sha256": "bafc2bbfaf5d7e33f3bf1d8be0eaa3cc4ef1b2adb4cfe65fd09e6e137af4088c",
+              "sizeB": 287
+            }
+          ],
+          "keysTarget": 53,
+          "keysTranslated": 53,
+          "model": "gpt-6-astra",
+          "path": "packs/FreeIva/ko/variants/2026-11-16-gpt6astra-yoon0618/",
+          "srcSha256": "v1:sha256:232e15fd7ab7e8b40656e25ad8da5c44b7b0edeccfdfa11843f57a59418be40f",
+          "variantId": "2026-11-16-gpt6astra-yoon0618"
         }
       ]
     },
@@ -1863,6 +1963,26 @@
           "path": "packs/KSPCommunityFixes/ko/variants/2026-11-12-gpt61sol-yoon0618/",
           "srcSha256": "v1:sha256:0924678a029541d86ca352fb1209404198e4048f69bf6d5b3e511824cd320fdf",
           "variantId": "2026-11-12-gpt61sol-yoon0618"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "415ec6c6f29af617417369bdbe015d290dff450bfc165437a8564d734bcf8f98",
+              "sizeB": 7219
+            },
+            {
+              "path": "pack.json",
+              "sha256": "018eb365ac35f772853bfdff97a78af187b1d63d064f9dbcd57184ed3a9cd8dd",
+              "sizeB": 297
+            }
+          ],
+          "keysTarget": 29,
+          "keysTranslated": 26,
+          "model": "gpt-6-astra",
+          "path": "packs/KSPCommunityFixes/ko/variants/2026-11-16-gpt6astra-yoon0618/",
+          "srcSha256": "v1:sha256:0924678a029541d86ca352fb1209404198e4048f69bf6d5b3e511824cd320fdf",
+          "variantId": "2026-11-16-gpt6astra-yoon0618"
         }
       ]
     },
@@ -2173,6 +2293,26 @@
           "path": "packs/KerbalEngineerRedux/ko/variants/2026-11-12-gpt61sol-yoon0618/",
           "srcSha256": "v1:sha256:c2ae151e967885a9add44276c3062c8649bf1512ffd5fb478c4029b3190e4ce2",
           "variantId": "2026-11-12-gpt61sol-yoon0618"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "a3665fd319f3db5eafaf57475e67aa1a6d5bfd0c484e6021fadae8ef4af3b8a6",
+              "sizeB": 912
+            },
+            {
+              "path": "pack.json",
+              "sha256": "d844e01f4208c58e940a275ccd5989733af2fb1b1fc71d4657b689f48e711571",
+              "sizeB": 297
+            }
+          ],
+          "keysTarget": 8,
+          "keysTranslated": 6,
+          "model": "gpt-6-astra",
+          "path": "packs/KerbalEngineerRedux/ko/variants/2026-11-16-gpt6astra-yoon0618/",
+          "srcSha256": "v1:sha256:c2ae151e967885a9add44276c3062c8649bf1512ffd5fb478c4029b3190e4ce2",
+          "variantId": "2026-11-16-gpt6astra-yoon0618"
         }
       ]
     },
@@ -2473,6 +2613,26 @@
           "path": "packs/MechJeb2/ko/variants/2026-11-12-gpt61sol-yoon0618/",
           "srcSha256": "v1:sha256:6b24678afd8989267179bc6f68e216cf0e3f5a93ecc0ddb9386a02ba282e76ba",
           "variantId": "2026-11-12-gpt61sol-yoon0618"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "cd7d08b907f8f247324f05149f452cc526b2058b13e9c3029ceb47795ef71fb7",
+              "sizeB": 69317
+            },
+            {
+              "path": "pack.json",
+              "sha256": "63de2423a074cf8b2e93a4fe8b52f59f5d3810845550147cbb4869af3ae9bf50",
+              "sizeB": 292
+            }
+          ],
+          "keysTarget": 1187,
+          "keysTranslated": 1157,
+          "model": "gpt-6-astra",
+          "path": "packs/MechJeb2/ko/variants/2026-11-16-gpt6astra-yoon0618/",
+          "srcSha256": "v1:sha256:b0c68f2afe1dd5253af8199a2ad08d5b06d7ac2674db05e6182e7bcf5450d74e",
+          "variantId": "2026-11-16-gpt6astra-yoon0618"
         }
       ]
     },
@@ -3478,6 +3638,26 @@
           "path": "packs/ReStock/ko/variants/2026-11-12-gpt61sol-yoon0618/",
           "srcSha256": "v1:sha256:4fee6dd69efaa418418c15c151bdd7fe7a6581e6d7147f7466e7ede8e30ccb77",
           "variantId": "2026-11-12-gpt61sol-yoon0618"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "acff256828c25d940d4c4c5c1d8e1a1c653bf9265a672baabd736d0cf263e104",
+              "sizeB": 8435
+            },
+            {
+              "path": "pack.json",
+              "sha256": "eb598bd56e90b556d785cda0625398cef43d6787c48847feabf9d985d0d5c533",
+              "sizeB": 289
+            }
+          ],
+          "keysTarget": 128,
+          "keysTranslated": 121,
+          "model": "gpt-6-astra",
+          "path": "packs/ReStock/ko/variants/2026-11-16-gpt6astra-yoon0618/",
+          "srcSha256": "v1:sha256:4fee6dd69efaa418418c15c151bdd7fe7a6581e6d7147f7466e7ede8e30ccb77",
+          "variantId": "2026-11-16-gpt6astra-yoon0618"
         }
       ]
     },
@@ -3568,6 +3748,26 @@
           "path": "packs/SCANsat/ko/variants/2026-10-31-claudeopus55-anon/",
           "srcSha256": "v1:sha256:be87f533da274d07bc38dfbf72d112a13631421564d2766928e16a56b886bb14",
           "variantId": "2026-10-31-claudeopus55-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "2a96e0a0bb1ff7617f43e90faac077f8e7aa2c2bf003e206d41f4a0a764cd361",
+              "sizeB": 48954
+            },
+            {
+              "path": "pack.json",
+              "sha256": "85bcde29ef08f14bea4fde3f43ff5335f8b82810089513c297692b9a38158b18",
+              "sizeB": 289
+            }
+          ],
+          "keysTarget": 320,
+          "keysTranslated": 317,
+          "model": "gpt-6-astra",
+          "path": "packs/SCANsat/ko/variants/2026-11-16-gpt6astra-yoon0618/",
+          "srcSha256": "v1:sha256:be87f533da274d07bc38dfbf72d112a13631421564d2766928e16a56b886bb14",
+          "variantId": "2026-11-16-gpt6astra-yoon0618"
         }
       ]
     },
@@ -3818,6 +4018,26 @@
           "path": "packs/SpaceTuxLibrary/ko/variants/2026-11-12-gpt61sol-yoon0618/",
           "srcSha256": "v1:sha256:170ca0ffd2e317e02cf646ec0e80e18ed51002ce207166ea8560538d5f33a7f9",
           "variantId": "2026-11-12-gpt61sol-yoon0618"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "825bd147370537ce06e24e8c24e3a42fba82930971a128ecc3ea47f3aae21197",
+              "sizeB": 725
+            },
+            {
+              "path": "pack.json",
+              "sha256": "f211e485374cbe8abbcab6952c8c7c1a4ee09cb587222a2e0dfc5a284e4489b4",
+              "sizeB": 295
+            }
+          ],
+          "keysTarget": 18,
+          "keysTranslated": 12,
+          "model": "gpt-6-astra",
+          "path": "packs/SpaceTuxLibrary/ko/variants/2026-11-16-gpt6astra-yoon0618/",
+          "srcSha256": "v1:sha256:170ca0ffd2e317e02cf646ec0e80e18ed51002ce207166ea8560538d5f33a7f9",
+          "variantId": "2026-11-16-gpt6astra-yoon0618"
         }
       ]
     },
@@ -3928,6 +4148,26 @@
           "path": "packs/StageRecovery/ko/variants/2026-11-12-gpt61sol-yoon0618/",
           "srcSha256": "v1:sha256:451a8b5874cf6f88eb3c34442f21b66bc2ee5cf4b7c7232acbec5407868cbae7",
           "variantId": "2026-11-12-gpt61sol-yoon0618"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "30ab62dd8bf2e071090ba55bdb78f3c92278654db0854951d1a8568fec589bf2",
+              "sizeB": 9497
+            },
+            {
+              "path": "pack.json",
+              "sha256": "3c1542a28dbce1f1c6049c54123f1b4ca36d909045be08774dbb08f3eb548265",
+              "sizeB": 295
+            }
+          ],
+          "keysTarget": 124,
+          "keysTranslated": 123,
+          "model": "gpt-6-astra",
+          "path": "packs/StageRecovery/ko/variants/2026-11-16-gpt6astra-yoon0618/",
+          "srcSha256": "v1:sha256:451a8b5874cf6f88eb3c34442f21b66bc2ee5cf4b7c7232acbec5407868cbae7",
+          "variantId": "2026-11-16-gpt6astra-yoon0618"
         }
       ]
     },
@@ -4358,6 +4598,26 @@
           "path": "packs/Trajectories/ko/variants/2026-10-31-claudeopus55-anon/",
           "srcSha256": "v1:sha256:2d5b2fe7b5e848979ea52c3acf800d2b6d56918d9a1cdf8790839416fac6aa4b",
           "variantId": "2026-10-31-claudeopus55-anon"
+        },
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "5d8676fb90bed23cf73ab7b9e1d713378f25ae551b68ce97cc7f74c15bd607d9",
+              "sizeB": 4335
+            },
+            {
+              "path": "pack.json",
+              "sha256": "01dbd6ed8db7fd8835f9bbcd78fb36683b142422542c5f516ba1b52b6d1739e1",
+              "sizeB": 292
+            }
+          ],
+          "keysTarget": 58,
+          "keysTranslated": 55,
+          "model": "gpt-6-astra",
+          "path": "packs/Trajectories/ko/variants/2026-11-16-gpt6astra-yoon0618/",
+          "srcSha256": "v1:sha256:2d5b2fe7b5e848979ea52c3acf800d2b6d56918d9a1cdf8790839416fac6aa4b",
+          "variantId": "2026-11-16-gpt6astra-yoon0618"
         }
       ]
     },
