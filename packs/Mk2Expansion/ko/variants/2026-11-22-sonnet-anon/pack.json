@@ -1,0 +1,10 @@
+{
+  "keys_target": 324,
+  "keys_translated": 324,
+  "lang": "ko",
+  "mod_id": "Mk2Expansion",
+  "model": "sonnet",
+  "schema": "kerbaloc/pack@1",
+  "src_sha256": "v1:sha256:a3c9ea5f4576b6eccd738c9a1d42437014ef4f26db593d4193e1c13fdfa1cd45",
+  "variant_id": "2026-11-22-sonnet-anon"
+}
