@@ -2682,6 +2682,31 @@
       ]
     },
     {
+      "modId": "Mk2Expansion",
+      "variants": [
+        {
+          "files": [
+            {
+              "path": "Localization/ko.cfg",
+              "sha256": "89042420d56bf9a3e0098849a871421e2779da15e1a686c16d20ae7086b41fd9",
+              "sizeB": 44020
+            },
+            {
+              "path": "pack.json",
+              "sha256": "016f18134144bc2f435139b7cc968a1a2b48f8be85afb7f295f87b34c90d3d1b",
+              "sizeB": 282
+            }
+          ],
+          "keysTarget": 324,
+          "keysTranslated": 324,
+          "model": "sonnet",
+          "path": "packs/Mk2Expansion/ko/variants/2026-11-22-sonnet-anon/",
+          "srcSha256": "v1:sha256:a3c9ea5f4576b6eccd738c9a1d42437014ef4f26db593d4193e1c13fdfa1cd45",
+          "variantId": "2026-11-22-sonnet-anon"
+        }
+      ]
+    },
+    {
       "modId": "MoldaviteMachines",
       "variants": [
         {
